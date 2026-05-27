@@ -1,0 +1,273 @@
+:root {
+  --bg: #f4f6f8;
+  --surface: #ffffff;
+  --text: #1a2332;
+  --muted: #5c6b7a;
+  --accent: #1e5a8a;
+  --accent-hover: #164a72;
+  --border: #dde3ea;
+  --safe: #0d7a4a;
+  --safe-bg: #e8f5ee;
+  --match: #1e5a8a;
+  --match-bg: #e8f0f8;
+  --reach: #b45309;
+  --reach-bg: #fef3e2;
+  --shadow: 0 8px 24px rgba(26, 35, 50, 0.08);
+  --radius: 12px;
+  --font: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', system-ui, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  color: var(--text);
+  background: linear-gradient(160deg, #e8eef5 0%, var(--bg) 40%, #f8f9fb 100%);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.container {
+  width: min(920px, 92vw);
+  margin: 0 auto;
+}
+
+.site-header {
+  padding: 2.5rem 0 1.5rem;
+}
+
+.eyebrow {
+  margin: 0 0 0.5rem;
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.site-header h1 {
+  margin: 0;
+  font-size: clamp(1.75rem, 4vw, 2.25rem);
+  font-weight: 700;
+}
+
+.subtitle {
+  margin: 0.75rem 0 0;
+  color: var(--muted);
+  max-width: 52ch;
+}
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.panel h2 {
+  margin: 0 0 1rem;
+  font-size: 1.15rem;
+}
+
+.field {
+  margin-bottom: 1rem;
+}
+
+.field-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+@media (max-width: 600px) {
+  .field-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+label {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 0.65rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 1rem;
+  font-family: inherit;
+  background: #fff;
+}
+
+input:focus,
+select:focus {
+  outline: 2px solid rgba(30, 90, 138, 0.35);
+  border-color: var(--accent);
+}
+
+.btn-primary {
+  width: 100%;
+  margin-top: 0.5rem;
+  padding: 0.85rem 1rem;
+  border: none;
+  border-radius: 8px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.btn-primary:hover {
+  background: var(--accent-hover);
+}
+
+.meta {
+  margin: 1rem 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.empty {
+  text-align: center;
+  color: var(--muted);
+  padding: 2rem 1rem;
+}
+
+.results h2 {
+  margin: 0 0 0.5rem;
+}
+
+.disclaimer {
+  margin: 0 0 1.25rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.results-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.result-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem 1.35rem;
+  box-shadow: var(--shadow);
+  border-left: 4px solid var(--border);
+}
+
+.result-card.tier-safe {
+  border-left-color: var(--safe);
+  background: linear-gradient(90deg, var(--safe-bg), var(--surface) 30%);
+}
+
+.result-card.tier-match {
+  border-left-color: var(--match);
+  background: linear-gradient(90deg, var(--match-bg), var(--surface) 30%);
+}
+
+.result-card.tier-reach {
+  border-left-color: var(--reach);
+  background: linear-gradient(90deg, var(--reach-bg), var(--surface) 30%);
+}
+
+.card-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.rank {
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.tier-badge {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  background: var(--border);
+}
+
+.tier-safe .tier-badge {
+  background: #c6e9d6;
+  color: var(--safe);
+}
+
+.tier-match .tier-badge {
+  background: #c5d9eb;
+  color: var(--match);
+}
+
+.tier-reach .tier-badge {
+  background: #fde0b8;
+  color: var(--reach);
+}
+
+.quality {
+  margin-left: auto;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.result-card h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.result-card h3 .ja {
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: var(--muted);
+}
+
+.faculty {
+  margin: 0.25rem 0 0.75rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.reason {
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--text);
+}
+
+.card-footer {
+  margin-top: 1rem;
+}
+
+.card-footer a {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.card-footer a:hover {
+  text-decoration: underline;
+}
+
+.site-footer {
+  padding: 2rem 0 3rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+  text-align: center;
+}

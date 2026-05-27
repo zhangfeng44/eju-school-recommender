@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="根据 EJU 分数推荐适合报考的日本大学与学部（示例数据，仅供参考）"
+    />
+    <title>EJU 志愿推荐</title>
+    <link rel="stylesheet" href="./css/main.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <p class="eyebrow">自用工具 · MVP</p>
+        <h1>EJU 志愿推荐</h1>
+        <p class="subtitle">
+          输入您的 EJU 成绩，在分数可达范围内，综合学校声誉与就业率，推荐 3–5 个学部方向。
+        </p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="panel form-panel">
+        <h2>输入成绩</h2>
+        <form id="score-form">
+          <div class="field">
+            <label for="track">报考方向</label>
+            <select id="track" name="track" required>
+              <option value="science">理科（数学コース2 + 理科）</option>
+              <option value="humanities">文科（日本与世界）</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="japanese">日语（読解・聴解・聴読解，满分约 400）</label>
+            <input
+              id="japanese"
+              name="japanese"
+              type="number"
+              min="0"
+              max="450"
+              placeholder="例如 300"
+              required
+            />
+          </div>
+
+          <div id="math-course-field" class="field">
+            <label for="mathCourse">数学课程</label>
+            <select id="mathCourse" name="mathCourse">
+              <option value="2" selected>コース2（理科常用）</option>
+              <option value="1">コース1</option>
+            </select>
+          </div>
+
+          <div id="science-fields">
+            <div class="field-row">
+              <div class="field">
+                <label for="math">数学（满分 200）</label>
+                <input
+                  id="math"
+                  name="math"
+                  type="number"
+                  min="0"
+                  max="200"
+                  placeholder="例如 150"
+                />
+              </div>
+              <div class="field">
+                <label for="science">理科最高分（物/化/生，满分 200）</label>
+                <input
+                  id="science"
+                  name="science"
+                  type="number"
+                  min="0"
+                  max="200"
+                  placeholder="例如 130"
+                />
+              </div>
+            </div>
+          </div>
+
+          <div id="humanities-fields" hidden>
+            <div class="field">
+              <label for="japanWorld">日本与世界（满分 200）</label>
+              <input
+                id="japanWorld"
+                name="japanWorld"
+                type="number"
+                min="0"
+                max="200"
+                placeholder="例如 150"
+              />
+            </div>
+          </div>
+
+          <button type="submit" class="btn-primary">生成推荐</button>
+        </form>
+        <p id="data-meta" class="meta">正在加载学校数据…</p>
+      </section>
+
+      <section id="empty-state" class="empty" hidden>
+        填写分数后点击「生成推荐」查看结果。
+      </section>
+
+      <section id="results" class="results" hidden>
+        <h2>推荐结果</h2>
+        <p class="disclaimer">
+          以下为基于示例数据的算法推荐，不构成录取承诺。出愿前请务必对照各校最新募集要項。
+        </p>
+        <div id="results-list" class="results-list"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>
+          数据为演示用参考值，非官方门槛。后续可扩展全国学校库与爬虫更新。
+        </p>
+      </div>
+    </footer>
+
+    <script type="module" src="./js/app.js"></script>
+  </body>
+</html>
