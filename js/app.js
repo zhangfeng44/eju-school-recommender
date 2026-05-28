@@ -51,15 +51,44 @@ function parseForm(fd) {
   if (track === 'science') {
     user.mathCourse = Number(fd.get('mathCourse')) === 2 ? 2 : 1;
     const math = Number(fd.get('math'));
-    const science = Number(fd.get('science'));
     if (Number.isNaN(math) || math < 0 || math > 200) {
       throw new Error('请输入有效的数学分数（0–200）');
     }
-    if (Number.isNaN(science) || science < 0 || science > 200) {
-      throw new Error('请输入有效的理科分数（取最高一科，0–200）');
+
+    const parseOptional = (key) => {
+      const raw = fd.get(key);
+      if (raw == null) return null;
+      const s = String(raw).trim();
+      if (!s) return null;
+      const n = Number(s);
+      if (Number.isNaN(n)) return null;
+      return n;
+    };
+
+    const physics = parseOptional('physics');
+    const chemistry = parseOptional('chemistry');
+    const biology = parseOptional('biology');
+
+    const validateOpt = (name, v) => {
+      if (v == null) return;
+      if (Number.isNaN(v) || v < 0 || v > 100) {
+        throw new Error(`请输入有效的${name}分数（0–100）`);
+      }
+    };
+    validateOpt('物理', physics);
+    validateOpt('化学', chemistry);
+    validateOpt('生物', biology);
+
+    const candidates = [physics, chemistry, biology].filter((v) => v != null);
+    if (candidates.length === 0) {
+      throw new Error('请填写物理/化学/生物至少一项（0–100）');
     }
     user.math = math;
-    user.science = science;
+    user.physics = physics;
+    user.chemistry = chemistry;
+    user.biology = biology;
+    // 兼容旧数据：若某些项目仍用“science（取最高一科）”，可直接按最高科计算
+    user.science = Math.max(...candidates);
   } else {
     user.mathCourse = 1;
     const japanWorld = Number(fd.get('japanWorld'));

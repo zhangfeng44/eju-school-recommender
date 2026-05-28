@@ -1,0 +1,571 @@
+[
+  {
+    "tier": "T2",
+    "name": "东京科学大学",
+    "nameJa": "東京科学大学",
+    "notes": "2024年10月由东工大与东京医科齿科大学合并",
+    "id": "t2-01",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T2",
+    "name": "一桥大学",
+    "nameJa": "一橋大学",
+    "id": "t2-02",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T2",
+    "name": "大阪大学",
+    "nameJa": "大阪大学",
+    "id": "t2-03",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T2",
+    "name": "早稻田大学",
+    "nameJa": "早稲田大学",
+    "id": "t2-04",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T2",
+    "name": "庆应义塾大学",
+    "nameJa": "慶應義塾大学",
+    "id": "t2-05",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T3",
+    "name": "东北大学",
+    "nameJa": "東北大学",
+    "id": "t3-06",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T3",
+    "name": "名古屋大学",
+    "nameJa": "名古屋大学",
+    "id": "t3-07",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T3",
+    "name": "九州大学",
+    "nameJa": "九州大学",
+    "id": "t3-08",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T3",
+    "name": "北海道大学",
+    "nameJa": "北海道大学",
+    "id": "t3-09",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T3",
+    "name": "神户大学",
+    "nameJa": "神戸大学",
+    "id": "t3-10",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T3",
+    "name": "上智大学",
+    "nameJa": "上智大学",
+    "id": "t3-11",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T3",
+    "name": "国际基督教大学",
+    "nameJa": "国際基督教大学",
+    "abbr": "ICU",
+    "id": "t3-12",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T4",
+    "name": "筑波大学",
+    "nameJa": "筑波大学",
+    "id": "t4-13",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T4",
+    "name": "横滨国立大学",
+    "nameJa": "横浜国立大学",
+    "id": "t4-14",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T4",
+    "name": "千叶大学",
+    "nameJa": "千葉大学",
+    "id": "t4-15",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T4",
+    "name": "东京理科大学",
+    "nameJa": "東京理科大学",
+    "id": "t4-16",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T4",
+    "name": "明治大学",
+    "nameJa": "明治大学",
+    "id": "t4-17",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T5",
+    "name": "电气通信大学",
+    "nameJa": "電気通信大学",
+    "id": "t5-18",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T5",
+    "name": "东京农工大学",
+    "nameJa": "東京農工大学",
+    "id": "t5-19",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T5",
+    "name": "名古屋工业大学",
+    "nameJa": "名古屋工業大学",
+    "id": "t5-20",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T5",
+    "name": "京都工艺纤维大学",
+    "nameJa": "京都工芸繊維大学",
+    "id": "t5-21",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T5",
+    "name": "广岛大学",
+    "nameJa": "広島大学",
+    "id": "t5-22",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T5",
+    "name": "冈山大学",
+    "nameJa": "岡山大学",
+    "id": "t5-23",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T5",
+    "name": "金泽大学",
+    "nameJa": "金沢大学",
+    "id": "t5-24",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T5",
+    "name": "青山学院大学",
+    "nameJa": "青山学院大学",
+    "id": "t5-25",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T5",
+    "name": "立教大学",
+    "nameJa": "立教大学",
+    "id": "t5-26",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T5",
+    "name": "中央大学",
+    "nameJa": "中央大学",
+    "id": "t5-27",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T5",
+    "name": "法政大学",
+    "nameJa": "法政大学",
+    "id": "t5-28",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T5",
+    "name": "同志社大学",
+    "nameJa": "同志社大学",
+    "id": "t5-29",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T5",
+    "name": "立命馆大学",
+    "nameJa": "立命館大学",
+    "id": "t5-30",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T6",
+    "name": "埼玉大学",
+    "nameJa": "埼玉大学",
+    "id": "t6-31",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T6",
+    "name": "静冈大学",
+    "nameJa": "静岡大学",
+    "id": "t6-32",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T6",
+    "name": "新潟大学",
+    "nameJa": "新潟大学",
+    "id": "t6-33",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T6",
+    "name": "信州大学",
+    "nameJa": "信州大学",
+    "id": "t6-34",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T6",
+    "name": "熊本大学",
+    "nameJa": "熊本大学",
+    "id": "t6-35",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T6",
+    "name": "九州工业大学",
+    "nameJa": "九州工業大学",
+    "id": "t6-36",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T6",
+    "name": "芝浦工业大学",
+    "nameJa": "芝浦工業大学",
+    "id": "t6-37",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T6",
+    "name": "学习院大学",
+    "nameJa": "学習院大学",
+    "id": "t6-38",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T6",
+    "name": "关西大学",
+    "nameJa": "関西大学",
+    "id": "t6-39",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T6",
+    "name": "关西学院大学",
+    "nameJa": "関西学院大学",
+    "id": "t6-40",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T7",
+    "name": "宇都宫大学",
+    "nameJa": "宇都宮大学",
+    "id": "t7-41",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T7",
+    "name": "茨城大学",
+    "nameJa": "茨城大学",
+    "id": "t7-42",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T7",
+    "name": "岐阜大学",
+    "nameJa": "岐阜大学",
+    "id": "t7-43",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T7",
+    "name": "三重大学",
+    "nameJa": "三重大学",
+    "id": "t7-44",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T7",
+    "name": "山形大学",
+    "nameJa": "山形大学",
+    "id": "t7-45",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T7",
+    "name": "前桥工科大学",
+    "nameJa": "前橋工科大学",
+    "id": "t7-46",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T7",
+    "name": "东京电机大学",
+    "nameJa": "東京電機大学",
+    "id": "t7-47",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T7",
+    "name": "工学院大学",
+    "nameJa": "工学院大学",
+    "id": "t7-48",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T7",
+    "name": "东京都市大学",
+    "nameJa": "東京都市大学",
+    "id": "t7-49",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T7",
+    "name": "成城大学",
+    "nameJa": "成城大学",
+    "id": "t7-50",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T7",
+    "name": "南山大学",
+    "nameJa": "南山大学",
+    "id": "t7-51",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T7",
+    "name": "丰田工业大学",
+    "nameJa": "豊田工業大学",
+    "id": "t7-52",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T8",
+    "name": "琉球大学",
+    "nameJa": "琉球大学",
+    "id": "t8-53",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T8",
+    "name": "北见工业大学",
+    "nameJa": "北見工業大学",
+    "id": "t8-54",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T8",
+    "name": "室兰工业大学",
+    "nameJa": "室蘭工業大学",
+    "id": "t8-55",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T8",
+    "name": "日本大学",
+    "nameJa": "日本大学",
+    "id": "t8-56",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T8",
+    "name": "东洋大学",
+    "nameJa": "東洋大学",
+    "id": "t8-57",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T8",
+    "name": "驹泽大学",
+    "nameJa": "駒澤大学",
+    "id": "t8-58",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T8",
+    "name": "专修大学",
+    "nameJa": "専修大学",
+    "id": "t8-59",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T8",
+    "name": "京都产业大学",
+    "nameJa": "京都産業大学",
+    "id": "t8-60",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T8",
+    "name": "近畿大学",
+    "nameJa": "近畿大学",
+    "id": "t8-61",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T8",
+    "name": "甲南大学",
+    "nameJa": "甲南大学",
+    "id": "t8-62",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  },
+  {
+    "tier": "T8",
+    "name": "龙谷大学",
+    "nameJa": "龍谷大学",
+    "id": "t8-63",
+    "domain": null,
+    "admissionUrl": null,
+    "crawlStatus": "pending"
+  }
+]

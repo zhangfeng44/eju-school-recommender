@@ -1,0 +1,46 @@
+name: Crawl school admission pages
+
+on:
+  schedule:
+    # 每月 1 日 03:00 UTC（北京时间 11:00）
+    - cron: "0 3 1 * *"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "最多扫描学校数量（留空=全部）"
+        required: false
+        default: "10"
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run discovery crawler
+        run: |
+          LIMIT="${{ github.event.inputs.limit }}"
+          if [ -n "$LIMIT" ]; then
+            python3 scripts/crawl/discover.py "$LIMIT"
+          else
+            python3 scripts/crawl/discover.py
+          fi
+
+      - name: Commit crawl results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/crawl_results/
+          if git diff --staged --quiet; then
+            echo "No crawl changes"
+          else
+            git commit -m "chore: update admission page discovery results"
+            git push
+          fi

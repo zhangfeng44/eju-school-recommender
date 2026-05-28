@@ -1,0 +1,668 @@
+[
+  {
+    "id": "t2-01",
+    "tier": "T2",
+    "name": "东京科学大学",
+    "nameJa": "東京科学大学",
+    "domain": "https://www.isct.ac.jp/",
+    "checkedAt": "2026-05-28T02:46:18.338589+00:00",
+    "status": "ok",
+    "topLinks": [
+      {
+        "url": "https://admissions.isct.ac.jp/en",
+        "text": "Prospective students",
+        "score": 3
+      },
+      {
+        "url": "https://www.isct.ac.jp/en/news/2mmt0ht909gr",
+        "text": "Science Tokyo — University for International Research Excellence April 7, 2026 News About Science Tokyo Education Research Giving to Science Tokyo",
+        "score": 3
+      },
+      {
+        "url": "https://www.isct.ac.jp/en/news/h9corfju0wdi",
+        "text": "Air Pollution Research Center established through international joint research led by Nobutoshi Nawa selected as co-chair of DPCC Air Quality WG in Kyrgyz Republic May 25, 2026 News Research Co-creating with society",
+        "score": 3
+      }
+    ],
+    "candidatePages": [
+      {
+        "url": "https://admissions.isct.ac.jp/en",
+        "text": "Prospective students",
+        "linkScore": 3,
+        "textScore": 4,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.isct.ac.jp/en/news/2mmt0ht909gr",
+        "text": "Science Tokyo — University for International Research Excellence April 7, 2026 News About Science Tokyo Education Research Giving to Science Tokyo",
+        "linkScore": 3,
+        "textScore": 4,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.isct.ac.jp/en/news/h9corfju0wdi",
+        "text": "Air Pollution Research Center established through international joint research led by Nobutoshi Nawa selected as co-chair of DPCC Air Quality WG in Kyrgyz Republic May 25, 2026 News Research Co-creating with society",
+        "linkScore": 3,
+        "textScore": 4,
+        "isPdf": false
+      }
+    ],
+    "errors": []
+  },
+  {
+    "id": "t2-02",
+    "tier": "T2",
+    "name": "一桥大学",
+    "nameJa": "一橋大学",
+    "domain": "https://www.hit-u.ac.jp/",
+    "checkedAt": "2026-05-28T02:46:31.876750+00:00",
+    "status": "ok",
+    "topLinks": [
+      {
+        "url": "http://international.hit-u.ac.jp/index.html",
+        "text": "留学生・留学希望の方へ",
+        "score": 6
+      },
+      {
+        "url": "https://international.hit-u.ac.jp/",
+        "text": "国際教育交流センター",
+        "score": 3
+      }
+    ],
+    "candidatePages": [
+      {
+        "url": "http://international.hit-u.ac.jp/index.html",
+        "text": "留学生・留学希望の方へ",
+        "linkScore": 6,
+        "textScore": 9,
+        "isPdf": false
+      },
+      {
+        "url": "https://international.hit-u.ac.jp/",
+        "text": "国際教育交流センター",
+        "linkScore": 3,
+        "textScore": 9,
+        "isPdf": false
+      }
+    ],
+    "errors": []
+  },
+  {
+    "id": "t2-03",
+    "tier": "T2",
+    "name": "大阪大学",
+    "nameJa": "大阪大学",
+    "domain": "https://www.osaka-u.ac.jp/",
+    "checkedAt": "2026-05-28T02:46:52.212486+00:00",
+    "status": "ok",
+    "topLinks": [
+      {
+        "url": "https://www.osaka-u.ac.jp/ja/admissions",
+        "text": "入学情報",
+        "score": 6
+      },
+      {
+        "url": "https://www.osaka-u.ac.jp/ja/international",
+        "text": "国際交流・留学",
+        "score": 3
+      }
+    ],
+    "candidatePages": [
+      {
+        "url": "https://www.osaka-u.ac.jp/ja/admissions",
+        "text": "入学情報",
+        "linkScore": 6,
+        "textScore": 11,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.osaka-u.ac.jp/ja/international",
+        "text": "国際交流・留学",
+        "linkScore": 3,
+        "textScore": 8,
+        "isPdf": false
+      }
+    ],
+    "errors": []
+  },
+  {
+    "id": "t2-04",
+    "tier": "T2",
+    "name": "早稻田大学",
+    "nameJa": "早稲田大学",
+    "domain": "https://www.waseda.jp/",
+    "checkedAt": "2026-05-28T02:47:03.510651+00:00",
+    "status": "ok",
+    "topLinks": [
+      {
+        "url": "https://www.waseda.jp/inst/admission/news/2025/10/29/17601/",
+        "text": "【一般選抜・共テ利用】入試要項公開 &#9570;",
+        "score": 9
+      },
+      {
+        "url": "https://www.waseda.jp/top/admissions",
+        "text": "Admissions 入試情報 More&#63341;",
+        "score": 6
+      },
+      {
+        "url": "http://www.waseda.jp/inst/admission/",
+        "text": "Applicants受験生&#9570;",
+        "score": 3
+      },
+      {
+        "url": "https://www.waseda.jp/top/about/disclosure/entrance-fee",
+        "text": "入学金や授業料など納付金",
+        "score": 3
+      },
+      {
+        "url": "https://www.waseda.jp/top/about/disclosure/international",
+        "text": "国際化に関する情報",
+        "score": 3
+      },
+      {
+        "url": "https://www.waseda.jp/culture/wihl/",
+        "text": "The Waseda International House of Literature 国際文学館（村上春樹ライブラリー） &#9570;",
+        "score": 3
+      },
+      {
+        "url": "https://www.waseda.jp/top/about/activities/j-award/application",
+        "text": "",
+        "score": 3
+      },
+      {
+        "url": "https://www.waseda.jp/top/news/117143",
+        "text": "2026/01/30 入試に伴う構内立入禁止期間について",
+        "score": 3
+      }
+    ],
+    "candidatePages": [
+      {
+        "url": "https://www.waseda.jp/top/about/disclosure/international",
+        "text": "国際化に関する情報",
+        "linkScore": 3,
+        "textScore": 8,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.waseda.jp/top/about/activities/j-award/application",
+        "text": "",
+        "linkScore": 3,
+        "textScore": 8,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.waseda.jp/top/admissions",
+        "text": "Admissions 入試情報 More&#63341;",
+        "linkScore": 6,
+        "textScore": 7,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.waseda.jp/inst/admission/news/2025/10/29/17601/",
+        "text": "【一般選抜・共テ利用】入試要項公開 &#9570;",
+        "linkScore": 9,
+        "textScore": 6,
+        "isPdf": false
+      },
+      {
+        "url": "http://www.waseda.jp/inst/admission/",
+        "text": "Applicants受験生&#9570;",
+        "linkScore": 3,
+        "textScore": 6,
+        "isPdf": false
+      }
+    ],
+    "errors": []
+  },
+  {
+    "id": "t2-05",
+    "tier": "T2",
+    "name": "庆应义塾大学",
+    "nameJa": "慶應義塾大学",
+    "domain": "https://www.keio.ac.jp/",
+    "checkedAt": "2026-05-28T02:47:32.012527+00:00",
+    "status": "ok",
+    "topLinks": [
+      {
+        "url": "https://www.keio.ac.jp/ja/admissions/international-student/",
+        "text": "留学生向け入学案内",
+        "score": 12
+      },
+      {
+        "url": "https://www.keio.ac.jp/ja/admissions/",
+        "text": "入学案内",
+        "score": 6
+      },
+      {
+        "url": "https://www.keio.ac.jp/ja/admissions/faculty/",
+        "text": "学部入学案内",
+        "score": 6
+      },
+      {
+        "url": "https://www.keio.ac.jp/ja/admissions/grad/",
+        "text": "大学院入学案内",
+        "score": 6
+      },
+      {
+        "url": "https://www.keio.ac.jp/ja/admissions/fee/",
+        "text": "学費",
+        "score": 3
+      },
+      {
+        "url": "https://www.keio.ac.jp/ja/admissions/scholarship/",
+        "text": "奨学金",
+        "score": 3
+      },
+      {
+        "url": "https://www.keio.ac.jp/ja/admissions/housing/",
+        "text": "学生寮",
+        "score": 3
+      },
+      {
+        "url": "https://www.keio.ac.jp/ja/education/international/",
+        "text": "留学・国際プログラム",
+        "score": 3
+      },
+      {
+        "url": "https://www.keio.ac.jp/ja/news/20260521-oist/",
+        "text": "2026.05.21J-PEAKS連携大学の沖縄科学技術大学院大学とのコラボレーション・ワークショップ OIST-Keio Showcase Talk Series Vol.11 “Resonance Matters - Micro-Optical Resonators for Quantum, Bio, and Energy Applications”開催",
+        "score": 3
+      },
+      {
+        "url": "https://www.keio.ac.jp/ja/sfc-pem/news/20260515ao/",
+        "text": "2026.05.15総合政策学部および環境情報学部 「高等専門学校卒業者対象 第3学年編入学試験」 新設について（2027年入学試験実施／2028年４月入学）",
+        "score": 3
+      },
+      {
+        "url": "https://www.keio.ac.jp/ja/admissions/faculty/event/20260607-01/",
+        "text": "2026.06.07日オープンキャンパス2026～講義編～※事前申込制日吉キャンパス",
+        "score": 3
+      }
+    ],
+    "candidatePages": [
+      {
+        "url": "https://www.keio.ac.jp/ja/admissions/grad/",
+        "text": "大学院入学案内",
+        "linkScore": 6,
+        "textScore": 13,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.keio.ac.jp/ja/admissions/faculty/",
+        "text": "学部入学案内",
+        "linkScore": 6,
+        "textScore": 12,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.keio.ac.jp/ja/admissions/housing/",
+        "text": "学生寮",
+        "linkScore": 3,
+        "textScore": 11,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.keio.ac.jp/ja/admissions/",
+        "text": "入学案内",
+        "linkScore": 6,
+        "textScore": 10,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.keio.ac.jp/ja/admissions/scholarship/",
+        "text": "奨学金",
+        "linkScore": 3,
+        "textScore": 10,
+        "isPdf": false
+      }
+    ],
+    "errors": []
+  },
+  {
+    "id": "t3-06",
+    "tier": "T3",
+    "name": "东北大学",
+    "nameJa": "東北大学",
+    "domain": "https://www.tohoku.ac.jp/",
+    "checkedAt": "2026-05-28T02:47:57.174982+00:00",
+    "status": "ok",
+    "topLinks": [
+      {
+        "url": "https://www.tohoku.ac.jp/en/admissions/index.html",
+        "text": "Admissions",
+        "score": 3
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/admissions/admission_undergraduate.html",
+        "text": "Undergraduate Admissions",
+        "score": 3
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/admissions/admission_graduate.html",
+        "text": "Graduate Admissions",
+        "score": 3
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/admissions/tuition_fees.html",
+        "text": "Fees and Expenses",
+        "score": 3
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/admissions/financial_aid.html",
+        "text": "Financial Aid",
+        "score": 3
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/research/international_visitor_research_center.html",
+        "text": "Visitor Research Center",
+        "score": 3
+      },
+      {
+        "url": "http://sup.bureau.tohoku.ac.jp/index_en.html",
+        "text": "International Support Center",
+        "score": 3
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/news/international_visit/index.html",
+        "text": "International Visit",
+        "score": 3
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/international_affairs/index.html",
+        "text": "International Affairs",
+        "score": 3
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/admissions/tutition_fees.html",
+        "text": "Fees and Expenses",
+        "score": 3
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/news/university_news/urex1_forum_2026_explore_your_unknown.html",
+        "text": "University for International Research Excellence (UREX1) Forum 2026 －Explore Your Unknown Tohoku University held an event featuring our promising researchers and other guests to discuss our present – and future – as the first University for International Research Excellence.",
+        "score": 3
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/news/university_news/sparrow_dance_team_prepares_for_aoba_matsuri_2026.html",
+        "text": "The Tohoku University Sparrow Dance Team Prepares for Aoba Matsuri 2026 Cheer on the Tohoku University Sparrow Dance Team and look out for the float pulled by some 30 international students at the Yamaboko Parade.",
+        "score": 3
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/news/university_news/information_session_for_new_international_researchers_2026.html",
+        "text": "Orientation and Information Session for New International Researchers The session introduced newly arrived international researchers to Tohoku University's extensive support resources and offered practical tips on living in Sendai.",
+        "score": 3
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/events/special_event/alumni_network_information_lunch_for_international_students.html",
+        "text": "6.26 Fri Alumni Network Information Lunch for International Students Special Event",
+        "score": 3
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/news/careers/recruitment_notice_administrative_staff_international_support_center.html",
+        "text": "Recruitment Notice: Administrative Staff (International Support Center)",
+        "score": 3
+      }
+    ],
+    "candidatePages": [
+      {
+        "url": "https://www.tohoku.ac.jp/en/admissions/admission_undergraduate.html",
+        "text": "Undergraduate Admissions",
+        "linkScore": 3,
+        "textScore": 5,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/admissions/index.html",
+        "text": "Admissions",
+        "linkScore": 3,
+        "textScore": 4,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/admissions/admission_graduate.html",
+        "text": "Graduate Admissions",
+        "linkScore": 3,
+        "textScore": 4,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/admissions/tuition_fees.html",
+        "text": "Fees and Expenses",
+        "linkScore": 3,
+        "textScore": 4,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.tohoku.ac.jp/en/admissions/financial_aid.html",
+        "text": "Financial Aid",
+        "linkScore": 3,
+        "textScore": 4,
+        "isPdf": false
+      }
+    ],
+    "errors": []
+  },
+  {
+    "id": "t3-07",
+    "tier": "T3",
+    "name": "名古屋大学",
+    "nameJa": "名古屋大学",
+    "domain": "https://www.nagoya-u.ac.jp/",
+    "checkedAt": "2026-05-28T02:48:28.127984+00:00",
+    "status": "ok",
+    "topLinks": [
+      {
+        "url": "https://www.nagoya-u.ac.jp/admissions/",
+        "text": "入学案内",
+        "score": 6
+      },
+      {
+        "url": "https://www.nagoya-u.ac.jp/international/index.html",
+        "text": "国際展開・留学",
+        "score": 3
+      },
+      {
+        "url": "https://www.nagoya-u.ac.jp/social/name/index.html",
+        "text": "ネーミングライツ（命名権）事業募集について",
+        "score": 3
+      },
+      {
+        "url": "https://www.nagoya-u.ac.jp/international/iech/index.html",
+        "text": "国際展開について",
+        "score": 3
+      },
+      {
+        "url": "https://www.nagoya-u.ac.jp/international/study_abroad/index.html",
+        "text": "留学について",
+        "score": 3
+      },
+      {
+        "url": "https://admissions.g30.nagoya-u.ac.jp/jp/",
+        "text": "グローバル30国際プログラム",
+        "score": 3
+      },
+      {
+        "url": "https://www.nagoya-u.ac.jp/international/iech/iech/index.html",
+        "text": "詳細はこちら",
+        "score": 3
+      },
+      {
+        "url": "https://www.nagoya-u.ac.jp/international/iech/courtesy_call/index.html",
+        "text": "詳細はこちら",
+        "score": 3
+      },
+      {
+        "url": "https://www.nagoya-u.ac.jp/international/study_abroad/overseas/index.html",
+        "text": "詳細はこちら",
+        "score": 3
+      },
+      {
+        "url": "https://www.nagoya-u.ac.jp/admissions/voice/index.html",
+        "text": "",
+        "score": 3
+      }
+    ],
+    "candidatePages": [
+      {
+        "url": "https://www.nagoya-u.ac.jp/international/iech/courtesy_call/index.html",
+        "text": "詳細はこちら",
+        "linkScore": 3,
+        "textScore": 11,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.nagoya-u.ac.jp/admissions/",
+        "text": "入学案内",
+        "linkScore": 6,
+        "textScore": 8,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.nagoya-u.ac.jp/international/iech/index.html",
+        "text": "国際展開について",
+        "linkScore": 3,
+        "textScore": 6,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.nagoya-u.ac.jp/international/iech/iech/index.html",
+        "text": "詳細はこちら",
+        "linkScore": 3,
+        "textScore": 6,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.nagoya-u.ac.jp/international/index.html",
+        "text": "国際展開・留学",
+        "linkScore": 3,
+        "textScore": 5,
+        "isPdf": false
+      }
+    ],
+    "errors": []
+  },
+  {
+    "id": "t3-08",
+    "tier": "T3",
+    "name": "九州大学",
+    "nameJa": "九州大学",
+    "domain": "https://www.kyushu-u.ac.jp/",
+    "checkedAt": "2026-05-28T02:48:55.385744+00:00",
+    "status": "ok",
+    "topLinks": [
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty/foreign",
+        "text": "私費外国人留学生入試",
+        "score": 15
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty/selection",
+        "text": "大学案内・入学者選抜概要・募集要項",
+        "score": 12
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission",
+        "text": "入試・入学",
+        "score": 9
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty/international",
+        "text": "国際入試",
+        "score": 9
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/entrance/requirements",
+        "text": "募集要項",
+        "score": 9
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty/",
+        "text": "学部入試",
+        "score": 6
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/entrance/",
+        "text": "大学院入試",
+        "score": 6
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/fees/",
+        "text": "入学料・授業料・奨学金",
+        "score": 6
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/exemption/",
+        "text": "入学検定料の免除",
+        "score": 6
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admissions",
+        "text": "入試情報",
+        "score": 6
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admissions/search?category=2",
+        "text": "入学者選抜方法の変更について",
+        "score": 6
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty",
+        "text": "学部入試",
+        "score": 6
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty/internet",
+        "text": "インターネット出願",
+        "score": 6
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty/member",
+        "text": "募集人員",
+        "score": 6
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty/incorporation",
+        "text": "３年次編入学試験",
+        "score": 6
+      }
+    ],
+    "candidatePages": [
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/entrance/requirements",
+        "text": "募集要項",
+        "linkScore": 9,
+        "textScore": 14,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty/foreign",
+        "text": "私費外国人留学生入試",
+        "linkScore": 15,
+        "textScore": 13,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty/selection",
+        "text": "大学案内・入学者選抜概要・募集要項",
+        "linkScore": 12,
+        "textScore": 13,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission",
+        "text": "入試・入学",
+        "linkScore": 9,
+        "textScore": 13,
+        "isPdf": false
+      },
+      {
+        "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty/international",
+        "text": "国際入試",
+        "linkScore": 9,
+        "textScore": 13,
+        "isPdf": false
+      }
+    ],
+    "errors": []
+  }
+]
