@@ -8,7 +8,7 @@
     "domain": "https://www.isct.ac.jp/",
     "admissionUrl": "https://admissions.isct.ac.jp/en",
     "crawlStatus": "links_only",
-    "lastCrawledAt": "2026-05-28T03:12:24.452656+00:00"
+    "lastCrawledAt": "2026-05-28T03:14:20.660585+00:00"
   },
   {
     "tier": "T2",
@@ -18,7 +18,7 @@
     "domain": "https://www.hit-u.ac.jp/",
     "admissionUrl": "http://international.hit-u.ac.jp/index.html",
     "crawlStatus": "links_only",
-    "lastCrawledAt": "2026-05-28T03:12:43.001867+00:00"
+    "lastCrawledAt": "2026-05-28T03:15:03.390315+00:00"
   },
   {
     "tier": "T2",
@@ -28,79 +28,87 @@
     "domain": "https://www.osaka-u.ac.jp/",
     "admissionUrl": "https://www.osaka-u.ac.jp/ja/admissions",
     "crawlStatus": "links_only",
-    "lastCrawledAt": "2026-05-28T03:13:11.066340+00:00"
+    "lastCrawledAt": "2026-05-28T03:15:28.854878+00:00"
   },
   {
     "tier": "T2",
     "name": "早稻田大学",
     "nameJa": "早稲田大学",
     "id": "t2-04",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.waseda.jp/",
+    "admissionUrl": "https://www.waseda.jp/top/about/disclosure/international",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:15:43.316941+00:00"
   },
   {
     "tier": "T2",
     "name": "庆应义塾大学",
     "nameJa": "慶應義塾大学",
     "id": "t2-05",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.keio.ac.jp/",
+    "admissionUrl": "https://www.keio.ac.jp/ja/admissions/grad/",
+    "crawlStatus": "extracted",
+    "lastCrawledAt": "2026-05-28T03:16:46.110737+00:00"
   },
   {
     "tier": "T3",
     "name": "东北大学",
     "nameJa": "東北大学",
     "id": "t3-06",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.tohoku.ac.jp/",
+    "admissionUrl": "https://www.tohoku.ac.jp/en/admissions/admission_undergraduate.html",
+    "crawlStatus": "extracted",
+    "lastCrawledAt": "2026-05-28T03:17:42.032587+00:00"
   },
   {
     "tier": "T3",
     "name": "名古屋大学",
     "nameJa": "名古屋大学",
     "id": "t3-07",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.nagoya-u.ac.jp/",
+    "admissionUrl": "https://www.nagoya-u.ac.jp/international/iech/courtesy_call/index.html",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:18:13.715192+00:00"
   },
   {
     "tier": "T3",
     "name": "九州大学",
     "nameJa": "九州大学",
     "id": "t3-08",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.kyushu-u.ac.jp/",
+    "admissionUrl": "https://www.kyushu-u.ac.jp/ja/admission/entrance/requirements",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:18:44.981080+00:00"
   },
   {
     "tier": "T3",
     "name": "北海道大学",
     "nameJa": "北海道大学",
     "id": "t3-09",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.hokudai.ac.jp/",
+    "admissionUrl": "https://www.hokudai.ac.jp/admission/admission-info/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:19:37.527013+00:00"
   },
   {
     "tier": "T3",
     "name": "神户大学",
     "nameJa": "神戸大学",
     "id": "t3-10",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.kobe-u.ac.jp/",
+    "admissionUrl": "https://www.kobe-u.ac.jp/sites/default/files/doc-section/2025-06/researchers_handbook_202505.pdf",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:21:00.010279+00:00"
   },
   {
     "tier": "T3",
     "name": "上智大学",
     "nameJa": "上智大学",
     "id": "t3-11",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.sophia.ac.jp/",
+    "admissionUrl": "https://www.sophia.ac.jp/jpn/admissions-and-aid/kenkyusei/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:21:35.443050+00:00"
   },
   {
     "tier": "T3",
@@ -108,467 +116,519 @@
     "nameJa": "国際基督教大学",
     "abbr": "ICU",
     "id": "t3-12",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.icu.ac.jp/",
+    "admissionUrl": "https://www.icu.ac.jp/admissions/undergraduate/exam/eju/",
+    "crawlStatus": "extracted",
+    "lastCrawledAt": "2026-05-28T03:23:14.232642+00:00"
   },
   {
     "tier": "T4",
     "name": "筑波大学",
     "nameJa": "筑波大学",
     "id": "t4-13",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.tsukuba.ac.jp/",
+    "admissionUrl": "https://www.tsukuba.ac.jp/admission/graduate-overview/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:24:05.612424+00:00"
   },
   {
     "tier": "T4",
     "name": "横滨国立大学",
     "nameJa": "横浜国立大学",
     "id": "t4-14",
-    "domain": null,
+    "domain": "https://www.yokohama-nu.ac.jp/",
     "admissionUrl": null,
-    "crawlStatus": "pending"
+    "crawlStatus": "fetch_failed",
+    "lastCrawledAt": "2026-05-28T03:25:03.965740+00:00"
   },
   {
     "tier": "T4",
     "name": "千叶大学",
     "nameJa": "千葉大学",
     "id": "t4-15",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.chiba-u.ac.jp/",
+    "admissionUrl": "https://www.chiba-u.ac.jp/admissions/index.html",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:25:05.673905+00:00"
   },
   {
     "tier": "T4",
     "name": "东京理科大学",
     "nameJa": "東京理科大学",
     "id": "t4-16",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.tus.ac.jp/",
+    "admissionUrl": "https://www.tus.ac.jp/admissions/university/list/foreignstudents/",
+    "crawlStatus": "extracted",
+    "lastCrawledAt": "2026-05-28T03:25:44.718627+00:00"
   },
   {
     "tier": "T4",
     "name": "明治大学",
     "nameJa": "明治大学",
     "id": "t4-17",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.meiji.ac.jp/",
+    "admissionUrl": "https://www.meiji.ac.jp/cip/student_support/index.html",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:26:32.065867+00:00"
   },
   {
     "tier": "T5",
     "name": "电气通信大学",
     "nameJa": "電気通信大学",
     "id": "t5-18",
-    "domain": null,
+    "domain": "https://www.u-ec.ac.jp/",
     "admissionUrl": null,
-    "crawlStatus": "pending"
+    "crawlStatus": "fetch_failed",
+    "lastCrawledAt": "2026-05-28T03:27:12.382742+00:00"
   },
   {
     "tier": "T5",
     "name": "东京农工大学",
     "nameJa": "東京農工大学",
     "id": "t5-19",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.tuat.ac.jp/",
+    "admissionUrl": "https://www.tuat.ac.jp/admission/nyushi_gakubu/youkou/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:27:14.129876+00:00"
   },
   {
     "tier": "T5",
     "name": "名古屋工业大学",
     "nameJa": "名古屋工業大学",
     "id": "t5-20",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.nitech.ac.jp/",
+    "admissionUrl": "https://www.nitech.ac.jp/examination/sokuhou/",
+    "crawlStatus": "extracted",
+    "lastCrawledAt": "2026-05-28T03:28:11.527600+00:00"
   },
   {
     "tier": "T5",
     "name": "京都工艺纤维大学",
     "nameJa": "京都工芸繊維大学",
     "id": "t5-21",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.kit.ac.jp/",
+    "admissionUrl": "https://www.kit.ac.jp/test_index/school_news/undergraduate/",
+    "crawlStatus": "extracted",
+    "lastCrawledAt": "2026-05-28T03:28:44.357337+00:00"
   },
   {
     "tier": "T5",
     "name": "广岛大学",
     "nameJa": "広島大学",
     "id": "t5-22",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.hiroshima-u.ac.jp/",
+    "admissionUrl": "https://www.hiroshima-u.ac.jp/nyushi",
+    "crawlStatus": "extracted",
+    "lastCrawledAt": "2026-05-28T03:29:27.545894+00:00"
   },
   {
     "tier": "T5",
     "name": "冈山大学",
     "nameJa": "岡山大学",
     "id": "t5-23",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.okayama-u.ac.jp/",
+    "admissionUrl": "https://www.okayama-u.ac.jp/tp/admission/index.html",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:29:59.451877+00:00"
   },
   {
     "tier": "T5",
     "name": "金泽大学",
     "nameJa": "金沢大学",
     "id": "t5-24",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.kanazawa-u.ac.jp/",
+    "admissionUrl": "https://www.kanazawa-u.ac.jp/admission/",
+    "crawlStatus": "extracted",
+    "lastCrawledAt": "2026-05-28T03:30:27.133591+00:00"
   },
   {
     "tier": "T5",
     "name": "青山学院大学",
     "nameJa": "青山学院大学",
     "id": "t5-25",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.aoyama.ac.jp/",
+    "admissionUrl": "https://www.aoyama.ac.jp/international/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:31:35.006366+00:00"
   },
   {
     "tier": "T5",
     "name": "立教大学",
     "nameJa": "立教大学",
     "id": "t5-26",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.rikkyo.ac.jp/",
+    "admissionUrl": "https://www.rikkyo.ac.jp/admissions/index.html",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:33:03.356961+00:00"
   },
   {
     "tier": "T5",
     "name": "中央大学",
     "nameJa": "中央大学",
     "id": "t5-27",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.chuo-u.ac.jp/",
+    "admissionUrl": "https://www.chuo-u.ac.jp/campuslife/scholarship/application/app_guide/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:33:47.268512+00:00"
   },
   {
     "tier": "T5",
     "name": "法政大学",
     "nameJa": "法政大学",
     "id": "t5-28",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.hosei.ac.jp/",
+    "admissionUrl": "http://nyushi.hosei.ac.jp/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:34:33.673125+00:00"
   },
   {
     "tier": "T5",
     "name": "同志社大学",
     "nameJa": "同志社大学",
     "id": "t5-29",
-    "domain": null,
+    "domain": "https://www.doshisha.ac.jp/",
     "admissionUrl": null,
-    "crawlStatus": "pending"
+    "crawlStatus": "fetch_failed",
+    "lastCrawledAt": "2026-05-28T03:35:09.755773+00:00"
   },
   {
     "tier": "T5",
     "name": "立命馆大学",
     "nameJa": "立命館大学",
     "id": "t5-30",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.ritsumei.ac.jp/",
+    "admissionUrl": "https://www.ritsumei.ac.jp/international2/offices/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:35:11.580779+00:00"
   },
   {
     "tier": "T6",
     "name": "埼玉大学",
     "nameJa": "埼玉大学",
     "id": "t6-31",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.saitama-u.ac.jp/",
+    "admissionUrl": "https://www.saitama-u.ac.jp/entrance/",
+    "crawlStatus": "extracted",
+    "lastCrawledAt": "2026-05-28T03:35:59.431186+00:00"
   },
   {
     "tier": "T6",
     "name": "静冈大学",
     "nameJa": "静岡大学",
     "id": "t6-32",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.shizuoka.ac.jp/",
+    "admissionUrl": "https://www.shizuoka.ac.jp/admission/graduate/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:36:27.559089+00:00"
   },
   {
     "tier": "T6",
     "name": "新潟大学",
     "nameJa": "新潟大学",
     "id": "t6-33",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.niigata-u.ac.jp/",
+    "admissionUrl": "https://www.niigata-u.ac.jp/admissions/faculty/modification/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:36:59.636444+00:00"
   },
   {
     "tier": "T6",
     "name": "信州大学",
     "nameJa": "信州大学",
     "id": "t6-34",
-    "domain": null,
+    "domain": "https://www.shinshu-u.ac.jp/",
     "admissionUrl": null,
-    "crawlStatus": "pending"
+    "crawlStatus": "fetch_failed",
+    "lastCrawledAt": "2026-05-28T03:37:31.870025+00:00"
   },
   {
     "tier": "T6",
     "name": "熊本大学",
     "nameJa": "熊本大学",
     "id": "t6-35",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.kumamoto-u.ac.jp/",
+    "admissionUrl": "https://www.kyoso.kumamoto-u.ac.jp/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:37:33.477096+00:00"
   },
   {
     "tier": "T6",
     "name": "九州工业大学",
     "nameJa": "九州工業大学",
     "id": "t6-36",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.kyutech.ac.jp/",
+    "admissionUrl": "https://www.kyutech.ac.jp/admission",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:38:06.116379+00:00"
   },
   {
     "tier": "T6",
     "name": "芝浦工业大学",
     "nameJa": "芝浦工業大学",
     "id": "t6-37",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.shibaura-it.ac.jp/",
+    "admissionUrl": "https://www.shibaura-it.ac.jp/examinee/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:38:37.704897+00:00"
   },
   {
     "tier": "T6",
     "name": "学习院大学",
     "nameJa": "学習院大学",
     "id": "t6-38",
-    "domain": null,
+    "domain": "https://www.gakushuin.ac.jp/",
     "admissionUrl": null,
-    "crawlStatus": "pending"
+    "crawlStatus": "no_candidates",
+    "lastCrawledAt": "2026-05-28T03:38:54.843336+00:00"
   },
   {
     "tier": "T6",
     "name": "关西大学",
     "nameJa": "関西大学",
     "id": "t6-39",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.kansai-u.ac.jp/",
+    "admissionUrl": "https://kansaigradsch.kansai-u.ac.jp/",
+    "crawlStatus": "extracted",
+    "lastCrawledAt": "2026-05-28T03:38:56.741840+00:00"
   },
   {
     "tier": "T6",
     "name": "关西学院大学",
     "nameJa": "関西学院大学",
     "id": "t6-40",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.kwansei.ac.jp/",
+    "admissionUrl": "https://ciec.kwansei.ac.jp/page/examination-department.html",
+    "crawlStatus": "extracted",
+    "lastCrawledAt": "2026-05-28T03:39:34.457499+00:00"
   },
   {
     "tier": "T7",
     "name": "宇都宫大学",
     "nameJa": "宇都宮大学",
     "id": "t7-41",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.utsunomiya-u.ac.jp/",
+    "admissionUrl": "https://admission.utsunomiya-u.ac.jp/entrance-exam-info/graduate-entrance-exam/masters-course/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:40:00.209020+00:00"
   },
   {
     "tier": "T7",
     "name": "茨城大学",
     "nameJa": "茨城大学",
     "id": "t7-42",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.ibaraki.ac.jp/",
+    "admissionUrl": "https://www.ibaraki.ac.jp/admission/index.html#applicationinfo",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:40:32.286481+00:00"
   },
   {
     "tier": "T7",
     "name": "岐阜大学",
     "nameJa": "岐阜大学",
     "id": "t7-43",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.gifu-u.ac.jp/",
+    "admissionUrl": "https://www.gifu-u.ac.jp/news/admission/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:40:43.080337+00:00"
   },
   {
     "tier": "T7",
     "name": "三重大学",
     "nameJa": "三重大学",
     "id": "t7-44",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.mie-u.ac.jp/",
+    "admissionUrl": "https://www.mie-u.ac.jp/exam/archive.html",
+    "crawlStatus": "extracted",
+    "lastCrawledAt": "2026-05-28T03:41:17.129815+00:00"
   },
   {
     "tier": "T7",
     "name": "山形大学",
     "nameJa": "山形大学",
     "id": "t7-45",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.yamagata-u.ac.jp/",
+    "admissionUrl": "https://www.yamagata-u.ac.jp/jp/entrance/faculty/subject/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:41:49.446541+00:00"
   },
   {
     "tier": "T7",
     "name": "前桥工科大学",
     "nameJa": "前橋工科大学",
     "id": "t7-46",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.maebashi-it.ac.jp/",
+    "admissionUrl": "https://www.maebashi-it.ac.jp/examinee/admission/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:42:25.177887+00:00"
   },
   {
     "tier": "T7",
     "name": "东京电机大学",
     "nameJa": "東京電機大学",
     "id": "t7-47",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.dendai.ac.jp/",
+    "admissionUrl": "https://www.dendai.ac.jp/about/admission/index.html",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:42:55.855057+00:00"
   },
   {
     "tier": "T7",
     "name": "工学院大学",
     "nameJa": "工学院大学",
     "id": "t7-48",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.kogakuin.ac.jp/",
+    "admissionUrl": "https://www.kogakuin.ac.jp/admissions/graduate/work.html",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:43:44.253405+00:00"
   },
   {
     "tier": "T7",
     "name": "东京都市大学",
     "nameJa": "東京都市大学",
     "id": "t7-49",
-    "domain": null,
+    "domain": "https://www.tcu.ac.jp/",
     "admissionUrl": null,
-    "crawlStatus": "pending"
+    "crawlStatus": "fetch_failed",
+    "lastCrawledAt": "2026-05-28T03:44:17.375670+00:00"
   },
   {
     "tier": "T7",
     "name": "成城大学",
     "nameJa": "成城大学",
     "id": "t7-50",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.seijo.ac.jp/",
+    "admissionUrl": "https://admission.seijo.ac.jp/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:44:18.881280+00:00"
   },
   {
     "tier": "T7",
     "name": "南山大学",
     "nameJa": "南山大学",
     "id": "t7-51",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.nanzan-u.ac.jp/",
+    "admissionUrl": "https://www.nanzan-u.ac.jp/admission/opencampus/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:44:52.273903+00:00"
   },
   {
     "tier": "T7",
     "name": "丰田工业大学",
     "nameJa": "豊田工業大学",
     "id": "t7-52",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.toyota-ti.ac.jp/",
+    "admissionUrl": "https://www.toyota-ti.ac.jp/admissions/news/001484.html",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:45:21.739273+00:00"
   },
   {
     "tier": "T8",
     "name": "琉球大学",
     "nameJa": "琉球大学",
     "id": "t8-53",
-    "domain": null,
+    "domain": "https://www.u-ryukyu.ac.jp/",
     "admissionUrl": null,
-    "crawlStatus": "pending"
+    "crawlStatus": "no_candidates",
+    "lastCrawledAt": "2026-05-28T03:45:48.144932+00:00"
   },
   {
     "tier": "T8",
     "name": "北见工业大学",
     "nameJa": "北見工業大学",
     "id": "t8-54",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.kitami-it.ac.jp/",
+    "admissionUrl": "https://www.kitami-it.ac.jp/topics/11937/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:45:50.663255+00:00"
   },
   {
     "tier": "T8",
     "name": "室兰工业大学",
     "nameJa": "室蘭工業大学",
     "id": "t8-55",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.muroran-it.ac.jp/",
+    "admissionUrl": "https://muroran-it.ac.jp/entrance/info/post-37595/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:46:22.188612+00:00"
   },
   {
     "tier": "T8",
     "name": "日本大学",
     "nameJa": "日本大学",
     "id": "t8-56",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.nihon-u.ac.jp/",
+    "admissionUrl": "https://www.nihon-u.ac.jp/admission_info/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:47:01.203319+00:00"
   },
   {
     "tier": "T8",
     "name": "东洋大学",
     "nameJa": "東洋大学",
     "id": "t8-57",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.toyo.ac.jp/",
+    "admissionUrl": "https://www.toyo.ac.jp/nyushi/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:47:25.534119+00:00"
   },
   {
     "tier": "T8",
     "name": "驹泽大学",
     "nameJa": "駒澤大学",
     "id": "t8-58",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.komazawa-u.ac.jp/",
+    "admissionUrl": "https://www.komazawa-u.ac.jp/campuslife/foreign-student/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:47:46.289485+00:00"
   },
   {
     "tier": "T8",
     "name": "专修大学",
     "nameJa": "専修大学",
     "id": "t8-59",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.senshu-u.ac.jp/",
+    "admissionUrl": "https://www.senshu-u.ac.jp/admission/admiss_info.html",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:48:17.823043+00:00"
   },
   {
     "tier": "T8",
     "name": "京都产业大学",
     "nameJa": "京都産業大学",
     "id": "t8-60",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.kyoto-su.ac.jp/",
+    "admissionUrl": "https://www.kyoto-su.ac.jp/international/is/",
+    "crawlStatus": "extracted",
+    "lastCrawledAt": "2026-05-28T03:48:24.294533+00:00"
   },
   {
     "tier": "T8",
     "name": "近畿大学",
     "nameJa": "近畿大学",
     "id": "t8-61",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.kindai.ac.jp/",
+    "admissionUrl": "https://kindai.jp/events/maruwakari/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:48:58.729329+00:00"
   },
   {
     "tier": "T8",
     "name": "甲南大学",
     "nameJa": "甲南大学",
     "id": "t8-62",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.konan-u.ac.jp/",
+    "admissionUrl": "https://ch.konan-u.ac.jp/admission/request/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:49:52.476030+00:00"
   },
   {
     "tier": "T8",
     "name": "龙谷大学",
     "nameJa": "龍谷大学",
     "id": "t8-63",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.ryukoku.ac.jp/",
+    "admissionUrl": "https://intl.ryukoku.ac.jp/examination/jclp/",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:50:27.710943+00:00"
   }
 ]
