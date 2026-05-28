@@ -8,7 +8,7 @@
     "domain": "https://www.isct.ac.jp/",
     "admissionUrl": "https://admissions.isct.ac.jp/en",
     "crawlStatus": "links_only",
-    "lastCrawledAt": "2026-05-28T03:14:20.660585+00:00"
+    "lastCrawledAt": "2026-05-28T03:54:14.942697+00:00"
   },
   {
     "tier": "T2",
@@ -18,7 +18,7 @@
     "domain": "https://www.hit-u.ac.jp/",
     "admissionUrl": "http://international.hit-u.ac.jp/index.html",
     "crawlStatus": "links_only",
-    "lastCrawledAt": "2026-05-28T03:15:03.390315+00:00"
+    "lastCrawledAt": "2026-05-28T03:54:32.825122+00:00"
   },
   {
     "tier": "T2",
@@ -28,7 +28,7 @@
     "domain": "https://www.osaka-u.ac.jp/",
     "admissionUrl": "https://www.osaka-u.ac.jp/ja/admissions",
     "crawlStatus": "links_only",
-    "lastCrawledAt": "2026-05-28T03:15:28.854878+00:00"
+    "lastCrawledAt": "2026-05-28T03:55:11.061649+00:00"
   },
   {
     "tier": "T2",
@@ -38,7 +38,7 @@
     "domain": "https://www.waseda.jp/",
     "admissionUrl": "https://www.waseda.jp/top/about/disclosure/international",
     "crawlStatus": "links_only",
-    "lastCrawledAt": "2026-05-28T03:15:43.316941+00:00"
+    "lastCrawledAt": "2026-05-28T03:55:29.704066+00:00"
   },
   {
     "tier": "T2",
@@ -48,7 +48,7 @@
     "domain": "https://www.keio.ac.jp/",
     "admissionUrl": "https://www.keio.ac.jp/ja/admissions/grad/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-05-28T03:16:46.110737+00:00"
+    "lastCrawledAt": "2026-05-28T03:56:00.931728+00:00"
   },
   {
     "tier": "T3",

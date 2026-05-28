@@ -21,7 +21,7 @@ concurrency:
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
 
@@ -29,9 +29,13 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install crawl dependencies
+        run: pip install -r scripts/crawl/requirements.txt
+
       - name: Run full crawl pipeline
         env:
-          CRAWL_DELAY: "0.8"
+          CRAWL_DELAY: "0.6"
+          MAX_PDFS_PER_SCHOOL: "2"
         run: |
           LIMIT="${{ github.event.inputs.limit }}"
           if [ -n "$LIMIT" ]; then

@@ -82,6 +82,7 @@ function renderCrawlData(data) {
       ['extracted', '含 EJU 文本'],
       ['linksOnly', '仅链接'],
       ['withPdf', '含 PDF'],
+      ['withPdfParsed', 'PDF 已解析'],
       ['withScores', '识别到分数'],
       ['failed', '失败/缺失'],
     ]
@@ -101,10 +102,14 @@ function renderCrawlData(data) {
     const snippet = (school.ejuSnippets || [])[0] || '';
     const scores = formatScores(school.extractedScores);
     const link = school.bestAdmissionUrl || school.domain;
+    const pdfInfo = (school.extractedPdfs || [])
+      .filter((p) => p.status === 'ok' && p.snippetCount > 0)
+      .length;
+    const pdfNote = pdfInfo ? ` · PDF 解析 ${pdfInfo} 份` : '';
     item.innerHTML = `
       <div class="crawl-item-header">
         <span class="tier-tag">${school.tier || ''}</span>
-        <span class="status-tag ${statusClass(status)}">${statusLabel(status)}</span>
+        <span class="status-tag ${statusClass(status)}">${statusLabel(status)}${pdfNote}</span>
       </div>
       <h3>${school.name} <span class="ja">${school.nameJa || ''}</span></h3>
       ${snippet ? `<p class="crawl-snippet">${snippet}</p>` : '<p class="crawl-snippet">暂未抽取到 EJU 相关段落，可点击官网链接查看。</p>'}
