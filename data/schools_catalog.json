@@ -5,27 +5,30 @@
     "nameJa": "東京科学大学",
     "notes": "2024年10月由东工大与东京医科齿科大学合并",
     "id": "t2-01",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.isct.ac.jp/",
+    "admissionUrl": "https://admissions.isct.ac.jp/en",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:12:24.452656+00:00"
   },
   {
     "tier": "T2",
     "name": "一桥大学",
     "nameJa": "一橋大学",
     "id": "t2-02",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.hit-u.ac.jp/",
+    "admissionUrl": "http://international.hit-u.ac.jp/index.html",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:12:43.001867+00:00"
   },
   {
     "tier": "T2",
     "name": "大阪大学",
     "nameJa": "大阪大学",
     "id": "t2-03",
-    "domain": null,
-    "admissionUrl": null,
-    "crawlStatus": "pending"
+    "domain": "https://www.osaka-u.ac.jp/",
+    "admissionUrl": "https://www.osaka-u.ac.jp/ja/admissions",
+    "crawlStatus": "links_only",
+    "lastCrawledAt": "2026-05-28T03:13:11.066340+00:00"
   },
   {
     "tier": "T2",

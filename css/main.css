@@ -271,3 +271,133 @@ select:focus {
   color: var(--muted);
   text-align: center;
 }
+
+.crawl-panel {
+  margin-bottom: 2rem;
+}
+
+.crawl-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.crawl-header h2 {
+  margin: 0;
+}
+
+.crawl-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.stat-card {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.75rem;
+  text-align: center;
+}
+
+.stat-card strong {
+  display: block;
+  font-size: 1.4rem;
+  color: var(--accent);
+}
+
+.stat-card span {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.crawl-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  max-height: 520px;
+  overflow-y: auto;
+}
+
+.crawl-item {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.85rem 1rem;
+  background: #fafbfc;
+}
+
+.crawl-item-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+}
+
+.tier-tag {
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.12rem 0.45rem;
+  border-radius: 999px;
+  background: #e8eef5;
+  color: var(--accent);
+}
+
+.status-tag {
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.12rem 0.45rem;
+  border-radius: 999px;
+}
+
+.status-extracted {
+  background: var(--safe-bg);
+  color: var(--safe);
+}
+
+.status-links_only {
+  background: var(--match-bg);
+  color: var(--match);
+}
+
+.status-failed {
+  background: #fdeaea;
+  color: #b42318;
+}
+
+.crawl-item h3 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.crawl-item .ja {
+  font-weight: 400;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.crawl-snippet {
+  margin: 0.4rem 0 0;
+  font-size: 0.85rem;
+  color: var(--text);
+}
+
+.crawl-scores {
+  margin: 0.35rem 0 0;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.crawl-links {
+  margin-top: 0.45rem;
+  font-size: 0.82rem;
+}
+
+.crawl-links a {
+  color: var(--accent);
+  margin-right: 0.75rem;
+}

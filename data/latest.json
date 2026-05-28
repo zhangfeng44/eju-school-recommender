@@ -1,0 +1,223 @@
+{
+  "updatedAt": "2026-05-28T03:13:26.087113+00:00",
+  "updatedAtLocal": "2026-05-28 11:13:26",
+  "timezone": "Asia/Shanghai",
+  "summary": {
+    "total": 3,
+    "extracted": 0,
+    "linksOnly": 3,
+    "failed": 0,
+    "withPdf": 1,
+    "withScores": 0
+  },
+  "schools": [
+    {
+      "id": "t2-01",
+      "tier": "T2",
+      "name": "东京科学大学",
+      "nameJa": "東京科学大学",
+      "domain": "https://www.isct.ac.jp/",
+      "checkedAt": "2026-05-28T03:12:24.452656+00:00",
+      "status": "ok",
+      "topLinks": [
+        {
+          "url": "https://admissions.isct.ac.jp/en",
+          "text": "Prospective students",
+          "score": 3
+        },
+        {
+          "url": "https://www.isct.ac.jp/en/news/2mmt0ht909gr",
+          "text": "Science Tokyo — University for International Research Excellence April 7, 2026 News About Science Tokyo Education Research Giving to Science Tokyo",
+          "score": 3
+        },
+        {
+          "url": "https://www.isct.ac.jp/en/news/h9corfju0wdi",
+          "text": "Air Pollution Research Center established through international joint research led by Nobutoshi Nawa selected as co-chair of DPCC Air Quality WG in Kyrgyz Republic May 25, 2026 News Research Co-creating with society",
+          "score": 3
+        }
+      ],
+      "candidatePages": [
+        {
+          "url": "https://admissions.isct.ac.jp/en",
+          "text": "Prospective students",
+          "linkScore": 3,
+          "textScore": 4,
+          "isPdf": false
+        },
+        {
+          "url": "https://www.isct.ac.jp/en/news/2mmt0ht909gr",
+          "text": "Science Tokyo — University for International Research Excellence April 7, 2026 News About Science Tokyo Education Research Giving to Science Tokyo",
+          "linkScore": 3,
+          "textScore": 4,
+          "isPdf": false
+        },
+        {
+          "url": "https://www.isct.ac.jp/en/news/h9corfju0wdi",
+          "text": "Air Pollution Research Center established through international joint research led by Nobutoshi Nawa selected as co-chair of DPCC Air Quality WG in Kyrgyz Republic May 25, 2026 News Research Co-creating with society",
+          "linkScore": 3,
+          "textScore": 4,
+          "isPdf": false
+        }
+      ],
+      "errors": [],
+      "bestAdmissionUrl": "https://admissions.isct.ac.jp/en",
+      "pdfLinks": [],
+      "ejuSnippets": [],
+      "extractedScores": {
+        "japanese": null,
+        "math": null,
+        "physics": null,
+        "chemistry": null,
+        "biology": null,
+        "japanWorld": null
+      },
+      "extractedPages": [
+        {
+          "url": "https://admissions.isct.ac.jp/en",
+          "snippetCount": 0,
+          "pdfCount": 0
+        },
+        {
+          "url": "https://www.isct.ac.jp/en/news/2mmt0ht909gr",
+          "snippetCount": 0,
+          "pdfCount": 0
+        },
+        {
+          "url": "https://www.isct.ac.jp/en/news/h9corfju0wdi",
+          "snippetCount": 0,
+          "pdfCount": 0
+        }
+      ],
+      "enrichStatus": "links_only"
+    },
+    {
+      "id": "t2-02",
+      "tier": "T2",
+      "name": "一桥大学",
+      "nameJa": "一橋大学",
+      "domain": "https://www.hit-u.ac.jp/",
+      "checkedAt": "2026-05-28T03:12:43.001867+00:00",
+      "status": "ok",
+      "topLinks": [
+        {
+          "url": "http://international.hit-u.ac.jp/index.html",
+          "text": "留学生・留学希望の方へ",
+          "score": 6
+        },
+        {
+          "url": "https://international.hit-u.ac.jp/",
+          "text": "国際教育交流センター",
+          "score": 3
+        }
+      ],
+      "candidatePages": [
+        {
+          "url": "http://international.hit-u.ac.jp/index.html",
+          "text": "留学生・留学希望の方へ",
+          "linkScore": 6,
+          "textScore": 9,
+          "isPdf": false
+        },
+        {
+          "url": "https://international.hit-u.ac.jp/",
+          "text": "国際教育交流センター",
+          "linkScore": 3,
+          "textScore": 9,
+          "isPdf": false
+        }
+      ],
+      "errors": [],
+      "bestAdmissionUrl": "http://international.hit-u.ac.jp/index.html",
+      "pdfLinks": [
+        "https://international.hit-u.ac.jp/hp-international/wp-content/uploads/2023/02/HU_.handbook2020_0319pdf.pdf",
+        "https://international.hit-u.ac.jp/hp-international/wp-content/uploads/2023/02/ryugaku_kenko_4.pdf",
+        "https://international.hit-u.ac.jp/hp-international/wp-content/uploads/2024/04/hu2025_eng_brochure.pdf",
+        "https://international.hit-u.ac.jp/hp-international/wp-content/uploads/2025/12/20250304_safty_guide.pdf"
+      ],
+      "ejuSnippets": [],
+      "extractedScores": {
+        "japanese": null,
+        "math": null,
+        "physics": null,
+        "chemistry": null,
+        "biology": null,
+        "japanWorld": null
+      },
+      "extractedPages": [
+        {
+          "url": "http://international.hit-u.ac.jp/index.html",
+          "snippetCount": 0,
+          "pdfCount": 4
+        },
+        {
+          "url": "https://international.hit-u.ac.jp/",
+          "snippetCount": 0,
+          "pdfCount": 4
+        }
+      ],
+      "enrichStatus": "links_only"
+    },
+    {
+      "id": "t2-03",
+      "tier": "T2",
+      "name": "大阪大学",
+      "nameJa": "大阪大学",
+      "domain": "https://www.osaka-u.ac.jp/",
+      "checkedAt": "2026-05-28T03:13:11.066340+00:00",
+      "status": "ok",
+      "topLinks": [
+        {
+          "url": "https://www.osaka-u.ac.jp/ja/admissions",
+          "text": "入学情報",
+          "score": 6
+        },
+        {
+          "url": "https://www.osaka-u.ac.jp/ja/international",
+          "text": "国際交流・留学",
+          "score": 3
+        }
+      ],
+      "candidatePages": [
+        {
+          "url": "https://www.osaka-u.ac.jp/ja/admissions",
+          "text": "入学情報",
+          "linkScore": 6,
+          "textScore": 11,
+          "isPdf": false
+        },
+        {
+          "url": "https://www.osaka-u.ac.jp/ja/international",
+          "text": "国際交流・留学",
+          "linkScore": 3,
+          "textScore": 8,
+          "isPdf": false
+        }
+      ],
+      "errors": [],
+      "bestAdmissionUrl": "https://www.osaka-u.ac.jp/ja/admissions",
+      "pdfLinks": [],
+      "ejuSnippets": [],
+      "extractedScores": {
+        "japanese": null,
+        "math": null,
+        "physics": null,
+        "chemistry": null,
+        "biology": null,
+        "japanWorld": null
+      },
+      "extractedPages": [
+        {
+          "url": "https://www.osaka-u.ac.jp/ja/admissions",
+          "snippetCount": 0,
+          "pdfCount": 0
+        },
+        {
+          "url": "https://www.osaka-u.ac.jp/ja/international",
+          "snippetCount": 0,
+          "pdfCount": 0
+        }
+      ],
+      "enrichStatus": "links_only"
+    }
+  ]
+}

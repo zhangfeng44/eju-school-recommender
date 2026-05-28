@@ -1,22 +1,27 @@
-name: Crawl school admission pages
+name: Daily crawl and sync
 
 on:
   schedule:
-    # 每月 1 日 03:00 UTC（北京时间 11:00）
-    - cron: "0 3 1 * *"
+    # 每天北京时间 00:00 = UTC 16:00（前一日）
+    - cron: "0 16 * * *"
   workflow_dispatch:
     inputs:
       limit:
-        description: "最多扫描学校数量（留空=全部）"
+        description: "最多扫描学校数量（留空=全部 63 校）"
         required: false
-        default: "10"
+        default: ""
 
 permissions:
   contents: write
 
+concurrency:
+  group: daily-crawl
+  cancel-in-progress: false
+
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -24,23 +29,25 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Run discovery crawler
+      - name: Run full crawl pipeline
+        env:
+          CRAWL_DELAY: "0.8"
         run: |
           LIMIT="${{ github.event.inputs.limit }}"
           if [ -n "$LIMIT" ]; then
-            python3 scripts/crawl/discover.py "$LIMIT"
+            python3 scripts/crawl/run.py "$LIMIT"
           else
-            python3 scripts/crawl/discover.py
+            python3 scripts/crawl/run.py
           fi
 
-      - name: Commit crawl results
+      - name: Commit and push latest data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/crawl_results/
+          git add data/latest.json data/crawl_results/ data/schools_catalog.json
           if git diff --staged --quiet; then
-            echo "No crawl changes"
+            echo "No crawl changes to commit"
           else
-            git commit -m "chore: update admission page discovery results"
+            git commit -m "chore(crawl): update school data $(date -u +%Y-%m-%d)"
             git push
           fi
