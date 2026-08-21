@@ -8,7 +8,7 @@
     "domain": "https://www.isct.ac.jp/",
     "admissionUrl": "https://admissions.isct.ac.jp/en",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:33:05.792926+00:00"
+    "lastCrawledAt": "2026-08-21T16:32:07.670762+00:00"
   },
   {
     "tier": "T2",
@@ -18,7 +18,7 @@
     "domain": "https://www.hit-u.ac.jp/",
     "admissionUrl": "http://international.hit-u.ac.jp/index.html",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:33:15.908782+00:00"
+    "lastCrawledAt": "2026-08-21T16:32:15.867411+00:00"
   },
   {
     "tier": "T2",
@@ -28,7 +28,7 @@
     "domain": "https://www.osaka-u.ac.jp/",
     "admissionUrl": "https://www.osaka-u.ac.jp/ja/admissions",
     "crawlStatus": "links_only",
-    "lastCrawledAt": "2026-08-20T16:33:43.164454+00:00"
+    "lastCrawledAt": "2026-08-21T16:32:43.612408+00:00"
   },
   {
     "tier": "T2",
@@ -38,7 +38,7 @@
     "domain": "https://www.waseda.jp/",
     "admissionUrl": "https://www.waseda.jp/top/admissions",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:33:52.113890+00:00"
+    "lastCrawledAt": "2026-08-21T16:32:52.510806+00:00"
   },
   {
     "tier": "T2",
@@ -48,7 +48,7 @@
     "domain": "https://www.keio.ac.jp/",
     "admissionUrl": "https://www.keio.ac.jp/ja/admissions/faculty/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:34:08.079546+00:00"
+    "lastCrawledAt": "2026-08-21T16:33:11.278215+00:00"
   },
   {
     "tier": "T3",
@@ -58,7 +58,7 @@
     "domain": "https://www.tohoku.ac.jp/",
     "admissionUrl": "https://www.tohoku.ac.jp/en/admissions/admission_undergraduate.html",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:34:22.945708+00:00"
+    "lastCrawledAt": "2026-08-21T16:33:25.892800+00:00"
   },
   {
     "tier": "T3",
@@ -68,7 +68,7 @@
     "domain": "https://www.nagoya-u.ac.jp/",
     "admissionUrl": "https://www.nagoya-u.ac.jp/admissions/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:34:55.531215+00:00"
+    "lastCrawledAt": "2026-08-21T16:34:02.106547+00:00"
   },
   {
     "tier": "T3",
@@ -78,7 +78,7 @@
     "domain": "https://www.kyushu-u.ac.jp/",
     "admissionUrl": "https://www.kyushu-u.ac.jp/ja/admission/faculty/selection",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:35:15.799375+00:00"
+    "lastCrawledAt": "2026-08-21T16:34:22.413775+00:00"
   },
   {
     "tier": "T3",
@@ -88,7 +88,7 @@
     "domain": "https://www.hokudai.ac.jp/",
     "admissionUrl": "https://www.hokudai.ac.jp/admission/admission-info/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:35:49.979182+00:00"
+    "lastCrawledAt": "2026-08-21T16:34:57.584772+00:00"
   },
   {
     "tier": "T3",
@@ -98,7 +98,7 @@
     "domain": "https://www.kobe-u.ac.jp/",
     "admissionUrl": "https://www.kobe-u.ac.jp/sites/default/files/doc-section/2025-06/researchers_handbook_202505.pdf",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:36:10.873061+00:00"
+    "lastCrawledAt": "2026-08-21T16:35:18.568532+00:00"
   },
   {
     "tier": "T3",
@@ -108,7 +108,7 @@
     "domain": "https://www.sophia.ac.jp/",
     "admissionUrl": "https://www.sophia.ac.jp/jpn/admissions-and-aid/kenkyusei/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:36:38.983549+00:00"
+    "lastCrawledAt": "2026-08-21T16:35:47.072164+00:00"
   },
   {
     "tier": "T3",
@@ -119,7 +119,7 @@
     "domain": "https://www.icu.ac.jp/",
     "admissionUrl": "https://www.icu.ac.jp/admissions/undergraduate/exam/eju/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:37:01.692024+00:00"
+    "lastCrawledAt": "2026-08-21T16:36:07.311402+00:00"
   },
   {
     "tier": "T4",
@@ -129,7 +129,7 @@
     "domain": "https://www.tsukuba.ac.jp/",
     "admissionUrl": "https://www.tsukuba.ac.jp/admission/graduate-overview/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:37:21.485082+00:00"
+    "lastCrawledAt": "2026-08-21T16:36:23.296652+00:00"
   },
   {
     "tier": "T4",
@@ -139,7 +139,7 @@
     "domain": "https://www.yokohama-nu.ac.jp/",
     "admissionUrl": null,
     "crawlStatus": "fetch_failed",
-    "lastCrawledAt": "2026-08-20T16:37:40.835644+00:00"
+    "lastCrawledAt": "2026-08-21T16:36:42.865642+00:00"
   },
   {
     "tier": "T4",
@@ -149,7 +149,7 @@
     "domain": "https://www.chiba-u.ac.jp/",
     "admissionUrl": "https://www.chiba-u.ac.jp/admissions/index.html",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:37:41.457861+00:00"
+    "lastCrawledAt": "2026-08-21T16:36:43.578592+00:00"
   },
   {
     "tier": "T4",
@@ -159,7 +159,7 @@
     "domain": "https://www.tus.ac.jp/",
     "admissionUrl": "https://www.tus.ac.jp/admissions/university/list/foreignstudents/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:38:03.829800+00:00"
+    "lastCrawledAt": "2026-08-21T16:37:04.067057+00:00"
   },
   {
     "tier": "T4",
@@ -167,9 +167,9 @@
     "nameJa": "明治大学",
     "id": "t4-17",
     "domain": "https://www.meiji.ac.jp/",
-    "admissionUrl": "https://www.meiji.ac.jp/campus/shougaku/Oh-oMeiji.html",
+    "admissionUrl": "https://meijinow.jp/study/exam/135017",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:38:18.319513+00:00"
+    "lastCrawledAt": "2026-08-21T16:37:18.451476+00:00"
   },
   {
     "tier": "T5",
@@ -179,7 +179,7 @@
     "domain": "https://www.u-ec.ac.jp/",
     "admissionUrl": null,
     "crawlStatus": "fetch_failed",
-    "lastCrawledAt": "2026-08-20T16:38:38.538648+00:00"
+    "lastCrawledAt": "2026-08-21T16:37:39.683612+00:00"
   },
   {
     "tier": "T5",
@@ -189,7 +189,7 @@
     "domain": "https://www.tuat.ac.jp/",
     "admissionUrl": "https://www.tuat.ac.jp/admission/nyushi_gakubu/youkou/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:38:39.164893+00:00"
+    "lastCrawledAt": "2026-08-21T16:37:40.398562+00:00"
   },
   {
     "tier": "T5",
@@ -199,7 +199,7 @@
     "domain": "https://www.nitech.ac.jp/",
     "admissionUrl": "https://www.nitech.ac.jp/examination/sokuhou/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:39:03.876724+00:00"
+    "lastCrawledAt": "2026-08-21T16:38:06.032282+00:00"
   },
   {
     "tier": "T5",
@@ -209,7 +209,7 @@
     "domain": "https://www.kit.ac.jp/",
     "admissionUrl": "https://www.kit.ac.jp/test_index/school_news/undergraduate/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:39:26.874820+00:00"
+    "lastCrawledAt": "2026-08-21T16:38:29.055162+00:00"
   },
   {
     "tier": "T5",
@@ -219,7 +219,7 @@
     "domain": "https://www.hiroshima-u.ac.jp/",
     "admissionUrl": "https://www.hiroshima-u.ac.jp/news/99246",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:39:57.972618+00:00"
+    "lastCrawledAt": "2026-08-21T16:39:02.309638+00:00"
   },
   {
     "tier": "T5",
@@ -229,7 +229,7 @@
     "domain": "https://www.okayama-u.ac.jp/",
     "admissionUrl": "https://www.okayama-u.ac.jp/tp/admission_news/admission_news.html",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:40:13.952725+00:00"
+    "lastCrawledAt": "2026-08-21T16:39:17.927812+00:00"
   },
   {
     "tier": "T5",
@@ -239,7 +239,7 @@
     "domain": "https://www.kanazawa-u.ac.jp/",
     "admissionUrl": "https://www.kanazawa-u.ac.jp/admission/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:40:35.958976+00:00"
+    "lastCrawledAt": "2026-08-21T16:39:41.936382+00:00"
   },
   {
     "tier": "T5",
@@ -249,7 +249,7 @@
     "domain": "https://www.aoyama.ac.jp/",
     "admissionUrl": "https://www.aoyama.ac.jp/international/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:41:09.726106+00:00"
+    "lastCrawledAt": "2026-08-21T16:40:15.060192+00:00"
   },
   {
     "tier": "T5",
@@ -259,7 +259,7 @@
     "domain": "https://www.rikkyo.ac.jp/",
     "admissionUrl": "https://www.rikkyo.ac.jp/admissions/index.html",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:41:34.647541+00:00"
+    "lastCrawledAt": "2026-08-21T16:40:37.515506+00:00"
   },
   {
     "tier": "T5",
@@ -269,7 +269,7 @@
     "domain": "https://www.chuo-u.ac.jp/",
     "admissionUrl": "https://www.chuo-u.ac.jp/international/inbound/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:42:02.631118+00:00"
+    "lastCrawledAt": "2026-08-21T16:41:05.025662+00:00"
   },
   {
     "tier": "T5",
@@ -279,7 +279,7 @@
     "domain": "https://www.hosei.ac.jp/",
     "admissionUrl": "http://nyushi.hosei.ac.jp/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:42:28.711004+00:00"
+    "lastCrawledAt": "2026-08-21T16:41:31.221773+00:00"
   },
   {
     "tier": "T5",
@@ -289,7 +289,7 @@
     "domain": "https://www.doshisha.ac.jp/",
     "admissionUrl": "https://www.doshisha.ac.jp/admissions_undergrad/index.html",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:42:48.407450+00:00"
+    "lastCrawledAt": "2026-08-21T16:41:50.966601+00:00"
   },
   {
     "tier": "T5",
@@ -299,7 +299,7 @@
     "domain": "https://www.ritsumei.ac.jp/",
     "admissionUrl": "https://admission.ritsumei.ac.jp/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:43:22.065494+00:00"
+    "lastCrawledAt": "2026-08-21T16:42:14.249801+00:00"
   },
   {
     "tier": "T6",
@@ -309,7 +309,7 @@
     "domain": "https://www.saitama-u.ac.jp/",
     "admissionUrl": "https://www.saitama-u.ac.jp/exam_archives/202607231000.html",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:43:54.715269+00:00"
+    "lastCrawledAt": "2026-08-21T16:42:47.129419+00:00"
   },
   {
     "tier": "T6",
@@ -319,7 +319,7 @@
     "domain": "https://www.shizuoka.ac.jp/",
     "admissionUrl": "https://www.shizuoka.ac.jp/nyushi/guide/boshu/#a04",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:44:15.589885+00:00"
+    "lastCrawledAt": "2026-08-21T16:43:08.768635+00:00"
   },
   {
     "tier": "T6",
@@ -329,7 +329,7 @@
     "domain": "https://www.niigata-u.ac.jp/",
     "admissionUrl": "https://www.niigata-u.ac.jp/admissions/faculty/modification/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:44:39.830140+00:00"
+    "lastCrawledAt": "2026-08-21T16:43:34.074460+00:00"
   },
   {
     "tier": "T6",
@@ -339,7 +339,7 @@
     "domain": "https://www.shinshu-u.ac.jp/",
     "admissionUrl": "https://www.shinshu-u.ac.jp/admission/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:45:06.976974+00:00"
+    "lastCrawledAt": "2026-08-21T16:44:01.607237+00:00"
   },
   {
     "tier": "T6",
@@ -349,7 +349,7 @@
     "domain": "https://www.kumamoto-u.ac.jp/",
     "admissionUrl": "https://www.kyoso.kumamoto-u.ac.jp/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:45:32.472557+00:00"
+    "lastCrawledAt": "2026-08-21T16:44:27.473666+00:00"
   },
   {
     "tier": "T6",
@@ -359,7 +359,7 @@
     "domain": "https://www.kyutech.ac.jp/",
     "admissionUrl": "https://www.kyutech.ac.jp/admission",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:45:59.428532+00:00"
+    "lastCrawledAt": "2026-08-21T16:44:52.467217+00:00"
   },
   {
     "tier": "T6",
@@ -369,7 +369,7 @@
     "domain": "https://www.shibaura-it.ac.jp/",
     "admissionUrl": "https://www.shibaura-it.ac.jp/examinee/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:46:26.316043+00:00"
+    "lastCrawledAt": "2026-08-21T16:45:19.421654+00:00"
   },
   {
     "tier": "T6",
@@ -378,8 +378,8 @@
     "id": "t6-38",
     "domain": "https://www.gakushuin.ac.jp/",
     "admissionUrl": null,
-    "crawlStatus": "no_candidates",
-    "lastCrawledAt": "2026-08-20T16:46:43.545592+00:00"
+    "crawlStatus": "fetch_failed",
+    "lastCrawledAt": "2026-08-21T16:45:36.739874+00:00"
   },
   {
     "tier": "T6",
@@ -389,7 +389,7 @@
     "domain": "https://www.kansai-u.ac.jp/",
     "admissionUrl": "https://kansaigradsch.kansai-u.ac.jp/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:46:45.088059+00:00"
+    "lastCrawledAt": "2026-08-21T16:45:58.099289+00:00"
   },
   {
     "tier": "T6",
@@ -399,7 +399,7 @@
     "domain": "https://www.kwansei.ac.jp/",
     "admissionUrl": "https://ciec.kwansei.ac.jp/page/examination-department.html",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:47:15.962502+00:00"
+    "lastCrawledAt": "2026-08-21T16:46:28.816127+00:00"
   },
   {
     "tier": "T7",
@@ -409,7 +409,7 @@
     "domain": "https://www.utsunomiya-u.ac.jp/",
     "admissionUrl": "https://admission.utsunomiya-u.ac.jp/entrance-exam-info/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:47:41.697119+00:00"
+    "lastCrawledAt": "2026-08-21T16:46:55.256878+00:00"
   },
   {
     "tier": "T7",
@@ -419,7 +419,7 @@
     "domain": "https://www.ibaraki.ac.jp/",
     "admissionUrl": "https://www.ibaraki.ac.jp/admission/application/2027/index.html#youkou",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:48:05.843664+00:00"
+    "lastCrawledAt": "2026-08-21T16:47:19.741761+00:00"
   },
   {
     "tier": "T7",
@@ -427,9 +427,9 @@
     "nameJa": "岐阜大学",
     "id": "t7-43",
     "domain": "https://www.gifu-u.ac.jp/",
-    "admissionUrl": "https://www.gifu-u.ac.jp/news/admission/",
-    "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:48:25.066860+00:00"
+    "admissionUrl": null,
+    "crawlStatus": "fetch_failed",
+    "lastCrawledAt": "2026-08-21T16:47:39.059770+00:00"
   },
   {
     "tier": "T7",
@@ -439,7 +439,7 @@
     "domain": "https://www.mie-u.ac.jp/",
     "admissionUrl": "https://www.mie-u.ac.jp/exam/archive.html",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:48:54.620358+00:00"
+    "lastCrawledAt": "2026-08-21T16:48:00.265200+00:00"
   },
   {
     "tier": "T7",
@@ -449,7 +449,7 @@
     "domain": "https://www.yamagata-u.ac.jp/",
     "admissionUrl": "https://www.yamagata-u.ac.jp/jp/entrance/faculty/subject/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:49:13.644429+00:00"
+    "lastCrawledAt": "2026-08-21T16:48:20.850588+00:00"
   },
   {
     "tier": "T7",
@@ -459,7 +459,7 @@
     "domain": "https://www.maebashi-it.ac.jp/",
     "admissionUrl": "https://www.maebashi-it.ac.jp/examinee/admission/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:49:43.822698+00:00"
+    "lastCrawledAt": "2026-08-21T16:48:51.068572+00:00"
   },
   {
     "tier": "T7",
@@ -469,7 +469,7 @@
     "domain": "https://www.dendai.ac.jp/",
     "admissionUrl": "https://www.dendai.ac.jp/about/admission/index.html",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:50:07.743039+00:00"
+    "lastCrawledAt": "2026-08-21T16:49:14.441932+00:00"
   },
   {
     "tier": "T7",
@@ -479,7 +479,7 @@
     "domain": "https://www.kogakuin.ac.jp/",
     "admissionUrl": "https://www.kogakuin.ac.jp/admissions/requirement/application.html",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:50:52.131656+00:00"
+    "lastCrawledAt": "2026-08-21T16:50:00.530949+00:00"
   },
   {
     "tier": "T7",
@@ -489,7 +489,7 @@
     "domain": "https://www.tcu.ac.jp/",
     "admissionUrl": null,
     "crawlStatus": "fetch_failed",
-    "lastCrawledAt": "2026-08-20T16:51:19.546851+00:00"
+    "lastCrawledAt": "2026-08-21T16:50:27.793141+00:00"
   },
   {
     "tier": "T7",
@@ -499,7 +499,7 @@
     "domain": "https://www.seijo.ac.jp/",
     "admissionUrl": "https://admission.seijo.ac.jp/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:51:20.305955+00:00"
+    "lastCrawledAt": "2026-08-21T16:50:28.535114+00:00"
   },
   {
     "tier": "T7",
@@ -509,7 +509,7 @@
     "domain": "https://www.nanzan-u.ac.jp/",
     "admissionUrl": "https://www.nanzan-u.ac.jp/admission/opencampus/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:51:41.583498+00:00"
+    "lastCrawledAt": "2026-08-21T16:50:50.762401+00:00"
   },
   {
     "tier": "T7",
@@ -519,7 +519,7 @@
     "domain": "https://www.toyota-ti.ac.jp/",
     "admissionUrl": "https://www.toyota-ti.ac.jp/academics/kamokurisyu/kamokurisyu.html",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:52:05.164089+00:00"
+    "lastCrawledAt": "2026-08-21T16:51:16.055028+00:00"
   },
   {
     "tier": "T8",
@@ -529,7 +529,7 @@
     "domain": "https://www.u-ryukyu.ac.jp/",
     "admissionUrl": null,
     "crawlStatus": "no_candidates",
-    "lastCrawledAt": "2026-08-20T16:52:29.768061+00:00"
+    "lastCrawledAt": "2026-08-21T16:51:39.398638+00:00"
   },
   {
     "tier": "T8",
@@ -539,7 +539,7 @@
     "domain": "https://www.kitami-it.ac.jp/",
     "admissionUrl": "https://www.kitami-it.ac.jp/engineering-graduate/policy/admissions/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:52:31.808581+00:00"
+    "lastCrawledAt": "2026-08-21T16:51:41.449162+00:00"
   },
   {
     "tier": "T8",
@@ -549,7 +549,7 @@
     "domain": "https://www.muroran-it.ac.jp/",
     "admissionUrl": "https://muroran-it.ac.jp/entrance/info/post-38963/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:52:55.783948+00:00"
+    "lastCrawledAt": "2026-08-21T16:52:06.193646+00:00"
   },
   {
     "tier": "T8",
@@ -559,7 +559,7 @@
     "domain": "https://www.nihon-u.ac.jp/",
     "admissionUrl": "https://www.nihon-u.ac.jp/admission_info/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:53:24.418772+00:00"
+    "lastCrawledAt": "2026-08-21T16:52:34.937689+00:00"
   },
   {
     "tier": "T8",
@@ -569,7 +569,7 @@
     "domain": "https://www.toyo.ac.jp/",
     "admissionUrl": "https://www.toyo.ac.jp/nyushi/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:53:43.027491+00:00"
+    "lastCrawledAt": "2026-08-21T16:52:51.427761+00:00"
   },
   {
     "tier": "T8",
@@ -579,7 +579,7 @@
     "domain": "https://www.komazawa-u.ac.jp/",
     "admissionUrl": "https://www.komazawa-u.ac.jp/campuslife/foreign-student/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:53:56.780236+00:00"
+    "lastCrawledAt": "2026-08-21T16:53:03.974608+00:00"
   },
   {
     "tier": "T8",
@@ -589,7 +589,7 @@
     "domain": "https://www.senshu-u.ac.jp/",
     "admissionUrl": "https://www.senshu-u.ac.jp/admission/admiss_info.html",
     "crawlStatus": "links_only",
-    "lastCrawledAt": "2026-08-20T16:54:21.488847+00:00"
+    "lastCrawledAt": "2026-08-21T16:53:28.288673+00:00"
   },
   {
     "tier": "T8",
@@ -599,7 +599,7 @@
     "domain": "https://www.kyoto-su.ac.jp/",
     "admissionUrl": "https://www.kyoto-su.ac.jp/admissions/exam/nagare/download/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:54:31.706321+00:00"
+    "lastCrawledAt": "2026-08-21T16:53:38.684911+00:00"
   },
   {
     "tier": "T8",
@@ -609,7 +609,7 @@
     "domain": "https://www.kindai.ac.jp/",
     "admissionUrl": "https://www.kindai.ac.jp/about-kindai/social-activity/demonstration-experiment/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:55:09.225870+00:00"
+    "lastCrawledAt": "2026-08-21T16:54:16.038890+00:00"
   },
   {
     "tier": "T8",
@@ -619,7 +619,7 @@
     "domain": "https://www.konan-u.ac.jp/",
     "admissionUrl": "https://ch.konan-u.ac.jp/admission/request/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:55:29.798973+00:00"
+    "lastCrawledAt": "2026-08-21T16:54:38.965869+00:00"
   },
   {
     "tier": "T8",
@@ -629,6 +629,6 @@
     "domain": "https://www.ryukoku.ac.jp/",
     "admissionUrl": "https://www.ryukoku.ac.jp/admission/nyushi/",
     "crawlStatus": "extracted",
-    "lastCrawledAt": "2026-08-20T16:56:02.208139+00:00"
+    "lastCrawledAt": "2026-08-21T16:55:10.848456+00:00"
   }
 ]
