@@ -1,10 +1,10 @@
 {
   "total": 63,
-  "extracted": 55,
+  "extracted": 56,
   "linksOnly": 2,
-  "failed": 6,
+  "failed": 5,
   "withPdf": 47,
   "withPdfParsed": 29,
   "withScores": 17,
-  "updatedAtLocal": "2026-09-15 04:36:38"
+  "updatedAtLocal": "2026-09-16 03:57:33"
 }
