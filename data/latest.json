@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-24T18:57:18.940036+00:00",
-  "updatedAtLocal": "2026-10-25 02:57:18",
+  "updatedAt": "2026-10-25T19:04:33.562745+00:00",
+  "updatedAtLocal": "2026-10-26 03:04:33",
   "timezone": "Asia/Shanghai",
   "summary": {
     "total": 63,
-    "extracted": 52,
+    "extracted": 51,
     "linksOnly": 3,
-    "failed": 8,
-    "withPdf": 46,
+    "failed": 9,
+    "withPdf": 45,
     "withPdfParsed": 27,
     "withScores": 17
   },
@@ -18,7 +18,7 @@
       "name": "东京科学大学",
       "nameJa": "東京科学大学",
       "domain": "https://www.isct.ac.jp/",
-      "checkedAt": "2026-10-24T18:35:17.399451+00:00",
+      "checkedAt": "2026-10-25T18:43:52.628346+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -115,7 +115,7 @@
       "name": "一桥大学",
       "nameJa": "一橋大学",
       "domain": "https://www.hit-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:35:31.859888+00:00",
+      "checkedAt": "2026-10-25T18:44:05.759703+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -207,7 +207,7 @@
       "name": "大阪大学",
       "nameJa": "大阪大学",
       "domain": "https://www.osaka-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:36:01.127211+00:00",
+      "checkedAt": "2026-10-25T18:44:35.245986+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -270,7 +270,7 @@
       "name": "早稻田大学",
       "nameJa": "早稲田大学",
       "domain": "https://www.waseda.jp/",
-      "checkedAt": "2026-10-24T18:36:10.293873+00:00",
+      "checkedAt": "2026-10-25T18:44:44.166983+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -401,7 +401,7 @@
       "name": "庆应义塾大学",
       "nameJa": "慶應義塾大学",
       "domain": "https://www.keio.ac.jp/",
-      "checkedAt": "2026-10-24T18:36:36.635147+00:00",
+      "checkedAt": "2026-10-25T18:45:06.586196+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -532,7 +532,7 @@
       "name": "东北大学",
       "nameJa": "東北大学",
       "domain": "https://www.tohoku.ac.jp/",
-      "checkedAt": "2026-10-24T18:36:50.851055+00:00",
+      "checkedAt": "2026-10-25T18:45:19.674184+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -714,7 +714,7 @@
       "name": "名古屋大学",
       "nameJa": "名古屋大学",
       "domain": "https://www.nagoya-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:37:41.552971+00:00",
+      "checkedAt": "2026-10-25T18:46:12.736920+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -858,7 +858,7 @@
       "name": "九州大学",
       "nameJa": "九州大学",
       "domain": "https://www.kyushu-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:38:03.443110+00:00",
+      "checkedAt": "2026-10-25T18:46:32.936080+00:00",
       "status": "fetch_failed",
       "topLinks": [],
       "candidatePages": [],
@@ -886,7 +886,7 @@
       "name": "北海道大学",
       "nameJa": "北海道大学",
       "domain": "https://www.hokudai.ac.jp/",
-      "checkedAt": "2026-10-24T18:38:04.454400+00:00",
+      "checkedAt": "2026-10-25T18:46:33.926638+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -1080,7 +1080,7 @@
       "name": "神户大学",
       "nameJa": "神戸大学",
       "domain": "https://www.kobe-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:38:27.753005+00:00",
+      "checkedAt": "2026-10-25T18:46:57.250574+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -1266,7 +1266,7 @@
       "name": "上智大学",
       "nameJa": "上智大学",
       "domain": "https://www.sophia.ac.jp/",
-      "checkedAt": "2026-10-24T18:38:56.640210+00:00",
+      "checkedAt": "2026-10-25T18:47:27.319475+00:00",
       "status": "no_candidates",
       "topLinks": [],
       "candidatePages": [],
@@ -1292,7 +1292,7 @@
       "name": "国际基督教大学",
       "nameJa": "国際基督教大学",
       "domain": "https://www.icu.ac.jp/",
-      "checkedAt": "2026-10-24T18:38:57.813948+00:00",
+      "checkedAt": "2026-10-25T18:47:28.464654+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -1482,7 +1482,7 @@
       "name": "筑波大学",
       "nameJa": "筑波大学",
       "domain": "https://www.tsukuba.ac.jp/",
-      "checkedAt": "2026-10-24T18:39:18.630229+00:00",
+      "checkedAt": "2026-10-25T18:47:49.881301+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -1563,6 +1563,13 @@
       ],
       "candidatePages": [
         {
+          "url": "https://ac.tsukuba.ac.jp/apply/application-guidelines/",
+          "text": "入試日程と募集要項",
+          "linkScore": 12,
+          "textScore": 15,
+          "isPdf": false
+        },
+        {
           "url": "https://www.tsukuba.ac.jp/admission/graduate-overview/",
           "text": "大学院入試情報の概要",
           "linkScore": 6,
@@ -1589,17 +1596,10 @@
           "linkScore": 6,
           "textScore": 13,
           "isPdf": false
-        },
-        {
-          "url": "https://www.tsukuba.ac.jp/admission/graduate-result/",
-          "text": "入学試験実施結果",
-          "linkScore": 6,
-          "textScore": 13,
-          "isPdf": false
         }
       ],
       "errors": [],
-      "bestAdmissionUrl": "https://www.tsukuba.ac.jp/admission/graduate-overview/",
+      "bestAdmissionUrl": "https://ac.tsukuba.ac.jp/apply/application-guidelines/",
       "pdfLinks": [
         "https://www.tsukuba.ac.jp/about/pdf/univ-management-human-resources-development-plan.pdf",
         "https://www.tsukuba.ac.jp/about/pdf/pr-strategy.pdf",
@@ -1630,6 +1630,11 @@
       },
       "extractedPages": [
         {
+          "url": "https://ac.tsukuba.ac.jp/apply/application-guidelines/",
+          "snippetCount": 0,
+          "pdfCount": 0
+        },
+        {
           "url": "https://www.tsukuba.ac.jp/admission/graduate-overview/",
           "snippetCount": 5,
           "pdfCount": 10
@@ -1637,11 +1642,6 @@
         {
           "url": "https://www.tsukuba.ac.jp/admission/",
           "snippetCount": 5,
-          "pdfCount": 10
-        },
-        {
-          "url": "https://www.tsukuba.ac.jp/admission/undergrad-tuition/",
-          "snippetCount": 4,
           "pdfCount": 10
         }
       ],
@@ -1669,7 +1669,7 @@
       "name": "横滨国立大学",
       "nameJa": "横浜国立大学",
       "domain": "https://www.yokohama-nu.ac.jp/",
-      "checkedAt": "2026-10-24T18:39:41.037696+00:00",
+      "checkedAt": "2026-10-25T18:48:10.777072+00:00",
       "status": "fetch_failed",
       "topLinks": [],
       "candidatePages": [],
@@ -1697,7 +1697,7 @@
       "name": "千叶大学",
       "nameJa": "千葉大学",
       "domain": "https://www.chiba-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:39:41.760964+00:00",
+      "checkedAt": "2026-10-25T18:48:11.487211+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -1817,7 +1817,7 @@
       "name": "东京理科大学",
       "nameJa": "東京理科大学",
       "domain": "https://www.tus.ac.jp/",
-      "checkedAt": "2026-10-24T18:40:01.082356+00:00",
+      "checkedAt": "2026-10-25T18:48:31.930210+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -1999,7 +1999,7 @@
       "name": "明治大学",
       "nameJa": "明治大学",
       "domain": "https://www.meiji.ac.jp/",
-      "checkedAt": "2026-10-24T18:40:18.149732+00:00",
+      "checkedAt": "2026-10-25T18:48:46.574152+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -2150,7 +2150,7 @@
       "name": "电气通信大学",
       "nameJa": "電気通信大学",
       "domain": "https://www.u-ec.ac.jp/",
-      "checkedAt": "2026-10-24T18:40:37.390276+00:00",
+      "checkedAt": "2026-10-25T18:49:06.900328+00:00",
       "status": "fetch_failed",
       "topLinks": [],
       "candidatePages": [],
@@ -2178,7 +2178,7 @@
       "name": "东京农工大学",
       "nameJa": "東京農工大学",
       "domain": "https://www.tuat.ac.jp/",
-      "checkedAt": "2026-10-24T18:40:38.156121+00:00",
+      "checkedAt": "2026-10-25T18:49:07.611936+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -2356,7 +2356,7 @@
       "name": "名古屋工业大学",
       "nameJa": "名古屋工業大学",
       "domain": "https://www.nitech.ac.jp/",
-      "checkedAt": "2026-10-24T18:41:04.942415+00:00",
+      "checkedAt": "2026-10-25T18:49:34.744462+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -2524,7 +2524,7 @@
       "name": "京都工艺纤维大学",
       "nameJa": "京都工芸繊維大学",
       "domain": "https://www.kit.ac.jp/",
-      "checkedAt": "2026-10-24T18:41:27.641195+00:00",
+      "checkedAt": "2026-10-25T18:49:58.996530+00:00",
       "status": "fetch_failed",
       "topLinks": [],
       "candidatePages": [],
@@ -2552,7 +2552,7 @@
       "name": "广岛大学",
       "nameJa": "広島大学",
       "domain": "https://www.hiroshima-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:41:29.306050+00:00",
+      "checkedAt": "2026-10-25T18:50:00.163363+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -2736,7 +2736,7 @@
       "name": "冈山大学",
       "nameJa": "岡山大学",
       "domain": "https://www.okayama-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:41:45.044824+00:00",
+      "checkedAt": "2026-10-25T18:50:16.381368+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -2883,7 +2883,7 @@
       "name": "金泽大学",
       "nameJa": "金沢大学",
       "domain": "https://www.kanazawa-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:42:10.423614+00:00",
+      "checkedAt": "2026-10-25T18:50:41.873878+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3039,7 +3039,7 @@
       "name": "青山学院大学",
       "nameJa": "青山学院大学",
       "domain": "https://www.aoyama.ac.jp/",
-      "checkedAt": "2026-10-24T18:42:39.529427+00:00",
+      "checkedAt": "2026-10-25T18:51:11.508803+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3150,7 +3150,7 @@
       "name": "立教大学",
       "nameJa": "立教大学",
       "domain": "https://www.rikkyo.ac.jp/",
-      "checkedAt": "2026-10-24T18:42:58.386410+00:00",
+      "checkedAt": "2026-10-25T18:51:30.463164+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3291,7 +3291,7 @@
       "name": "中央大学",
       "nameJa": "中央大学",
       "domain": "https://www.chuo-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:43:16.093254+00:00",
+      "checkedAt": "2026-10-25T18:51:46.809813+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3453,7 +3453,7 @@
       "name": "法政大学",
       "nameJa": "法政大学",
       "domain": "https://www.hosei.ac.jp/",
-      "checkedAt": "2026-10-24T18:43:42.166384+00:00",
+      "checkedAt": "2026-10-25T18:52:12.618739+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3586,7 +3586,7 @@
       "name": "同志社大学",
       "nameJa": "同志社大学",
       "domain": "https://www.doshisha.ac.jp/",
-      "checkedAt": "2026-10-24T18:44:01.627737+00:00",
+      "checkedAt": "2026-10-25T18:52:31.767545+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3708,7 +3708,7 @@
         "https://www.doshisha.ac.jp/files/nyugk/page/2026nyushi_yoko.pdf"
       ],
       "ejuSnippets": [
-        "入試の制度変更に関する重要なお知らせ インターネット出願 願書請求 資料請求 デジタルパンフレット 大学案内Webサイト Campus Life 2026年度入試要項 ニュース NEWS ニュース一覧 RSS 2026年10月23日 お知らせ 同志社大学×同志社女子大学合同入試説明会への台風30号の影響について 2026年10月5日 重 要 【受験生】2026年台風第25号による被害に関わる入学検定料の特別措置について（第2報）",
+        "入試の制度変更に関する重要なお知らせ インターネット出願 願書請求 資料請求 デジタルパンフレット 大学案内Webサイト Campus Life 2026年度入試要項 ニュース NEWS ニュース一覧 RSS 2026年10月5日 重 要 【受験生】2026年台風第25号による被害に関わる入学検定料の特別措置について（第2報） 被災支援 2026年10月5日 重 要 【受験生】台風第18号による被害に関わる入学検定料の特別措置",
         "文化情報学部 理工学部 生命医科学部 スポーツ健康科学部 心理学部 グローバル・コミュニケーション学部 グローバル地域文化学部 大学院 大学院 神学研究科 文学研究科 社会学研究科 法学研究科 経済学研究科 商学研究科 総合政策科学研究科 文化情報学研究科 理工学研究科 生命医科学研究科",
         "ール） メガメニューメニュー閉じる 研究・産官学連携 研究・産官学連携 研究所 人文科学研究所 アメリカ研究所 ハリス理化学研究所 リサーチ・イノベーション推進機構 リサーチ・イノベーション推進機構 研究者情報 研究者データベース（教員情報） 同志社大学次世代研究者プロファイル 客員教員 客員研究員 倫理審査室",
         "流・留学 国際交流・留学 海外留学 外国留学プログラム 留学準備 海外への留学を希望する方 本学への留学 大学・大学院［日本語で学ぶ］ 大学・大学院［英語で学ぶ］ 国際教養教育院 国際教育インスティテュート 国費留学制度の利用 交換留学制度の利用 本学に留学拠点を置く海外の大学 留学生支援制度 留学生への学費サポート",
@@ -3759,7 +3759,7 @@
       "name": "立命馆大学",
       "nameJa": "立命館大学",
       "domain": "https://www.ritsumei.ac.jp/",
-      "checkedAt": "2026-10-24T18:44:26.255949+00:00",
+      "checkedAt": "2026-10-25T18:52:56.398534+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3932,7 +3932,7 @@
       "name": "埼玉大学",
       "nameJa": "埼玉大学",
       "domain": "https://www.saitama-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:44:57.166376+00:00",
+      "checkedAt": "2026-10-25T18:53:26.005241+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -4114,7 +4114,7 @@
       "name": "静冈大学",
       "nameJa": "静岡大学",
       "domain": "https://www.shizuoka.ac.jp/",
-      "checkedAt": "2026-10-24T18:45:19.620287+00:00",
+      "checkedAt": "2026-10-25T18:53:48.757123+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -4308,7 +4308,7 @@
       "name": "新潟大学",
       "nameJa": "新潟大学",
       "domain": "https://www.niigata-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:45:57.907140+00:00",
+      "checkedAt": "2026-10-25T18:54:12.956549+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -4477,7 +4477,7 @@
       "name": "信州大学",
       "nameJa": "信州大学",
       "domain": "https://www.shinshu-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:46:27.040385+00:00",
+      "checkedAt": "2026-10-25T18:54:41.686879+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -4649,7 +4649,7 @@
       "name": "熊本大学",
       "nameJa": "熊本大学",
       "domain": "https://www.kumamoto-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:46:50.762947+00:00",
+      "checkedAt": "2026-10-25T18:55:05.450522+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -4685,11 +4685,6 @@
         {
           "url": "https://www.kumamoto-u.ac.jp/kokusaikouryuu/whatsnew/rc_photogallery",
           "text": "在学生 学生の海外での学びを発信！『留学フォトギャラリー』掲載写真を募集 開催日: 2026年9月1日 - 2026年12月28日",
-          "score": 3
-        },
-        {
-          "url": "https://www.kumamoto-u.ac.jp/event/nyushi/20261025_oyako_girls_school_4",
-          "text": "入学希望者 一般 親子ガールズスクール開催‼（10/25(日)・熊本博物館） 開催日: 2026年10月25日",
           "score": 3
         }
       ],
@@ -4753,8 +4748,8 @@
         "際連携機構 タイ・バンコクにてAUN-SUN/SixERSサマーセミナーを実施 第10回 熊本大学フォーラム（インドネシア・スラバヤ）を開催します ノーベル化学賞受賞者 ヨハン・ダイゼンホーファー博士が来学しました 谷口学長、韓国・KAIST主催の「国際学長フォーラム2013」に出席 谷口学長がヤンゴン大学（ミャンマー国）を訪問 谷口学長がミャンマー「工学教育拡充プロジェクト」開始式典に出席",
         "ークショップに参加 英国リーズ大学、日本学術振興会ロンドン研究連絡センターを伊原副学長（国際交流担当）が表敬訪問 平成26年度前期熊本大学国際化推進センター日本語研修コース及び熊本大学短期留学コース開講式の開催 四川大学（中国）における熊大-川大環境生物技術研究センターオープニングセレモニーに出席 アルバータ大学 Sirish L. Shah教授が来学 南開大学（中国）における大学間学術交流協",
         "業生4名が原田学長を表敬訪問 モンタナ州立大学国際部長（アメリカ合衆国）が原田学長、高島副学長を表敬訪問 アイルランガ大学（インドネシア）人文学部日本研究科日本語講師訪問団がグローバル教育カレッジ長を表敬訪問 桂林理工大学（中華人民共和国）との大学間交流協定調印式を実施しました 安徽大学（中華人民共和国）と大学間交流協定を締結しました 平成27年度「国立大学改革強化推進補助金」に採択されました",
-        "度（秋季）募集「Better Co-being社会を切り拓く異分野共創型博士イノベーター育成プログラム」募集に関する情報を掲示しました。 2026.09.30 令和9年度学校推薦型選抜Ⅰの学生募集要項を公表しました 関連イベント 親子ガールズスクール開催‼（10/25(日)・熊本博物館） 開催日：2026.10.25 令和８年度 熊本市版「みらいの科学者・DX人材共創プロジェクト」第２期 参加者募集開始！ 開催日：2026.10.26 - 2027.03.01 インターネット出願 熊本大学",
-        "入学志願者の入学検定料の免除について 携帯電話・スマートフォンサイト 携帯電話・スマートフォンサイト スマートフォン専用サイト 入試情報について 学部入試情報（入試概要・募集要項・入試日程・出願状況等） 学部入試募集人員 大学院入試情報 その他の入試・受け入れ制度 入試資料請求方法 入試実施状況 オープンキャンパス 進学説明会 学部主催の進学説明会 出前授業 受験生への大学案内（デジタルパンフ、動画） 入試Q&A 高校生のための熊大ワクワク事業（",
+        "度（秋季）募集「Better Co-being社会を切り拓く異分野共創型博士イノベーター育成プログラム」募集に関する情報を掲示しました。 2026.09.30 令和9年度学校推薦型選抜Ⅰの学生募集要項を公表しました 関連イベント 令和８年度 熊本市版「みらいの科学者・DX人材共創プロジェクト」第２期 参加者募集開始！ 開催日：2026.10.26 - 2027.03.01 インターネット出願 熊本大学入学志願者の入学検定料の免除について 携帯電話・スマートフォンサイト 携帯電話・スマートフ",
+        "ォンサイト スマートフォン専用サイト 入試情報について 学部入試情報（入試概要・募集要項・入試日程・出願状況等） 学部入試募集人員 大学院入試情報 その他の入試・受け入れ制度 入試資料請求方法 入試実施状況 オープンキャンパス 進学説明会 学部主催の進学説明会 出前授業 受験生への大学案内（デジタルパンフ、動画） 入試Q&A 高校生のための熊大ワクワク事業（",
         "先（学生交流協定校）一覧 短期海外研修プログラム 交換留学Q&A 外国人留学生の方へ 熊本大学短期留学制度 日韓共同理工系学部留学生事業 日本語を学びたい方へ 各種奨学金 サポートシステム 住居の情報 留学が決まった方へ 在留資格について グローバル教育カレッジ 熊本大学について 学長メッセージ 沿革 教育研究組織 教育情報の公表 情報"
       ],
       "extractedScores": {
@@ -4806,7 +4801,7 @@
       "name": "九州工业大学",
       "nameJa": "九州工業大学",
       "domain": "https://www.kyutech.ac.jp/",
-      "checkedAt": "2026-10-24T18:47:30.336967+00:00",
+      "checkedAt": "2026-10-25T18:55:31.597962+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -4982,7 +4977,7 @@
       "name": "芝浦工业大学",
       "nameJa": "芝浦工業大学",
       "domain": "https://www.shibaura-it.ac.jp/",
-      "checkedAt": "2026-10-24T18:47:55.451987+00:00",
+      "checkedAt": "2026-10-25T18:55:55.833068+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -5102,7 +5097,7 @@
       "name": "学习院大学",
       "nameJa": "学習院大学",
       "domain": "https://www.gakushuin.ac.jp/",
-      "checkedAt": "2026-10-24T18:48:13.542716+00:00",
+      "checkedAt": "2026-10-25T18:56:13.413216+00:00",
       "status": "no_candidates",
       "topLinks": [],
       "candidatePages": [],
@@ -5128,7 +5123,7 @@
       "name": "关西大学",
       "nameJa": "関西大学",
       "domain": "https://www.kansai-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:48:15.518404+00:00",
+      "checkedAt": "2026-10-25T18:56:15.206484+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -5315,7 +5310,7 @@
       "name": "关西学院大学",
       "nameJa": "関西学院大学",
       "domain": "https://www.kwansei.ac.jp/",
-      "checkedAt": "2026-10-24T18:48:45.288369+00:00",
+      "checkedAt": "2026-10-25T18:56:46.109841+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -5499,7 +5494,7 @@
       "name": "宇都宫大学",
       "nameJa": "宇都宮大学",
       "domain": "https://www.utsunomiya-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:49:03.676628+00:00",
+      "checkedAt": "2026-10-25T18:57:04.401772+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -5692,7 +5687,7 @@
       "name": "茨城大学",
       "nameJa": "茨城大学",
       "domain": "https://www.ibaraki.ac.jp/",
-      "checkedAt": "2026-10-24T18:49:31.039632+00:00",
+      "checkedAt": "2026-10-25T18:57:31.558610+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -5793,7 +5788,7 @@
       "name": "岐阜大学",
       "nameJa": "岐阜大学",
       "domain": "https://www.gifu-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:49:44.303086+00:00",
+      "checkedAt": "2026-10-25T18:57:44.355226+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -5974,7 +5969,7 @@
       "name": "三重大学",
       "nameJa": "三重大学",
       "domain": "https://www.mie-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:50:08.990314+00:00",
+      "checkedAt": "2026-10-25T18:58:08.525939+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -6098,7 +6093,7 @@
       "name": "山形大学",
       "nameJa": "山形大学",
       "domain": "https://www.yamagata-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:50:24.677428+00:00",
+      "checkedAt": "2026-10-25T18:58:23.685919+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -6291,7 +6286,7 @@
       "name": "前桥工科大学",
       "nameJa": "前橋工科大学",
       "domain": "https://www.maebashi-it.ac.jp/",
-      "checkedAt": "2026-10-24T18:51:04.645555+00:00",
+      "checkedAt": "2026-10-25T18:58:52.642348+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -6485,7 +6480,7 @@
       "name": "东京电机大学",
       "nameJa": "東京電機大学",
       "domain": "https://www.dendai.ac.jp/",
-      "checkedAt": "2026-10-24T18:51:27.714801+00:00",
+      "checkedAt": "2026-10-25T18:59:15.933836+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -6666,7 +6661,7 @@
       "name": "工学院大学",
       "nameJa": "工学院大学",
       "domain": "https://www.kogakuin.ac.jp/",
-      "checkedAt": "2026-10-24T18:52:12.866287+00:00",
+      "checkedAt": "2026-10-25T18:59:58.520905+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -6850,7 +6845,7 @@
       "name": "东京都市大学",
       "nameJa": "東京都市大学",
       "domain": "https://www.tcu.ac.jp/",
-      "checkedAt": "2026-10-24T18:52:40.926105+00:00",
+      "checkedAt": "2026-10-25T19:00:27.159143+00:00",
       "status": "fetch_failed",
       "topLinks": [],
       "candidatePages": [],
@@ -6878,7 +6873,7 @@
       "name": "成城大学",
       "nameJa": "成城大学",
       "domain": "https://www.seijo.ac.jp/",
-      "checkedAt": "2026-10-24T18:52:41.788654+00:00",
+      "checkedAt": "2026-10-25T19:00:28.001242+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -6996,7 +6991,7 @@
       "ejuSnippets": [
         "に日本文化を紹介するバスツアー） 英語で女子トーク！ 国際交流サポーターの学生と、留学生の仲良し女子トーク。 CAST（撮影時） 文芸学部ヨーロッパ文化学科3年 松﨑 悠里香（国際交流サポーター） オーストラリア・ニューカッスル大学交換留学生 Sarah Giffen 米国・カリフォルニア州立大学フラトン校交換留学生 Lauren Finney 国際交流学生寮「アミスタ南烏山」 世田谷",
         "るから、安心して来日できました。 アリアナ デュフゼルさん ベルギー・ルーベンカトリック大学 兄が読んでいた漫画から日本に興味を持ちました。その後、大学で日本語学を3年間学び、そこで日本に行ってみたいと思うようになりました。最初は関西を希望していたのですが、成城大学に留学をしていた先輩がいて、体験談を聞いてここならと選びました。実際に来てみて、街の規模や静かさがベルギーに少し似ていると感じました。",
-        "ご案内しておりますとおり、入試情報サイト「成城ブリッジ」のサービスを一時停止しております。 つきましては、総合型選抜二次試験に出願・受験される方に対して、一時的な対応として本ページに「総合型選抜学生募集要項」を掲載をしておりますので、ご確認いただくようにお願いいたします。 ■ 総合型選抜学生募集要項 また、学生募集要項への記載事項以外に、確認したいことがございましたら、成城大学入学センターまでお問い合わせください。 【本件に関するお問合せ先】 成城大学入学センター TEL：03-3482-9100 E-",
+        "ご案内しておりますとおり、入試情報サイト「成城ブリッジ」のサービスを一時停止しております。 つきましては、総合型選抜二次試験に出願・受験される方に対して、一時的な対応として本ページに「総合型選抜学生募集要項」を掲載をしておりますので、ご確認いただくようにお願いいたします。 ■ 総合型選抜学生募集要項 なお、WEB出願サイトは通常どおりご利用いただけます。 出願手続等は こちら からご対応をお願いいたします。 また、学生募集要項への記載事項以外に、確認したいことがございましたら、成城大学入学センターまでお問い",
         "学科での勉学を強く希望している高等学校3年生について、所属高等学校長の推薦に基づき、書類審査、面接及び小論文等により選考のうえ、入学を認めるものです。 毎年7月頃に各高等学校長宛てに、推薦依頼文書及び募集要項を発送するので、推薦依頼の有無や条件等は、各高等学校の進路指導ご担当者にご確認ください。 本学にお問い合わせいただいても、各学校の推薦の有無はお答えできません。あらかじめご了承ください。 成城学園高等学校からの推薦入学においても、同様に高等学校長の推薦に基づき、書類審査、面接及び小論文等により選考のうえ、入学を認めます",
         "で、該当学部の必要な書類をダウンロード・印刷してください。 また、出願書類のダウンロードにはパスワードが必要です。推薦依頼状に記載のパスワードをご入力ください。 学校推薦型選抜のWEB出願手続 は、募集要項に記載されている出願期間にのみ行うことができます。 本ぺージ下部に掲載している出願書類のダウンロードは出願期間前でも可能ですので、書類のご準備は先に進めていただくことができます。 【全学部共通のお知らせ】 ・身上調書の印刷方法が「A4サイズ両面印刷（長辺とじ）」に変更になりました。詳細な印刷方法は こちら からご確認",
         "2027 年度 総合型選抜学生募集要項 成城大学 この内容は 2026 年 5 月現在のものであり、今後の社会情勢によって変更する 可能性があります。本要項の記載内容を変更する場合は、本学入試情報サイト 「成城ブリッジ」 https://admission.seijo.ac.jp にてお知らせします。 目 次 人材育成の目的と入学者の受入れに関する方針 （",
@@ -7052,7 +7047,7 @@
       "name": "南山大学",
       "nameJa": "南山大学",
       "domain": "https://www.nanzan-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:53:04.340804+00:00",
+      "checkedAt": "2026-10-25T19:00:49.883307+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -7216,7 +7211,7 @@
       "name": "丰田工业大学",
       "nameJa": "豊田工業大学",
       "domain": "https://www.toyota-ti.ac.jp/",
-      "checkedAt": "2026-10-24T18:53:30.326130+00:00",
+      "checkedAt": "2026-10-25T19:01:16.555784+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -7361,145 +7356,14 @@
       "name": "琉球大学",
       "nameJa": "琉球大学",
       "domain": "https://www.u-ryukyu.ac.jp/",
-      "checkedAt": "2026-10-24T18:53:50.148523+00:00",
-      "status": "ok",
-      "topLinks": [
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/recruitment/",
-          "text": "募集要項・選抜要項・入試日程",
-          "score": 12
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/",
-          "text": "入試情報",
-          "score": 6
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/infomation/",
-          "text": "入試課からのお知らせ",
-          "score": 6
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/graduateschool/",
-          "text": "大学院入試情報",
-          "score": 6
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/fee/",
-          "text": "入学料・授業料等",
-          "score": 6
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/qa/",
-          "text": "入試Q &amp; A（随時更新中）",
-          "score": 6
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/passed/",
-          "text": "入試データ・過去問",
-          "score": 6
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/international/",
-          "text": "国際交流・留学",
-          "score": 3
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/aboutus/#anc-5",
-          "text": "教職員募集情報",
-          "score": 3
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/?page_id=95",
-          "text": "学部入試情報",
-          "score": 3
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/successfulapplicants/",
-          "text": "合格発表",
-          "score": 3
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/event/",
-          "text": "受験生向けイベント",
-          "score": 3
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/prospective/",
-          "text": "入学希望者へ",
-          "score": 3
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/ryudaiathome/",
-          "text": "RYUDAI@home",
-          "score": 3
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/aboutus/facultymember/",
-          "text": "教員募集(研究者等含む)",
-          "score": 3
-        }
-      ],
-      "candidatePages": [
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/recruitment/",
-          "text": "募集要項・選抜要項・入試日程",
-          "linkScore": 12,
-          "textScore": 12,
-          "isPdf": false
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/",
-          "text": "入試情報",
-          "linkScore": 6,
-          "textScore": 9,
-          "isPdf": false
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/international/",
-          "text": "国際交流・留学",
-          "linkScore": 3,
-          "textScore": 9,
-          "isPdf": false
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/infomation/",
-          "text": "入試課からのお知らせ",
-          "linkScore": 6,
-          "textScore": 7,
-          "isPdf": false
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/fee/",
-          "text": "入学料・授業料等",
-          "linkScore": 6,
-          "textScore": 7,
-          "isPdf": false
-        }
-      ],
+      "checkedAt": "2026-10-25T19:01:36.566329+00:00",
+      "status": "no_candidates",
+      "topLinks": [],
+      "candidatePages": [],
       "errors": [],
-      "bestAdmissionUrl": "https://www.u-ryukyu.ac.jp/admissions/recruitment/",
-      "pdfLinks": [
-        "https://www.u-ryukyu.ac.jp/wp-content/uploads/2022/04/3604e62f36a8e54412f89484b760464d.pdf",
-        "https://www.u-ryukyu.ac.jp/wp-content/uploads/2026/08/teisei2.pdf",
-        "https://www.u-ryukyu.ac.jp/wp-content/uploads/2026/07/teisei.pdf",
-        "https://www.u-ryukyu.ac.jp/wp-content/uploads/2026/08/R9yoko_re2.pdf",
-        "https://www.u-ryukyu.ac.jp/wp-content/uploads/2026/08/R9nyushinittei.pdf",
-        "https://www.u-ryukyu.ac.jp/wp-content/uploads/2025/10/igakuka_teiin_08.pdf",
-        "https://www.u-ryukyu.ac.jp/wp-content/uploads/2024/05/R7chosa.pdf",
-        "https://www.u-ryukyu.ac.jp/wp-content/uploads/2023/02/7837a819d2c683a15da6df5ed389b334.pdf",
-        "https://www.u-ryukyu.ac.jp/wp-content/uploads/2026/10/4d22c46546e61298d97456565db1053e.pdf"
-      ],
-      "ejuSnippets": [
-        "募集要項・選抜要項・入試日程 | 琉球大学 大学情報 学部・大学院等 入試情報 学生生活 研究・地域連携 国際交流・留学 公式SNS English MENU 寄附について お問い合わせ一覧 アクセス 琉球大学について 公開情報 規則集データベース 琉球大学の取り",
-        "組み 教職員募集情報 学部 大学院 センター等 入試情報 入試課からのお知らせ 大学院入試情報 学部入試情報 入学料・授業料等 募集要項・選抜要項・入試日程 合格発表 受験生向けイベント 入試Q & A（随時更新中） 入試データ・過去問 授業・カリキュラム 学生生活支援情報（免除・奨学金・寮等） 就職情報 学生生活に関する各種問い合わせ 卒業生等の各種証明書の発行手続きについて 琉球大学周辺の路線バス・コミュニテ",
-        "カイブ 大学情報 学部・大学院等 入試情報 学生生活 研究・地域連携 国際交流・留学 寄附について お問い合わせ一覧 アクセス 公式SNS ホーム 入試情報 募集要項・選抜要項・入試日程 募集要項・選抜要項・入試日程 募集要項、選抜要項、入試日程等を掲載しています。 学部 入試日程 インターネット出願について 入学者選抜要項 学生募集要項 編入学 大学院 お知らせ ・令和９年度特別選抜学生募集要項を掲載しました。（2026.",
-        "）年度入学者選抜要項の訂正について を掲載しました。（2026.07.09） ・ 令和９（2027）年度入学者選抜要項（訂正版） を掲載しました。（2026.06.30） ・ 令和９年度総合型選抜学生募集要項 を掲載しました。（2026.06.30） ・ 令和９(2027)年度入試日程 を掲載しました。（2026.5.19） ・ 令和８年度 琉球大学医学部医学科の入学定員について（決定） を掲載しました。（2025.10.31） ・ 令和９年度入試に関する変更予告 もご確認ください。 学部 入試日程",
-        "インターネット上だけで完結するものではございませんのでご注意ください。 インターネット出願サイト 出願登録方法 よくある質問・お問い合わせ インターネット出願前には必ず学生募集要項をご確認ください。 入学者選抜要項 令和９（2027）年度 入学者選抜要項 （2026.08.14訂正） 令和９（2027）年度 入学者選抜要項の訂正について （2026.07.09掲載） 令和９（2027）年度 入学者選抜要項の訂正について② （2026.08.14掲載） 【参考】琉球大学入学",
-        "データベース 琉球大学の取り組み 教職員募集情報 学部 大学院 センター等 入試情報 入試課からのお知らせ 大学院入試情報 学部入試情報 入学料・授業料等 募集要項・選抜要項・入試日程 合格発表 受験生向けイベント 入試Q & A（随時更新中） 入試データ・過去問 授業・カリキュラム 学生生活支援情報（免除・奨学金・寮等） 就職情報 学生生活に関する各種問い合わせ 卒業生等の各種証明書の発行手続きについて 琉球大学周辺の路線バス・コミュニテ",
-        "抜要項を掲載しました 令和8(2026)年度 琉大にぬふぁ星講座のお知らせを掲載しました 令和10（2028）年度 琉球大学入学者選抜について（予告）を掲載しました 大学院 各研究科 学生募集要項を掲載しました 入試カレンダーを見る 入試情報 menu 合格発表 入試課からのお知らせ 入試の変更等に関する予告 受験生向けイベント（説明会・オープンキャンパス等） 大学案内（パンフレット） 募集要項・選抜要項・入試日程（学部・大学院・編入学） 入学料・授業料 入学者受入れの方",
-        "タベース イベント 研究成果 お知らせ 教えて琉大LIFE 社会で活躍する琉大卒業生 サイトマップ 学部・大学院等 学部 大学院 センター等 入試情報 募集要項・選抜要項・入試日程 受験生向けイベント 入試データ・過去問 受験生向けイベント 入試Q & A（随時更新中） 学生生活 授業・カリキュラム 学生生活支援情報（免除・奨学金・寮等） 就職情報 学生生活に関する各種問い合わせ 卒業生等の各種証明書の発行手続きについて 研究・地域"
-      ],
+      "bestAdmissionUrl": null,
+      "pdfLinks": [],
+      "ejuSnippets": [],
       "extractedScores": {
         "japanese": null,
         "math": null,
@@ -7508,40 +7372,9 @@
         "biology": null,
         "japanWorld": null
       },
-      "extractedPages": [
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/recruitment/",
-          "snippetCount": 5,
-          "pdfCount": 7
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/admissions/",
-          "snippetCount": 3,
-          "pdfCount": 1
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/international/",
-          "snippetCount": 2,
-          "pdfCount": 3
-        }
-      ],
-      "extractedPdfs": [
-        {
-          "url": "https://www.u-ryukyu.ac.jp/wp-content/uploads/2022/04/3604e62f36a8e54412f89484b760464d.pdf",
-          "status": "ok",
-          "pagesParsed": 1,
-          "snippetCount": 0,
-          "error": null
-        },
-        {
-          "url": "https://www.u-ryukyu.ac.jp/wp-content/uploads/2026/08/teisei2.pdf",
-          "status": "ok",
-          "pagesParsed": 1,
-          "snippetCount": 0,
-          "error": null
-        }
-      ],
-      "enrichStatus": "extracted"
+      "extractedPages": [],
+      "extractedPdfs": [],
+      "enrichStatus": "no_candidates"
     },
     {
       "id": "t8-54",
@@ -7549,7 +7382,7 @@
       "name": "北见工业大学",
       "nameJa": "北見工業大学",
       "domain": "https://www.kitami-it.ac.jp/",
-      "checkedAt": "2026-10-24T18:54:23.098755+00:00",
+      "checkedAt": "2026-10-25T19:01:38.608750+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -7595,7 +7428,7 @@
       "name": "室兰工业大学",
       "nameJa": "室蘭工業大学",
       "domain": "https://www.muroran-it.ac.jp/",
-      "checkedAt": "2026-10-24T18:54:28.099362+00:00",
+      "checkedAt": "2026-10-25T19:01:43.696780+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -7781,7 +7614,7 @@
       "name": "日本大学",
       "nameJa": "日本大学",
       "domain": "https://www.nihon-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:54:53.878905+00:00",
+      "checkedAt": "2026-10-25T19:02:09.376479+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -7918,7 +7751,7 @@
       "name": "东洋大学",
       "nameJa": "東洋大学",
       "domain": "https://www.toyo.ac.jp/",
-      "checkedAt": "2026-10-24T18:55:11.345106+00:00",
+      "checkedAt": "2026-10-25T19:02:24.187282+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -7996,7 +7829,7 @@
       "name": "驹泽大学",
       "nameJa": "駒澤大学",
       "domain": "https://www.komazawa-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:55:20.973737+00:00",
+      "checkedAt": "2026-10-25T19:02:34.401871+00:00",
       "status": "fetch_failed",
       "topLinks": [],
       "candidatePages": [],
@@ -8024,7 +7857,7 @@
       "name": "专修大学",
       "nameJa": "専修大学",
       "domain": "https://www.senshu-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:55:22.379696+00:00",
+      "checkedAt": "2026-10-25T19:02:35.653877+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -8070,7 +7903,7 @@
       "name": "京都产业大学",
       "nameJa": "京都産業大学",
       "domain": "https://www.kyoto-su.ac.jp/",
-      "checkedAt": "2026-10-24T18:55:27.633424+00:00",
+      "checkedAt": "2026-10-25T19:02:40.269273+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -8264,7 +8097,7 @@
       "name": "近畿大学",
       "nameJa": "近畿大学",
       "domain": "https://www.kindai.ac.jp/",
-      "checkedAt": "2026-10-24T18:56:04.937218+00:00",
+      "checkedAt": "2026-10-25T19:03:17.610127+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -8361,7 +8194,7 @@
         },
         {
           "url": "https://www.instagram.com/p/DdyjDf4EzzU/",
-          "snippetCount": 1,
+          "snippetCount": 0,
           "pdfCount": 0
         }
       ],
@@ -8389,7 +8222,7 @@
       "name": "甲南大学",
       "nameJa": "甲南大学",
       "domain": "https://www.konan-u.ac.jp/",
-      "checkedAt": "2026-10-24T18:56:23.290376+00:00",
+      "checkedAt": "2026-10-25T19:03:37.288411+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -8577,7 +8410,7 @@
       "name": "龙谷大学",
       "nameJa": "龍谷大学",
       "domain": "https://www.ryukoku.ac.jp/",
-      "checkedAt": "2026-10-24T18:56:50.926697+00:00",
+      "checkedAt": "2026-10-25T19:04:05.042068+00:00",
       "status": "ok",
       "topLinks": [
         {
