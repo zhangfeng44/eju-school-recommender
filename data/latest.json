@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-10T00:22:39.560137+00:00",
-  "updatedAtLocal": "2026-11-10 08:22:39",
+  "updatedAt": "2026-11-10T22:02:50.960059+00:00",
+  "updatedAtLocal": "2026-11-11 06:02:50",
   "timezone": "Asia/Shanghai",
   "summary": {
     "total": 63,
-    "extracted": 54,
+    "extracted": 53,
     "linksOnly": 2,
-    "failed": 7,
-    "withPdf": 48,
+    "failed": 8,
+    "withPdf": 46,
     "withPdfParsed": 28,
     "withScores": 16
   },
@@ -18,7 +18,7 @@
       "name": "东京科学大学",
       "nameJa": "東京科学大学",
       "domain": "https://www.isct.ac.jp/",
-      "checkedAt": "2026-11-09T23:57:33.721049+00:00",
+      "checkedAt": "2026-11-10T21:39:07.164586+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -80,7 +80,7 @@
         "ment August 27, 2026 Regarding the Written Examination (Specialized Subject: Chemistry) for the AY 2027 Entrance Examination for the Master&#039;s Program, Health Sciences and Biomedical Engineering Track,",
         "an exceptionally long backbone November 9, 2026 Press Releases Research Chemistry Chemical Science and Engineering Materials-Positive Society Science you can taste: beer brewing at CODAMA Novem",
         "nstructing chiral nanographenes November 5, 2026 Press Releases Research Chemistry Chemical Science and Engineering Materials-Positive Society How evolutionary changes in a key enzyme may have tun",
-        "ed the protein synthesis rate November 5, 2026 Press Releases Research Chemistry Life Science and Technology Space Innovation Events 2026 2nd Information Session: Graduate Major in Super Smart",
+        "ed the protein synthesis rate November 5, 2026 Press Releases Research Chemistry Life Science and Technology Space Innovation Events News and events Introduction to the Science Tokyo We prov",
         "Fund Alumni Employment opportunities Search Search Science Tokyo site 日本語 English Science Tokyo Prospective students Partners and entrepreneurs Current students Hospital users Acces",
         "umi Narushima, 3rd year, Systems and Control Engineering Riko Suzuki, 3rd year, Chemistry, Ochanomizu University Kanna Kawasaki, 2nd year, Mechanical Engineering Kazuki Fuwa, 2nd year, Mechanical Engineering Y"
       ],
@@ -118,7 +118,7 @@
       "name": "一桥大学",
       "nameJa": "一橋大学",
       "domain": "https://www.hit-u.ac.jp/",
-      "checkedAt": "2026-11-09T23:57:49.800572+00:00",
+      "checkedAt": "2026-11-10T21:39:22.036730+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -210,7 +210,7 @@
       "name": "大阪大学",
       "nameJa": "大阪大学",
       "domain": "https://www.osaka-u.ac.jp/",
-      "checkedAt": "2026-11-09T23:58:22.027577+00:00",
+      "checkedAt": "2026-11-10T21:39:50.102005+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -273,9 +273,14 @@
       "name": "早稻田大学",
       "nameJa": "早稲田大学",
       "domain": "https://www.waseda.jp/",
-      "checkedAt": "2026-11-09T23:58:32.833802+00:00",
+      "checkedAt": "2026-11-10T21:39:58.766056+00:00",
       "status": "ok",
       "topLinks": [
+        {
+          "url": "https://www.waseda.jp/inst/admission/news/2026/10/28/21217/",
+          "text": "【一般選抜・共通テスト利用入試】2027年度入学試験要項を公開しました &#9570;",
+          "score": 12
+        },
         {
           "url": "https://www.waseda.jp/top/admissions",
           "text": "Admissions 入試情報 More&#63341;",
@@ -302,8 +307,18 @@
           "score": 3
         },
         {
+          "url": "https://admission.waseda.jp/",
+          "text": "",
+          "score": 3
+        },
+        {
           "url": "https://www.waseda.jp/top/news/123032",
           "text": "2026年9月入学式を執り行いました",
+          "score": 3
+        },
+        {
+          "url": "https://www.waseda.jp/top/tag/international",
+          "text": "国際",
           "score": 3
         },
         {
@@ -333,6 +348,13 @@
           "isPdf": false
         },
         {
+          "url": "https://admission.waseda.jp/",
+          "text": "",
+          "linkScore": 3,
+          "textScore": 6,
+          "isPdf": false
+        },
+        {
           "url": "https://www.waseda.jp/top/news/123032",
           "text": "2026年9月入学式を執り行いました",
           "linkScore": 3,
@@ -340,30 +362,19 @@
           "isPdf": false
         },
         {
-          "url": "http://www.waseda.jp/inst/admission/",
-          "text": "Applicants受験生&#9570;",
-          "linkScore": 3,
-          "textScore": 5,
-          "isPdf": false
-        },
-        {
-          "url": "https://www.waseda.jp/top/about/disclosure/entrance-fee",
-          "text": "入学金や授業料など納付金",
-          "linkScore": 3,
+          "url": "https://www.waseda.jp/inst/admission/news/2026/10/28/21217/",
+          "text": "【一般選抜・共通テスト利用入試】2027年度入学試験要項を公開しました &#9570;",
+          "linkScore": 12,
           "textScore": 5,
           "isPdf": false
         }
       ],
       "errors": [],
       "bestAdmissionUrl": "https://www.waseda.jp/top/admissions",
-      "pdfLinks": [
-        "https://www.waseda.jp/top/assets/uploads/2026/09/579378dc2f960a4feee43f0b9edf1ab7.pdf",
-        "https://www.waseda.jp/top/assets/uploads/2026/09/f2ccd3f7ed34574965f19b0b8d524d47.pdf",
-        "https://www.waseda.jp/top/assets/uploads/2026/09/1dd0685b16a0e8982929060cbcb0274b-1.pdf"
-      ],
+      "pdfLinks": [],
       "ejuSnippets": [
-        "入試情報, 学生の活躍, 施設と風景 過去の記事 Archives 入学案内・メールマガジン &#9570; 2026年度オープンキャンパス開催 &#9570; 【一般選抜・共テ利用】入試要項公開 &#9570; 2026年度版 学部入学案内 オープンキャンパス2025 開催 2025年度一般選抜当日の試験実施状況（交通遅延への対応）および合格発表・入学手続はこちら &#9570; オープンキャンパス2024を開催 2025年度版 学部入学案内 2025年度より文学研究科に新コース",
-        "o Waseda University. Thank you very much and good luck. LINK 【英語】総長式辞の全文 【日本語】総長式辞の全文 祝辞 野地 彦旬（のじ ひこみつ）様 野地 彦旬（のじ ひこみつ） 横浜ゴム株式会社 名誉顧問 Dear new students, and your families, Welcome to Waseda!"
+        "過去の記事 Archives オープンキャンパス2026 開催 入学案内・メールマガジン &#9570; 2026年度オープンキャンパス開催 &#9570; 【一般選抜・共テ利用】入試要項公開 &#9570; 2026年度版 学部入学案内 オープンキャンパス2025 開催 2025年度一般選抜当日の試験実施状況（交通遅延への対応）および合格発表・入学手続はこちら &#9570; オープンキャンパス2024を開催 2025年度版 学部入学案内 &#63341; 全ての記事を見る",
+        "4月 11日 ～ 8月31日 10:00～13:00、14:00～18:00（土日祝除く） 9月 1日 ～ 3月31日 10:00～18:00（12月30日～1月3日除く） 入試要項・試験当日の遅延等について 早稲田大学 入学センター https://www.waseda.jp/inst/admission/contact/ お問い合わせの前に入学試験要項内のQ&A、 入学センターWebサイトのQ&A をご確認ください。 *If you do not understand Japane"
       ],
       "extractedScores": {
         "japanese": null,
@@ -385,27 +396,12 @@
           "pdfCount": 0
         },
         {
-          "url": "https://www.waseda.jp/top/news/123032",
+          "url": "https://admission.waseda.jp/",
           "snippetCount": 1,
-          "pdfCount": 3
+          "pdfCount": 0
         }
       ],
-      "extractedPdfs": [
-        {
-          "url": "https://www.waseda.jp/top/assets/uploads/2026/09/579378dc2f960a4feee43f0b9edf1ab7.pdf",
-          "status": "failed",
-          "pagesParsed": 0,
-          "snippetCount": 0,
-          "error": "HTTP Error 403: Forbidden"
-        },
-        {
-          "url": "https://www.waseda.jp/top/assets/uploads/2026/09/f2ccd3f7ed34574965f19b0b8d524d47.pdf",
-          "status": "failed",
-          "pagesParsed": 0,
-          "snippetCount": 0,
-          "error": "HTTP Error 403: Forbidden"
-        }
-      ],
+      "extractedPdfs": [],
       "enrichStatus": "extracted"
     },
     {
@@ -414,7 +410,7 @@
       "name": "庆应义塾大学",
       "nameJa": "慶應義塾大学",
       "domain": "https://www.keio.ac.jp/",
-      "checkedAt": "2026-11-09T23:58:57.927445+00:00",
+      "checkedAt": "2026-11-10T21:40:22.916855+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -547,7 +543,7 @@
       "name": "东北大学",
       "nameJa": "東北大学",
       "domain": "https://www.tohoku.ac.jp/",
-      "checkedAt": "2026-11-09T23:59:12.221560+00:00",
+      "checkedAt": "2026-11-10T21:40:37.226008+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -724,7 +720,7 @@
       "name": "名古屋大学",
       "nameJa": "名古屋大学",
       "domain": "https://www.nagoya-u.ac.jp/",
-      "checkedAt": "2026-11-09T23:59:52.946821+00:00",
+      "checkedAt": "2026-11-10T21:41:09.770617+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -822,10 +818,10 @@
       ],
       "ejuSnippets": [
         "ンパスマップ お問い合わせ 名古屋大学サイト 東海国立大学機構サイト 名古屋大学研究情報発信サイト --> 入試に関する お知らせ 一覧を見る 入試情報 を知りたい 募集要項や出願状況、 オープンキャンパスの日程など、 入試に関する情報をご案内します。 学部入試 オープン キャンパス・ 進学説明会 募集要項・ 大学案内など 出願・入学手続 選抜状況・ 試験問題（過年度） 大学院入試 MORE 名古屋大学プロフィール動画 学部・研究科 を知りたい 9学部・13研究科の",
-        "先輩たちのキャンパスライフ。 リアルな声を集めました。 大学生活全般 アルバイトだけじゃない？ 大学生の長期インターンという働き方 理学研究科 理学専攻 物理科学領域 修士1年 岐阜県 岐阜県立大垣北高等学校 大学生活全般 看護学×データ分析 大学で広がった学びの可能性 医学系研究科 修士1年 愛知県 愛知高等学校 大学生活全般 日本史学研究室ってどんなところ？ 文学部 日本",
-        "かる？ 創薬科学研究科 修士２年 愛知県 愛知県立岡崎高等学校 大学生活全般 理系大学生はどれくらいプログラミングを使う？ 理学研究科 理学専攻 物理科学領域 修士1年 岐阜県 岐阜県立大垣北高等学校 受験勉強法 高１高２ 何をすればいい？ 理学部 愛知県 愛知県立豊橋東高等学校 大学生活全般 大学院生ってどんな生活？学部生との違いを紹介 医学系研究科 修士1年 愛",
+        "科学研究科 修士２年 愛知県 愛知県立岡崎高等学校 大学生活全般 アルバイトだけじゃない？ 大学生の長期インターンという働き方 理学研究科 理学専攻 物理科学領域 修士1年 岐阜県 岐阜県立大垣北高等学校 大学生活全般 看護学×データ分析 大学で広がった学びの可能性 医学系研究科 修士1年 愛知県 愛知高等学校 大学生活全般 日本史学研究室ってどんなところ？ 文学部 日本",
+        "かる？ 創薬科学研究科 修士２年 愛知県 愛知県立岡崎高等学校 大学生活全般 理系大学生はどれくらいプログラミングを使う？ 理学研究科 理学専攻 物理科学領域 修士1年 岐阜県 岐阜県立大垣北高等学校 受験勉強法 高１高２ 何をすればいい？ 理学部 愛知県 愛知県立豊橋東高等学校 MORE 学生生活 を知りたい 学びに関する情報や、生活に関する情報など、 入学後の",
         "ていきます。 &nbs 2026.10.20 大学生活全般 学部4年の研究生活ってどんな感じ？ 配属から卒論・学会発表まで こんにちは。今回は、理学部物理学科の学部4年生が、研究室に配属されてから卒業論文を書き、学会発表を行うまでの1年間について紹介します。研究室に入ると、それまで授業中心だった大学生活から、自分でテーマを持って研究を進める生活へと大きく変わりま 2026.10.16 受",
-        "ひご覧ください。 2026.10.01 大学生活全般 研究室ってどう選ぶ？ 理系学生が見ておきたい研究テーマ以外のポイント こんにちは。今回は、理学部物理学科の学生が大学4年生から所属する研究室をどう選び、どのように配属が決まるのかについて紹介します。研究室配属は、それまで授業を中心に学んできた学生が、自分の興味に合わせて本格的な研究を始める大きな節目の一つです 2026.09.30 受"
+        "ひご覧ください。 2026.10.01 大学生活全般 研究室ってどう選ぶ？ 理系学生が見ておきたい研究テーマ以外のポイント こんにちは。今回は、理学部物理学科の学生が大学4年生から所属する研究室をどう選び、どのように配属が決まるのかについて紹介します。研究室配属は、それまで授業を中心に学んできた学生が、自分の興味に合わせて本格的な研究を始める大きな節目の一つです カテゴリー -->"
       ],
       "extractedScores": {
         "japanese": null,
@@ -869,7 +865,7 @@
       "name": "九州大学",
       "nameJa": "九州大学",
       "domain": "https://www.kyushu-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:00:18.193755+00:00",
+      "checkedAt": "2026-11-10T21:41:30.326630+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -957,20 +953,6 @@
           "isPdf": false
         },
         {
-          "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty/selection",
-          "text": "大学案内・入学者選抜概要・募集要項",
-          "linkScore": 12,
-          "textScore": 13,
-          "isPdf": false
-        },
-        {
-          "url": "https://www.kyushu-u.ac.jp/ja/admission",
-          "text": "入試・入学",
-          "linkScore": 9,
-          "textScore": 13,
-          "isPdf": false
-        },
-        {
           "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty/",
           "text": "学部入試",
           "linkScore": 6,
@@ -983,26 +965,28 @@
           "linkScore": 6,
           "textScore": 12,
           "isPdf": false
+        },
+        {
+          "url": "https://www.kyushu-u.ac.jp/ja/admission/fees/",
+          "text": "入学料・授業料・奨学金",
+          "linkScore": 6,
+          "textScore": 12,
+          "isPdf": false
+        },
+        {
+          "url": "https://www.kyushu-u.ac.jp/contents_file/contents_files/loader/0/Admission/394/file/39c9f536fa0276b344e3a87a85e16d9b33e85bad/default/R10rigaku_yokoku.pdf",
+          "text": "2026.10.27 令和10年度（2028年度）以降の入学者選抜における変更について【理学部_一般選抜・総合型選抜】",
+          "linkScore": 8,
+          "textScore": 1,
+          "isPdf": true
         }
       ],
       "errors": [],
       "bestAdmissionUrl": "https://www.kyushu-u.ac.jp/ja/admission/entrance/requirements",
       "pdfLinks": [
-        "https://www.kyushu-u.ac.jp/f/66330/annai_2027.pdf",
-        "https://www.kyushu-u.ac.jp/f/66624/R9_gaiyomatome.pdf",
-        "https://www.kyushu-u.ac.jp/f/66625/R9_gaiyo_1.pdf",
-        "https://www.kyushu-u.ac.jp/f/66626/R9_gaiyo_2-1.pdf",
-        "https://www.kyushu-u.ac.jp/f/66627/R9_gaiyo_2-2.pdf",
-        "https://www.kyushu-u.ac.jp/f/66628/R9_gaiyo_2-3.pdf",
-        "https://www.kyushu-u.ac.jp/f/66629/R9_gaiyo_3-1.2.3.pdf",
-        "https://www.kyushu-u.ac.jp/f/66634/R9_gaiyo_3-4_up2.pdf",
-        "https://www.kyushu-u.ac.jp/f/66635/R9_gaiyo_3-5.pdf",
-        "https://www.kyushu-u.ac.jp/f/66636/R9_gaiyo_3-6.pdf",
-        "https://www.kyushu-u.ac.jp/f/66639/R9_gaiyo_4-1.pdf",
-        "https://www.kyushu-u.ac.jp/f/66640/R9_gaiyo_4-2.pdf",
-        "https://www.kyushu-u.ac.jp/f/66641/R9_gaiyo_4-3.pdf",
-        "https://www.kyushu-u.ac.jp/f/66644/R9_gaiyo_4-4.pdf",
-        "https://www.kyushu-u.ac.jp/f/66645/R9_gaiyo_4-5.6.7.pdf"
+        "https://www.kyushu-u.ac.jp/f/63407/202510_hikkei.pdf",
+        "https://www.kyushu-u.ac.jp/contents_file/contents_files/loader/0/Admission/394/file/39c9f536fa0276b344e3a87a85e16d9b33e85bad/default/R10rigaku_yokoku.pdf",
+        "https://www.kyushu-u.ac.jp/contents_file/contents_files/loader/0/Admission/391/file/a495b97f4ee1775028833af12d2f6232a16f8e41/default/R9_jisedai_eng_yugo_online.pdf"
       ],
       "ejuSnippets": [
         "募集要項 | 大学院入試 | 入試・入学 | 九州大学（KYUSHU UNIVERSITY） Automatic Translation Attention This website (all pages under https://www.kyushu-u.ac.jp/ja/) is automatically",
@@ -1010,9 +994,9 @@
         "・大学への寄付 危機管理 ・教員・職員公募情報 ・資料請求 ・サイトポリシー ・お問い合わせ ・アクセス ・サイトマップ Admissions 入試・入学 募集要項 トップページ 入試・入学 大学院入試 募集要項 募集要項 大学院入試 令和8年度実施の大学院入学者選抜一覧 詳細については、各学府のホームページを御覧ください。 人文科学府 地球社会統合科学府 人間環境学府 法学府 経済学府 理学府 数理学府",
         "ア・イノベーション連係学府 人文情報連係学府 システム生命科学府 法務学府（法科大学院） 経済学府（ビジネススクール） トップページ 入試・入学 大学院入試 募集要項 入試・入学 学部入試 アドミッションセンター インターネット出願 大学案内・入学者選抜概要・募集要項 障害等のある入学志願者の合理的配慮について(学部) 高校卒業(程度)を満たさない者の受験資格について ３年次編入学試験 入学者選抜実施状況 入学手続 大学案内等の請求方法",
         "試験問題、解答例等について 大学院入試 募集要項 障害等のある入学志願者の合理的配慮について(大学院) 入学料・授業料・奨学金 学生納付金 奨学金 授業料の納付 入学料免除（徴収猶予）・授業料免除 高等教育の修学支援新制度による授業料等減免（多子世帯無償化含む） 被災学生への入学料免除・徴収猶予、授業料免除 入学検定料の免除",
-        "大学案内・入学者選抜概要・募集要項 | 学部入試 | 入試・入学 | 九州大学（KYUSHU UNIVERSITY） Automatic Translation Attention This website (all pages under https://www.kyushu-u.ac.jp/ja/) is automatically t",
-        "機管理 ・教員・職員公募情報 ・資料請求 ・サイトポリシー ・お問い合わせ ・アクセス ・サイトマップ Admissions 入試・入学 大学案内・入学者選抜概要・募集要項 トップページ 入試・入学 学部入試 大学案内・入学者選抜概要・募集要項 大学案内・入学者選抜概要・募集要項 本学では、紙の願書を廃止し、インターネットからのみ願書受付を行っています。 インターネット出願について 令和9（2027）年度 大学案内、選抜概要、各学生募集要項の公表時期",
-        "選抜Ⅱ（次世代研究者発掘入試Ⅱを含む） 8月上旬頃 --> 公開中 学校推薦型選抜：共創学部・文学部・歯学部・工学部・芸術工学部 公開中 --> 帰国生徒選抜 公開中 私費外国人留学生入試（4月入学） 国際型入試（10月入学）：共創学部 公開中 私費外国人留学生入試（10月入学）：工学部 国際コース入試（10月入学）：農学部 ※H29年度からインターネット出願の導入により、紙媒体（冊子）の学生募集要項はありません。 ※公表中以外のものはすべて平成30年度入試に係"
+        "ポリシー ・お問い合わせ ・アクセス ・サイトマップ Admissions 入試・入学 学部入試 トップページ 入試・入学 学部入試 大学案内・入学者選抜概要・募集要項 インターネット出願 障害等のある入学志願者について(学部) 高校卒業(程度)を満たさない者の受験資格について 入学者選抜実施状況 入学ガイドブック 個人用PC（ノート型）の必携について 過去問題等について アドミッションセンター 入学前採用奨学金（九州大学独自の奨",
+        "わせ先 こちら からご確認ください。 トップページ 入試・入学 学部入試 入試・入学 学部入試 アドミッションセンター インターネット出願 大学案内・入学者選抜概要・募集要項 障害等のある入学志願者の合理的配慮について(学部) 高校卒業(程度)を満たさない者の受験資格について ３年次編入学試験 入学者選抜実施状況 入学手続 大学案内等の請求方法 試験問題、解答例等について 大学院入試 募集要項 障害等のある入学志願者の合理的配慮について(大学院)",
+        "クされている部局のページや外部サイトについては、自動翻訳の対象外となります。 翻訳適用中に、「Automatic Translation」をクリックすると元の日本語表示に戻ります。 自動翻訳は機械的に変換を行うため、意図が正確に反映されない場合や、画像・図表が翻訳されない場合があります。あらかじめご了承ください。 正確な情報については日本語表示の状態でご確認ください。 なお、一部の記事については"
       ],
       "extractedScores": {
         "japanese": null,
@@ -1029,29 +1013,29 @@
           "pdfCount": 0
         },
         {
-          "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty/selection",
+          "url": "https://www.kyushu-u.ac.jp/ja/admission/faculty/",
           "snippetCount": 5,
-          "pdfCount": 20
+          "pdfCount": 1
         },
         {
-          "url": "https://www.kyushu-u.ac.jp/ja/admission",
+          "url": "https://www.kyushu-u.ac.jp/ja/admission/entrance/",
           "snippetCount": 5,
-          "pdfCount": 20
+          "pdfCount": 0
         }
       ],
       "extractedPdfs": [
-        {
-          "url": "https://www.kyushu-u.ac.jp/contents_file/contents_files/loader/0/Admission/391/file/a495b97f4ee1775028833af12d2f6232a16f8e41/default/R9_jisedai_eng_yugo_online.pdf",
-          "status": "ok",
-          "pagesParsed": 1,
-          "snippetCount": 2,
-          "error": null
-        },
         {
           "url": "https://www.kyushu-u.ac.jp/contents_file/contents_files/loader/0/Admission/394/file/39c9f536fa0276b344e3a87a85e16d9b33e85bad/default/R10rigaku_yokoku.pdf",
           "status": "ok",
           "pagesParsed": 1,
           "snippetCount": 3,
+          "error": null
+        },
+        {
+          "url": "https://www.kyushu-u.ac.jp/contents_file/contents_files/loader/0/Admission/391/file/a495b97f4ee1775028833af12d2f6232a16f8e41/default/R9_jisedai_eng_yugo_online.pdf",
+          "status": "ok",
+          "pagesParsed": 1,
+          "snippetCount": 2,
           "error": null
         }
       ],
@@ -1063,7 +1047,7 @@
       "name": "北海道大学",
       "nameJa": "北海道大学",
       "domain": "https://www.hokudai.ac.jp/",
-      "checkedAt": "2026-11-10T00:00:50.469697+00:00",
+      "checkedAt": "2026-11-10T21:42:56.638240+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -1257,7 +1241,7 @@
       "name": "神户大学",
       "nameJa": "神戸大学",
       "domain": "https://www.kobe-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:01:14.400469+00:00",
+      "checkedAt": "2026-11-10T21:43:17.722945+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -1443,7 +1427,7 @@
       "name": "上智大学",
       "nameJa": "上智大学",
       "domain": "https://www.sophia.ac.jp/",
-      "checkedAt": "2026-11-10T00:01:48.536771+00:00",
+      "checkedAt": "2026-11-10T21:43:46.921705+00:00",
       "status": "no_candidates",
       "topLinks": [],
       "candidatePages": [],
@@ -1469,7 +1453,7 @@
       "name": "国际基督教大学",
       "nameJa": "国際基督教大学",
       "domain": "https://www.icu.ac.jp/",
-      "checkedAt": "2026-11-10T00:01:50.048210+00:00",
+      "checkedAt": "2026-11-10T21:43:48.070281+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -1659,7 +1643,7 @@
       "name": "筑波大学",
       "nameJa": "筑波大学",
       "domain": "https://www.tsukuba.ac.jp/",
-      "checkedAt": "2026-11-10T00:02:11.747453+00:00",
+      "checkedAt": "2026-11-10T21:44:10.206737+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -1846,7 +1830,7 @@
       "name": "横滨国立大学",
       "nameJa": "横浜国立大学",
       "domain": "https://www.yokohama-nu.ac.jp/",
-      "checkedAt": "2026-11-10T00:02:34.526717+00:00",
+      "checkedAt": "2026-11-10T21:44:31.686282+00:00",
       "status": "fetch_failed",
       "topLinks": [],
       "candidatePages": [],
@@ -1874,7 +1858,7 @@
       "name": "千叶大学",
       "nameJa": "千葉大学",
       "domain": "https://www.chiba-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:02:35.157924+00:00",
+      "checkedAt": "2026-11-10T21:44:32.409684+00:00",
       "status": "fetch_failed",
       "topLinks": [],
       "candidatePages": [],
@@ -1902,7 +1886,7 @@
       "name": "东京理科大学",
       "nameJa": "東京理科大学",
       "domain": "https://www.tus.ac.jp/",
-      "checkedAt": "2026-11-10T00:02:36.587752+00:00",
+      "checkedAt": "2026-11-10T21:44:33.924151+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -2084,7 +2068,7 @@
       "name": "明治大学",
       "nameJa": "明治大学",
       "domain": "https://www.meiji.ac.jp/",
-      "checkedAt": "2026-11-10T00:02:55.106362+00:00",
+      "checkedAt": "2026-11-10T21:44:52.279667+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -2239,7 +2223,7 @@
       "name": "电气通信大学",
       "nameJa": "電気通信大学",
       "domain": "https://www.u-ec.ac.jp/",
-      "checkedAt": "2026-11-10T00:03:14.211092+00:00",
+      "checkedAt": "2026-11-10T21:45:12.455171+00:00",
       "status": "fetch_failed",
       "topLinks": [],
       "candidatePages": [],
@@ -2267,7 +2251,7 @@
       "name": "东京农工大学",
       "nameJa": "東京農工大学",
       "domain": "https://www.tuat.ac.jp/",
-      "checkedAt": "2026-11-10T00:03:14.837465+00:00",
+      "checkedAt": "2026-11-10T21:45:13.080244+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -2296,11 +2280,6 @@
           "score": 3
         },
         {
-          "url": "https://web.tuat.ac.jp/~j-peaks/news/50/",
-          "text": "地域中核・特色ある研究大学強化促進事業「西東京三大学による産学連携イノベー ションピッチ」の開催および登壇企業募集",
-          "score": 3
-        },
-        {
           "url": "https://www.tuat.ac.jp/NEWS/entrance/20260827_01.html",
           "text": "【重要】2026年8月27日(木)の農学府（修士課程・博士課程）入学試験の試験開始時刻の繰り下げについて",
           "score": 3
@@ -2321,13 +2300,13 @@
           "score": 3
         },
         {
-          "url": "https://www.tuat.ac.jp/NEWS/activity/20261104_04.html",
-          "text": "工学府機械システム工学専攻博士後期課程１年の藤代晃太朗さんがThe 30th International Conference on Miniaturized Systems for Chemistry and Life Sciences – Micro-Total Analysis Systems (µTAS 2026)「Acoustofluidics Society Poster Award」を受賞",
+          "url": "https://www.tuat.ac.jp/NEWS/event/20251016_01.html",
+          "text": "令和8年度 大学院秋季入学式を挙行",
           "score": 3
         },
         {
-          "url": "https://www.tuat.ac.jp/NEWS/event/20251016_01.html",
-          "text": "令和8年度 大学院秋季入学式を挙行",
+          "url": "https://web.tuat.ac.jp/~j-peaks/news/50/",
+          "text": "地域中核・特色ある研究大学強化促進事業「西東京三大学による産学連携イノベー ションピッチ」の開催および登壇企業募集",
           "score": 3
         },
         {
@@ -2382,7 +2361,7 @@
       "bestAdmissionUrl": "https://www.tuat.ac.jp/admission/nyushi_gakubu/youkou/",
       "pdfLinks": [
         "https://www.tuat.ac.jp/documents/tuat/admission/nyushi_gakubu/youkou/r9_senbatuyoukou.pdf",
-        "https://www.tuat.ac.jp/documents/tuat/admission/nyushi_gakubu/youkou/r9_ippan_youkou_261023.pdf",
+        "https://www.tuat.ac.jp/documents/tuat/admission/nyushi_gakubu/youkou/r9_ippan_youkou_261110.pdf",
         "https://www.tuat.ac.jp/documents/tuat/admission/nyushi_gakubu/youkou/r9_sougougata_youkou.pdf",
         "https://www.tuat.ac.jp/documents/tuat/admission/nyushi_gakubu/youkou/r9_suisen_youkou.pdf",
         "https://www.tuat.ac.jp/documents/tuat/admission/nyushi_gakubu/youkou/r9_suisensyo.pdf",
@@ -2456,7 +2435,7 @@
       "name": "名古屋工业大学",
       "nameJa": "名古屋工業大学",
       "domain": "https://www.nitech.ac.jp/",
-      "checkedAt": "2026-11-10T00:03:47.322150+00:00",
+      "checkedAt": "2026-11-10T21:45:38.787235+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -2624,7 +2603,7 @@
       "name": "京都工艺纤维大学",
       "nameJa": "京都工芸繊維大学",
       "domain": "https://www.kit.ac.jp/",
-      "checkedAt": "2026-11-10T00:04:11.077342+00:00",
+      "checkedAt": "2026-11-10T21:46:02.027548+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -2818,7 +2797,7 @@
       "name": "广岛大学",
       "nameJa": "広島大学",
       "domain": "https://www.hiroshima-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:05:08.723425+00:00",
+      "checkedAt": "2026-11-10T21:46:55.172737+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3002,7 +2981,7 @@
       "name": "冈山大学",
       "nameJa": "岡山大学",
       "domain": "https://www.okayama-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:05:23.983909+00:00",
+      "checkedAt": "2026-11-10T21:47:11.774450+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3144,7 +3123,7 @@
       "name": "金泽大学",
       "nameJa": "金沢大学",
       "domain": "https://www.kanazawa-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:05:48.956346+00:00",
+      "checkedAt": "2026-11-10T21:47:34.513256+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3168,6 +3147,11 @@
           "score": 3
         },
         {
+          "url": "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/11/20261110.pdf",
+          "text": "固体表面の液滴は長く静止するほど動き出しにくく、速く滑るほど摩擦が減る ――ナノスケールの表面欠陥が生む「摩擦の記憶効果」を解明――",
+          "score": 2
+        },
+        {
           "url": "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/11/261109-2.pdf",
           "text": "春待ち企画「花咲く へいわナのだ2026」",
           "score": 2
@@ -3175,11 +3159,6 @@
         {
           "url": "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/11/20261106_Ueno.pdf",
           "text": "生活保護世帯の子どもの健康や生活状況を把握するアセスメント項目を提案 ― 子ども支援における共通の視点づくりへ ―",
-          "score": 2
-        },
-        {
-          "url": "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/11/261106.pdf",
-          "text": "金沢大学ＳＴＥＬＬＡプログラムを受講する 第二段階選抜高校生１０名が研究成果を発表",
           "score": 2
         }
       ],
@@ -3213,8 +3192,8 @@
           "isPdf": false
         },
         {
-          "url": "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/11/261106.pdf",
-          "text": "金沢大学ＳＴＥＬＬＡプログラムを受講する 第二段階選抜高校生１０名が研究成果を発表",
+          "url": "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/11/20261110.pdf",
+          "text": "固体表面の液滴は長く静止するほど動き出しにくく、速く滑るほど摩擦が減る ――ナノスケールの表面欠陥が生む「摩擦の記憶効果」を解明――",
           "linkScore": 2,
           "textScore": 2,
           "isPdf": true
@@ -3298,7 +3277,7 @@
       "name": "青山学院大学",
       "nameJa": "青山学院大学",
       "domain": "https://www.aoyama.ac.jp/",
-      "checkedAt": "2026-11-10T00:06:19.201939+00:00",
+      "checkedAt": "2026-11-10T21:48:02.460855+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3414,7 +3393,7 @@
       "name": "立教大学",
       "nameJa": "立教大学",
       "domain": "https://www.rikkyo.ac.jp/",
-      "checkedAt": "2026-11-10T00:06:43.491227+00:00",
+      "checkedAt": "2026-11-10T21:48:23.538514+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3547,7 +3526,7 @@
       "name": "中央大学",
       "nameJa": "中央大学",
       "domain": "https://www.chuo-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:06:59.919766+00:00",
+      "checkedAt": "2026-11-10T21:48:40.132676+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3709,7 +3688,7 @@
       "name": "法政大学",
       "nameJa": "法政大学",
       "domain": "https://www.hosei.ac.jp/",
-      "checkedAt": "2026-11-10T00:07:29.701891+00:00",
+      "checkedAt": "2026-11-10T21:49:06.035778+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3842,7 +3821,7 @@
       "name": "同志社大学",
       "nameJa": "同志社大学",
       "domain": "https://www.doshisha.ac.jp/",
-      "checkedAt": "2026-11-10T00:07:54.046053+00:00",
+      "checkedAt": "2026-11-10T21:49:26.769223+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -3964,7 +3943,7 @@
         "https://www.doshisha.ac.jp/files/nyugk/page/2027nyushi_yoko.pdf"
       ],
       "ejuSnippets": [
-        "入試の制度変更に関する重要なお知らせ インターネット出願 願書請求 資料請求 デジタルパンフレット 大学案内Webサイト Campus Life 2027年度入試要項 ニュース NEWS ニュース一覧 RSS 2026年10月5日 重 要 【受験生】2026年台風第25号による被害に関わる入学検定料の特別措置について（第2報） 被災支援 2026年10月5日 重 要 【受験生】台風第18号による被害に関わる入学検定料の特別措置",
+        "入試の制度変更に関する重要なお知らせ インターネット出願 願書請求 資料請求 デジタルパンフレット 大学案内Webサイト Campus Life 2027年度入試要項 ニュース NEWS ニュース一覧 RSS 2026年11月10日 重 要 2027年度 経済学部新島学園短期大学推薦編入学試験に関する事案について 経済学部／経済学研究科 2026年10月5日 重 要 【受験生】2026年台風第25号による被害に関わる入学検定料",
         "文化情報学部 理工学部 生命医科学部 スポーツ健康科学部 心理学部 グローバル・コミュニケーション学部 グローバル地域文化学部 大学院 大学院 神学研究科 文学研究科 社会学研究科 法学研究科 経済学研究科 商学研究科 総合政策科学研究科 文化情報学研究科 理工学研究科 生命医科学研究科",
         "ール） メガメニューメニュー閉じる 研究・産官学連携 研究・産官学連携 研究所 人文科学研究所 アメリカ研究所 ハリス理化学研究所 リサーチ・イノベーション推進機構 リサーチ・イノベーション推進機構 研究者情報 研究者データベース（教員情報） 同志社大学次世代研究者プロファイル 客員教員 客員研究員 倫理審査室",
         "流・留学 国際交流・留学 海外留学 外国留学プログラム 留学準備 海外への留学を希望する方 本学への留学 大学・大学院［日本語で学ぶ］ 大学・大学院［英語で学ぶ］ 国際教養教育院 国際教育インスティテュート 国費留学制度の利用 交換留学制度の利用 本学に留学拠点を置く海外の大学 留学生支援制度 留学生への学費サポート",
@@ -4015,7 +3994,7 @@
       "name": "立命馆大学",
       "nameJa": "立命館大学",
       "domain": "https://www.ritsumei.ac.jp/",
-      "checkedAt": "2026-11-10T00:08:28.330763+00:00",
+      "checkedAt": "2026-11-10T21:49:51.700674+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -4182,17 +4161,17 @@
       "name": "埼玉大学",
       "nameJa": "埼玉大学",
       "domain": "https://www.saitama-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:09:01.117704+00:00",
+      "checkedAt": "2026-11-10T21:50:22.072934+00:00",
       "status": "ok",
       "topLinks": [
         {
-          "url": "https://www.saitama-u.ac.jp/exam_archives/202611041700.html",
-          "text": "[2026.11.05]入試情報 2027年度 埼玉大学大学院人文社会科学研究科(博士後期課程)日本アジア文化専攻学生募集要項を掲載しました",
-          "score": 9
+          "url": "https://www.saitama-u.ac.jp/exam_archives/202611101700.html",
+          "text": "[2026.11.10]入試情報 「令和9年度埼玉大学学生募集要項(一般選抜、帰国生徒選抜、私費外国人留学生選抜)」を掲載しました",
+          "score": 18
         },
         {
-          "url": "https://www.saitama-u.ac.jp/exam_archives/202609141600.html",
-          "text": "[2026.09.14]入試情報 大学院理工学研究科(博士前期課程・博士後期課程)募集要項配布開始(第2次募集)のお知らせ",
+          "url": "https://www.saitama-u.ac.jp/exam_archives/202611041700.html",
+          "text": "[2026.11.05]入試情報 2027年度 埼玉大学大学院人文社会科学研究科(博士後期課程)日本アジア文化専攻学生募集要項を掲載しました",
           "score": 9
         },
         {
@@ -4203,16 +4182,6 @@
         {
           "url": "https://www.saitama-u.ac.jp/international/archives/202610271700.html",
           "text": "トビタテ！留学JAPAN 新・日本代表プログラム 2027年度(第19期)募集説明会について",
-          "score": 6
-        },
-        {
-          "url": "https://www.saitama-u.ac.jp/international/archives/202610081430.html",
-          "text": "【申請期限延長：10月30日（金）まで】2026年度 春季語学研修プログラム参加者募集について",
-          "score": 6
-        },
-        {
-          "url": "https://www.saitama-u.ac.jp/international/archives/202610211600.html",
-          "text": "【10/29開催】ハロウィンパーティー開催！留学生と一緒に楽しもう/[Oct 29] Halloween Party: Let&#039;s Enjoy Snacks &amp; Chat Together!",
           "score": 6
         },
         {
@@ -4256,8 +4225,18 @@
           "score": 3
         },
         {
+          "url": "https://www.saitama-u.ac.jp/international/archives/202611101600.html",
+          "text": "【11/16開催】ミャンマーカフェイベント開催のお知らせ/[Nov 16] Myanmar Cafe Event: Experience Myanmar&#039;s Tea Culture &amp; Thanaka",
+          "score": 3
+        },
+        {
           "url": "https://www.saitama-u.ac.jp/seminar_archives/202610301900.html",
           "text": "【11月24日開催】Zero to Impact アイデア発想ワークショップ（参加者募集）",
+          "score": 3
+        },
+        {
+          "url": "https://www.saitama-u.ac.jp/seminar_archives/202610231000.html",
+          "text": "【11月19日(木)】ダイバーシティ推進公開セミナー「ニッポンの移民－増え続ける外国人とどう向き合うか－」開催のお知らせ",
           "score": 3
         }
       ],
@@ -4277,10 +4256,10 @@
           "isPdf": false
         },
         {
-          "url": "https://www.saitama-u.ac.jp/exam_archives/202609141600.html",
-          "text": "[2026.09.14]入試情報 大学院理工学研究科(博士前期課程・博士後期課程)募集要項配布開始(第2次募集)のお知らせ",
-          "linkScore": 9,
-          "textScore": 6,
+          "url": "https://www.saitama-u.ac.jp/exam_archives/202611101700.html",
+          "text": "[2026.11.10]入試情報 「令和9年度埼玉大学学生募集要項(一般選抜、帰国生徒選抜、私費外国人留学生選抜)」を掲載しました",
+          "linkScore": 18,
+          "textScore": 8,
           "isPdf": false
         },
         {
@@ -4310,11 +4289,11 @@
         "https://www.saitama-u.ac.jp/international/backnumber/OASIS_News_vol6.pdf"
       ],
       "ejuSnippets": [
+        "情報 埼玉大学トップページ > 入試情報 入試情報 学部入試のお知らせ ■□大学院入試については各研究科のHPをご覧ください□■ 2026.11.10 「令和9年度埼玉大学学生募集要項(一般選抜、帰国生徒選抜、私費外国人留学生選抜)」を掲載しました 2026.10.30 受験生向けオンラインマガジン『SAIDAI CONCIERGE』について 2026.10.08 埼玉大学『工学部案内2027』掲載内容の訂正について 2026.09.25 ＊新着情報＊受験生向けオンラインマガ",
         "ERGE」 2026.07.29 教育学部オープンキャンパス「学部全体説明」のライブストリーミング配信について 2026.07.23 「令和9年度 埼玉大学教養学部 第3年次編入学学生募集要項」を掲載しました 2026.07.16 「令和9年度埼玉大学特別選抜学生募集要項(総合型選抜・学校推薦型選抜)」を掲載しました 2026.07.15 学校長様宛ての学校推薦型選抜合否結果通知の廃止について 2026.07.13 「令和9年度 埼玉大学経済学部(昼間コース)第3年次編入学 学生募集",
         "要項」・「令和9年度 埼玉大学経済学部(夜間主コース)社会人選抜 学生募集要項」を掲載しました 2026.07.10 ＊新着情報＊受験生向けオンラインマガジン「SAIDAI CONCIERGE」 2026.07.09 【予約受付開始しました】オープンキャンパス2026の予約について 2026.06.25 ＊新着情報＊受験生向けオンラインマガジン「SAIDAI CONCIE",
         "「SAIDAI CONCIERGE」 2025.11.13 ＊新着情報＊受験生向けオンラインマガジン「SAIDAI CONCIERGE」 2025.11.10 「令和8年度埼玉大学学生募集要項(一般選抜、帰国生徒選抜、私費外国人留学生選抜)」を掲載しました 2025.10.30 ＊新着情報＊受験生向けオンラインマガジン「SAIDAI CONCIERGE」 2025.10.16 ＊新着情報＊受験生向けオンラインマガジン「SAIDAI CONCIERGE」 2025.09.30 ＊新着情",
         "ERGE」 2025.07.31 教育学部オープンキャンパス「学部全体説明」のライブストリーミング配信について 2025.07.30 「令和8年度 埼玉大学教養学部 第3年次編入学学生募集要項」を掲載しました 2025.07.24 「令和8年度埼玉大学特別選抜学生募集要項(総合型選抜・学校推薦型選抜)」を掲載しました 2025.07.17 令和9年度(2027年度)埼玉大学入学者選抜方法の変更について 2025.07.15 ＊新着情報＊受験生向けオンラインマガジン「SAIDAI CO",
-        "RGE」 2025.07.10 【予約受付開始しました】オープンキャンパス2025の予約について 2025.07.07 「令和8年度 埼玉大学経済学部(昼間コース)第3年次編入学 学生募集要項」・「令和8年度 埼玉大学経済学部(夜間主コース)社会人選抜 学生募集要項」を掲載しました 2025.06.26 ＊新着情報＊受験生向けオンラインマガジン「SAIDAI CONCIERGE」 2025.06.19 「令和8年度埼玉大学入学者選抜に関する要項」を掲載しました 2025.06.17",
         "別企画②】映画で学ぶリスニング実践講座＆海外留学中の学生を緊急取材！ 2022.7.27 お知らせ 【学部1・2年生対象】埼玉大学特別教育プログラムGlobal Youth(GY)選抜試験募集要項公開中 2022.7.22 お知らせ 埼大生の皆さんへ 【7月29日(金)12:10スタート】OASIS Cafe 2022.7.22 お知らせ 【8月5日(金)締切】留学生寮のレジデント・アシスタント(RA)の募集について 2022.7.20 奨学金 「2023年度経団連グローバ",
         ".04.21 奨学金 私費留学生対象 バロック村井博之財団 2021年度 奨学生募集 （締切：5月6日） 2021.04.19 奨学金 私費留学生対象 金子国際文化交流財団 令和3年度私費外国人留学生奨学金給付生募集（締切：5月10日） 2021.04.19 奨学金 私費留学生対象 More Jobs Better Lives一般財団法人 2021年度上期（2021年10月支給開始）奨学生募集（締切：4月30日） 2021.04.16 奨学金 私費留学生対象 味の素奨学会 2021年度在",
         "【2月26日(金)】Global Youthプログラム BBセミナー－オンラインインターンシップ報告会を開催します－ 2021.02.15 奨学金 私費留学生対象 SGH財団2021年度 私費外国人留学生特定奨学生募集（締切：4月2日） 2021.02.15 奨学金 私費留学生対象 SGH財団2021年度 私費外国人留学生奨学生募集（締切：4月2日） 2021.01.25 お知らせ 東京国際交流館(所在地：江東区青海)入居者臨時募集について 2021.01.25 お知らせ 【オンライン説明"
@@ -4339,8 +4318,8 @@
           "pdfCount": 2
         },
         {
-          "url": "https://www.saitama-u.ac.jp/exam_archives/202609141600.html",
-          "snippetCount": 2,
+          "url": "https://www.saitama-u.ac.jp/exam_archives/202611101700.html",
+          "snippetCount": 3,
           "pdfCount": 1
         }
       ],
@@ -4368,9 +4347,24 @@
       "name": "静冈大学",
       "nameJa": "静岡大学",
       "domain": "https://www.shizuoka.ac.jp/",
-      "checkedAt": "2026-11-10T00:09:27.330818+00:00",
+      "checkedAt": "2026-11-10T21:50:45.366085+00:00",
       "status": "ok",
       "topLinks": [
+        {
+          "url": "https://www.shizuoka.ac.jp/nyushi/information/application/index.html#a05",
+          "text": "2026/11/10 ニュース 令和９年度大学入学共通テストを課さない総合型選抜（人文社会科学部）の出願状況を掲載しました",
+          "score": 9
+        },
+        {
+          "url": "https://www.shizuoka.ac.jp/nyushi/information/application/index.html#a03",
+          "text": "2026/11/10 ニュース 令和９年度大学入学共通テストを課す学校推薦型選抜（人文社会科学部）の出願状況を掲載しました",
+          "score": 9
+        },
+        {
+          "url": "https://www.shizuoka.ac.jp/nyushi/information/application/index.html#a02",
+          "text": "2026/11/10 ニュース 令和９年度大学入学共通テストを課さない学校推薦型選抜の出願状況を掲載しました",
+          "score": 9
+        },
         {
           "url": "https://www.shizuoka.ac.jp/admission/",
           "text": "入試案内",
@@ -4383,7 +4377,7 @@
         },
         {
           "url": "https://www.shizuoka.ac.jp/nyushi/guide/boshu/",
-          "text": "2026/10/30 ニュース 令和９年度一般選抜（前期・後期日程）学生募集要項を掲載しました",
+          "text": "2026/10/30 令和９年度一般選抜（前期・後期日程）学生募集要項を掲載しました",
           "score": 6
         },
         {
@@ -4430,29 +4424,35 @@
           "url": "https://www.shizuoka.ac.jp/news/detail.html?CN=12314",
           "text": "受賞・表彰（学生） 2026/09/28 影林 遼さん、町野 耀斗さん（工学専攻／脇谷・坂元・川口研究室）が、11th International Congress on Ceramicsで「Silver Award for Young Reseachers」を受賞",
           "score": 3
-        },
-        {
-          "url": "https://www.shizuoka.ac.jp/news/detail.html?CN=12258",
-          "text": "ニュース 2026/09/03 令和8年度 Asian International Mobility for Students (AIMS（エイムズ））Programme参加大学に選定されました",
-          "score": 3
-        },
-        {
-          "url": "https://www.shizuoka.ac.jp/nyushi/outline/course/",
-          "text": "2026/11/06 令和10年度入試 受験教科・科目を掲載しました",
-          "score": 3
-        },
-        {
-          "url": "https://www.shizuoka.ac.jp/nyushi/information/data/",
-          "text": "2026/05/15 令和８年度入学試験に関する調査資料等を掲載しました",
-          "score": 3
         }
       ],
       "candidatePages": [
         {
           "url": "https://www.shizuoka.ac.jp/nyushi/guide/boshu/",
-          "text": "2026/10/30 ニュース 令和９年度一般選抜（前期・後期日程）学生募集要項を掲載しました",
+          "text": "2026/10/30 令和９年度一般選抜（前期・後期日程）学生募集要項を掲載しました",
           "linkScore": 6,
           "textScore": 15,
+          "isPdf": false
+        },
+        {
+          "url": "https://www.shizuoka.ac.jp/nyushi/information/application/index.html#a05",
+          "text": "2026/11/10 ニュース 令和９年度大学入学共通テストを課さない総合型選抜（人文社会科学部）の出願状況を掲載しました",
+          "linkScore": 9,
+          "textScore": 12,
+          "isPdf": false
+        },
+        {
+          "url": "https://www.shizuoka.ac.jp/nyushi/information/application/index.html#a03",
+          "text": "2026/11/10 ニュース 令和９年度大学入学共通テストを課す学校推薦型選抜（人文社会科学部）の出願状況を掲載しました",
+          "linkScore": 9,
+          "textScore": 12,
+          "isPdf": false
+        },
+        {
+          "url": "https://www.shizuoka.ac.jp/nyushi/information/application/index.html#a02",
+          "text": "2026/11/10 ニュース 令和９年度大学入学共通テストを課さない学校推薦型選抜の出願状況を掲載しました",
+          "linkScore": 9,
+          "textScore": 12,
           "isPdf": false
         },
         {
@@ -4460,27 +4460,6 @@
           "text": "大学院入試",
           "linkScore": 6,
           "textScore": 10,
-          "isPdf": false
-        },
-        {
-          "url": "https://www.suoic.shizuoka.ac.jp/international/",
-          "text": "海外から静岡大学への留学",
-          "linkScore": 3,
-          "textScore": 10,
-          "isPdf": false
-        },
-        {
-          "url": "https://www.shizuoka.ac.jp/nyushi/",
-          "text": "学部入試",
-          "linkScore": 3,
-          "textScore": 9,
-          "isPdf": false
-        },
-        {
-          "url": "https://www.shizuoka.ac.jp/admission/",
-          "text": "入試案内",
-          "linkScore": 6,
-          "textScore": 5,
           "isPdf": false
         }
       ],
@@ -4509,9 +4488,9 @@
         "試験時間割 卒業後に関する情報 合格発表 過去問題 入学手続案内 入試の情報開示 資料請求 募集要項（出願書類）の入手方法 大学案内・学部案内 (テレメール) 大学案内・学部案内 (モバっちょ) 募集要項等 HOME 学部入試 大学案内及び募集要項 募集要項等 入学者選抜に関する要項（概要） 令和９年度入学者選抜に関する要項 一般選抜（前期・後期日程）学生",
         "募集要項 令和９年度一般選抜 (前期・後期日程) 学生募集要項 New 学術的な資格，検定，表彰・顕彰等に係る追加資料（後期・理学部数学科，物理学科，生物科学科，創造理学コース） 調査書の代わりに提出する資料（後期・理学部数学科，物理学科，生物科学科，創造理学コース） 調査書の代わりに提出する資料（後期・農学部） 学校推薦型選抜学生募集要項 令和９年度学校推薦",
         "型選抜学生募集要項(2026.09.28 更新) 志望書 推薦書 確約書 [人文社会科学部 夜間主コース] 作品自作証明書 [教育学部 美術教育専修] 技術実践報告書 [教育学部](抜粋) 総合型選抜学生募集要項 令和９年度総合型選抜学生募集要項 課題レポート用紙 [経済学科] 自己推薦書 活動調",
-        "このページを英語で見る / View this page in English お知らせ 2026/10/16 2027(令和９)年度(４月入学) 自然科学系教育部 渡日前入試 学生募集要項を掲載しました 2026/07/24 2027(令和９)年度 グローバル共創科学研究科 学生募集要項を掲載しました 2026/06/26 2027(令和９)年度 教育学研究科（共同教科開発学専攻）学生募集要項を掲載しました 2026/06/18 2027(令和９)年度 光医工学研究科(博士課程)",
-        "学生募集要項を掲載しました 2026/06/09 2027(令和９)年度 人文社会科学研究科(修士課程) 学生募集要項を掲載しました 2026/05/31 2027(令和９)年度 自然科学系教育部 学生募集要項を掲載しました 2026/05/07 2027(令和９)年度 総合科学技術研究科 工学専攻(修士課程) 学生募集要項を掲載しました 2026/04/21 2026(令和８)年度(10月入学) 自然科学系教",
-        "育部 渡日前入試 学生募集要項を掲載しました 2026/04/13 2027(令和９)年度 総合科学技術研究科 情報学専攻(修士課程) 学生募集要項を掲載しました 2026/03/31 2027(令和９)年度 教育学研究科（教職大学院）学生募集要項を掲載しました 2026/03/18 2027(令和９)年度 総合科学技術研究科 理学専攻(修士課程) 学生募集要項を掲載しました 2026/01/19 2026(令和８)年度 教育学研究科(教職"
+        "A JP / EN 入学者選抜方法 の概要等 アドミッションポリシー 入試日程 入試FAQ 受験教科・科目情報 入試過去問宣言について 大学案内及び 募集要項 静岡大学案内 学部案内 募集要項等 募集要項の入手方法 受験上の配慮〔障害のある方への配慮案内〕 大規模災害で被災した入学志願者に対する入学検定料の特別措置について 静岡大学出願資格個別審査について インターネット出願 オープンキャンパス・ 説明会 出願情報",
+        "入試結果情報 出願情報 入試データ 受験者心得・試験時間割 卒業後に関する情報 合格発表 過去問題 入学手続案内 入試の情報開示 資料請求 募集要項（出願書類）の入手方法 大学案内・学部案内 (テレメール) 大学案内・学部案内 (モバっちょ) 出願情報 HOME 学部入試 出願情報・入試結果情報 出願情報 一般選抜(前期日程・後期日程) [R09] 大学入学共通テストを課さない学校推薦型選抜 [R09] 大学入学共通テ",
+        "型選抜(人文社会科学部) [R09] 大学入学共通テストを課さない総合型選抜(人文社会科学部以外) [R09] 大学入学共通テストを課す総合型選抜 [R09] 社会人選抜 [R09] 私費外国人留学生選抜 [R09] 令和９年度一般選抜（前期日程・後期日程） 現在、出願情報はありません。 令和９年度 大学入学共通テストを課さない学校推薦型選抜 出願状況（令和8年11月10日【確定】） 令和９年度 大学入学共通テストを課す学校推薦型選抜(人文社会科学部) 出願状況（令和8年"
       ],
       "extractedScores": {
         "japanese": null,
@@ -4528,14 +4507,14 @@
           "pdfCount": 20
         },
         {
-          "url": "https://www.shizuoka.ac.jp/admission/graduate/",
+          "url": "https://www.shizuoka.ac.jp/nyushi/information/application/index.html#a05",
           "snippetCount": 5,
-          "pdfCount": 5
+          "pdfCount": 7
         },
         {
-          "url": "https://www.suoic.shizuoka.ac.jp/international/",
+          "url": "https://www.shizuoka.ac.jp/nyushi/information/application/index.html#a03",
           "snippetCount": 5,
-          "pdfCount": 0
+          "pdfCount": 7
         }
       ],
       "extractedPdfs": [
@@ -4562,7 +4541,7 @@
       "name": "新潟大学",
       "nameJa": "新潟大学",
       "domain": "https://www.niigata-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:09:54.412831+00:00",
+      "checkedAt": "2026-11-10T21:51:55.170777+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -4726,7 +4705,7 @@
       "name": "信州大学",
       "nameJa": "信州大学",
       "domain": "https://www.shinshu-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:10:26.537507+00:00",
+      "checkedAt": "2026-11-10T21:52:23.839723+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -4898,7 +4877,7 @@
       "name": "熊本大学",
       "nameJa": "熊本大学",
       "domain": "https://www.kumamoto-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:10:55.920884+00:00",
+      "checkedAt": "2026-11-10T21:52:47.335878+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -4934,6 +4913,11 @@
         {
           "url": "https://www.kumamoto-u.ac.jp/kokusaikouryuu/whatsnew/rc_photogallery",
           "text": "在学生 学生の海外での学びを発信！『留学フォトギャラリー』掲載写真を募集 開催日: 2026年9月1日 - 2026年12月28日",
+          "score": 3
+        },
+        {
+          "url": "https://www.kumamoto-u.ac.jp/kenkyuu_sangakurenkei/sangakurenkei/chiikirenkei/news/art2026",
+          "text": "在学生 卒業生 企業・研究 一般 「熊本大学 写真アートコンテスト2026」応募要項 開催日: 2026年11月1日 - 2026年11月30日",
           "score": 3
         },
         {
@@ -5002,9 +4986,9 @@
         "際連携機構 タイ・バンコクにてAUN-SUN/SixERSサマーセミナーを実施 第10回 熊本大学フォーラム（インドネシア・スラバヤ）を開催します ノーベル化学賞受賞者 ヨハン・ダイゼンホーファー博士が来学しました 谷口学長、韓国・KAIST主催の「国際学長フォーラム2013」に出席 谷口学長がヤンゴン大学（ミャンマー国）を訪問 谷口学長がミャンマー「工学教育拡充プロジェクト」開始式典に出席",
         "ークショップに参加 英国リーズ大学、日本学術振興会ロンドン研究連絡センターを伊原副学長（国際交流担当）が表敬訪問 平成26年度前期熊本大学国際化推進センター日本語研修コース及び熊本大学短期留学コース開講式の開催 四川大学（中国）における熊大-川大環境生物技術研究センターオープニングセレモニーに出席 アルバータ大学 Sirish L. Shah教授が来学 南開大学（中国）における大学間学術交流協",
         "業生4名が原田学長を表敬訪問 モンタナ州立大学国際部長（アメリカ合衆国）が原田学長、高島副学長を表敬訪問 アイルランガ大学（インドネシア）人文学部日本研究科日本語講師訪問団がグローバル教育カレッジ長を表敬訪問 桂林理工大学（中華人民共和国）との大学間交流協定調印式を実施しました 安徽大学（中華人民共和国）と大学間交流協定を締結しました 平成27年度「国立大学改革強化推進補助金」に採択されました",
-        "度（秋季）募集「Better Co-being社会を切り拓く異分野共創型博士イノベーター育成プログラム」募集に関する情報を掲示しました。 2026.09.30 令和9年度学校推薦型選抜Ⅰの学生募集要項を公表しました 関連イベント 令和８年度 熊本市版「みらいの科学者・DX人材共創プロジェクト」第２期 参加者募集開始！ 開催日：2026.10.26 - 2027.03.01 「熊本大学J-PEAKS社会共創シンポジウム～震災対応の知見を、地域と産業のレジリエンスへ～」を開催します 開催日：2026",
         "熊本大学入学志願者の入学検定料の免除について 携帯電話・スマートフォンサイト 携帯電話・スマートフォンサイト スマートフォン専用サイト 入試情報について 学部入試情報（入試概要・募集要項・入試日程・出願状況等） 学部入試募集人員 大学院入試情報 その他の入試・受け入れ制度 入試資料請求方法 入試実施状況 オープンキャンパス 進学説明会 学部主催の進学説明会 出前授業 受験生への大学案内（デジタルパンフ、動画） 入試Q&A 高校生のための熊大ワクワク事業（",
-        "先（学生交流協定校）一覧 短期海外研修プログラム 交換留学Q&A 外国人留学生の方へ 熊本大学短期留学制度 日韓共同理工系学部留学生事業 日本語を学びたい方へ 各種奨学金 サポートシステム 住居の情報 留学が決まった方へ 在留資格について グローバル教育カレッジ 熊本大学について 学長メッセージ 沿革 教育研究組織 教育情報の公表 情報"
+        "先（学生交流協定校）一覧 短期海外研修プログラム 交換留学Q&A 外国人留学生の方へ 熊本大学短期留学制度 日韓共同理工系学部留学生事業 日本語を学びたい方へ 各種奨学金 サポートシステム 住居の情報 留学が決まった方へ 在留資格について グローバル教育カレッジ 熊本大学について 学長メッセージ 沿革 教育研究組織 教育情報の公表 情報",
+        "mamoto探究入試）について 令和9年度総合型選抜Ⅰ・Ⅱ（Kumamoto探究入試）の受験の流れ 令和9年度総合型選抜I・Ⅱ（Kumamoto探究入試、国際バカロレア入試、海外在住者入試）の学生募集要項を公表しました オープンキャンパス2026開催の中止につきまして 令和9年度総合型選抜I（海外在住者入試）学生募集要項の一部修正について 令和9年度学校推薦型選抜Ⅰの学生募集要項を公表しました ページトップへ 国立大学法人熊本大学 〒860-8555 熊本市中央区黒髪2丁目39番1号 TEL 09"
       ],
       "extractedScores": {
         "japanese": 202,
@@ -5022,7 +5006,7 @@
         },
         {
           "url": "https://www.kumamoto-u.ac.jp/nyugaku",
-          "snippetCount": 3,
+          "snippetCount": 2,
           "pdfCount": 0
         },
         {
@@ -5055,7 +5039,7 @@
       "name": "九州工业大学",
       "nameJa": "九州工業大学",
       "domain": "https://www.kyutech.ac.jp/",
-      "checkedAt": "2026-11-10T00:11:24.999807+00:00",
+      "checkedAt": "2026-11-10T21:53:15.257654+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -5227,7 +5211,7 @@
       "name": "芝浦工业大学",
       "nameJa": "芝浦工業大学",
       "domain": "https://www.shibaura-it.ac.jp/",
-      "checkedAt": "2026-11-10T00:11:54.305891+00:00",
+      "checkedAt": "2026-11-10T21:53:38.941225+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -5349,7 +5333,7 @@
       "name": "学习院大学",
       "nameJa": "学習院大学",
       "domain": "https://www.gakushuin.ac.jp/",
-      "checkedAt": "2026-11-10T00:12:13.322642+00:00",
+      "checkedAt": "2026-11-10T21:53:56.113810+00:00",
       "status": "no_candidates",
       "topLinks": [],
       "candidatePages": [],
@@ -5375,7 +5359,7 @@
       "name": "关西大学",
       "nameJa": "関西大学",
       "domain": "https://www.kansai-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:12:14.825348+00:00",
+      "checkedAt": "2026-11-10T21:53:57.395255+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -5562,7 +5546,7 @@
       "name": "关西学院大学",
       "nameJa": "関西学院大学",
       "domain": "https://www.kwansei.ac.jp/",
-      "checkedAt": "2026-11-10T00:12:47.705554+00:00",
+      "checkedAt": "2026-11-10T21:54:26.294896+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -5739,7 +5723,7 @@
       "name": "宇都宫大学",
       "nameJa": "宇都宮大学",
       "domain": "https://www.utsunomiya-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:13:10.987473+00:00",
+      "checkedAt": "2026-11-10T21:54:47.058623+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -5927,7 +5911,7 @@
       "name": "茨城大学",
       "nameJa": "茨城大学",
       "domain": "https://www.ibaraki.ac.jp/",
-      "checkedAt": "2026-11-10T00:13:40.970718+00:00",
+      "checkedAt": "2026-11-10T21:55:13.441815+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -6028,9 +6012,14 @@
       "name": "岐阜大学",
       "nameJa": "岐阜大学",
       "domain": "https://www.gifu-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:13:55.515163+00:00",
+      "checkedAt": "2026-11-10T21:55:26.944421+00:00",
       "status": "ok",
       "topLinks": [
+        {
+          "url": "https://www.gifu-u.ac.jp/news/admission/2026/11/entry10-15449.html",
+          "text": "2026.11.10 入試最新情報 令和９年度岐阜大学一般選抜学生募集要項，学校推薦型選抜Ⅱ学生募集要項，私費外国人留学生選抜学生募集要項，を公表しました",
+          "score": 21
+        },
         {
           "url": "https://www.gifu-u.ac.jp/news/admission/2026/07/entry23-15223.html",
           "text": "2026.07.23 入試最新情報 令和9年度入学者選抜に関する要項の公表及び学生募集要項（推薦Ｉ入試（大学入学共通テストを課さない選抜），社会人入試，帰国生入試）の公表について",
@@ -6054,11 +6043,6 @@
         {
           "url": "https://www.gifu-u.ac.jp/news/admission/2026/07/entry22-15214.html",
           "text": "2026.07.22 入試最新情報 令和１０年度（令和９年度実施）地域科学研究科入学試験実施方法の変更について【予告】",
-          "score": 9
-        },
-        {
-          "url": "https://www.gifu-u.ac.jp/news/admission/2026/07/entry22-15211.html",
-          "text": "2026.07.22 入試最新情報 令和１０年度（令和９年度実施）以降の教育学部入学者選抜における変更について【予告】（令和8年7月22日更新）",
           "score": 9
         },
         {
@@ -6109,6 +6093,20 @@
       ],
       "candidatePages": [
         {
+          "url": "https://www.gifu-u.ac.jp/news/admission/2026/11/entry10-15449.html",
+          "text": "2026.11.10 入試最新情報 令和９年度岐阜大学一般選抜学生募集要項，学校推薦型選抜Ⅱ学生募集要項，私費外国人留学生選抜学生募集要項，を公表しました",
+          "linkScore": 21,
+          "textScore": 11,
+          "isPdf": false
+        },
+        {
+          "url": "https://www.gifu-u.ac.jp/admission/",
+          "text": "入試・入学案内",
+          "linkScore": 9,
+          "textScore": 11,
+          "isPdf": false
+        },
+        {
           "url": "https://www.gifu-u.ac.jp/news/admission/2026/08/entry31-15283.html",
           "text": "2026.08.31 入試最新情報 令和８年熊本地震により被災した岐阜大学入学志願者の検定料の免除について",
           "linkScore": 9,
@@ -6123,42 +6121,28 @@
           "isPdf": false
         },
         {
-          "url": "https://www.gifu-u.ac.jp/admission/",
-          "text": "入試・入学案内",
-          "linkScore": 9,
-          "textScore": 9,
-          "isPdf": false
-        },
-        {
           "url": "https://www.gifu-u.ac.jp/admission/net/net_application.html",
           "text": "インターネット出願",
-          "linkScore": 9,
-          "textScore": 9,
-          "isPdf": false
-        },
-        {
-          "url": "https://www.gifu-u.ac.jp/news/admission/2026/07/entry22-15211.html",
-          "text": "2026.07.22 入試最新情報 令和１０年度（令和９年度実施）以降の教育学部入学者選抜における変更について【予告】（令和8年7月22日更新）",
           "linkScore": 9,
           "textScore": 9,
           "isPdf": false
         }
       ],
       "errors": [],
-      "bestAdmissionUrl": "https://www.gifu-u.ac.jp/news/admission/2026/08/entry31-15283.html",
+      "bestAdmissionUrl": "https://www.gifu-u.ac.jp/news/admission/2026/11/entry10-15449.html",
       "pdfLinks": [
         "https://www.gifu-u.ac.jp/news/admission/upload/0f4f3f18948f088e337c405064ee945a_1.pdf",
         "https://www.gifu-u.ac.jp/news/admission/upload/0aa46613a497ba98d4a382030a62aac7_1.pdf"
       ],
       "ejuSnippets": [
+        "令和９年度岐阜大学一般選抜学生募集要項，学校推薦型選抜Ⅱ学生募集要項，私費外国人留学生選抜学生募集要項，を公表しました | 入試最新情報 | 岐阜大学 岐阜大学 EN MENU 寄付する 大学案内 大学案内 大学案内TOP 理念・目標 大学の概要 中期目標・計画・評価等 学長室 財務・調達情報 大学の取り組み 情報公開・個人情報保護 広報・報道 教職員募集",
+        "へ 地域の方へ 企業の方へ EN 交通アクセス 学内案内図 問い合わせ先 寄付する サイト内検索を開く トップ 入試最新情報 令和９年度岐阜大学一般選抜学生募集要項，学校推薦型選抜Ⅱ学生募集要項，私費外国人留学生選抜学生募集要項，を公表しました 入試最新情報 令和９年度岐阜大学一般選抜学生募集要項，学校推薦型選抜Ⅱ学生募集要項，私費外国人留学生選抜学生募集要項，を公表しました 2026.11.10 LINEで送る シェア ポスト 令和９年度岐阜大学一",
+        "般選抜，学校推薦型選抜Ⅱ，私費外国人留学生選抜は，インターネットを利用した出願です。 学生募集要項は専用サイトに電子ファイル（PDF形式）で掲載し，冊子による配布は行いません。 令和９年度岐阜大学一般選抜学生募集要項，学校推薦型選抜Ⅱ学生募集要項，私費外国人留学生選抜学生募集要項のPDFファイルについては， こちら をご覧ください。 アイコンの詳細説明 独自サイト 外部リンク ファイルリンク",
+        "学内案内図 問い合わせ先 寄付する サイト内検索を開く トップ 入試・入学案内 入試・入学案内 お知らせ 2026.11.10 令和９年度岐阜大学一般選抜学生募集要項，学校推薦型選抜Ⅱ学生募集要項，私費外国人留学生選抜学生募集要項，を公表しました 2026.08.31 令和８年熊本地震により被災した岐阜大学入学志願者の検定料の免除について 2026.07.23 令和9年度入学者選抜に関する要項の公表及び学生募集要項（推薦Ｉ入試（大学入学共通テストを課さない選抜），社",
+        "抜方法等の変更について【予告】 入試最新情報一覧へ インターネット出願 インターネット出願 大学（学部）入試情報 入学者選抜方法の変更等に係る予告 資料請求 大学案内・学生募集要項 学部入試日程・募集人数 アドミッション・ポリシー（学部） 障害等のある者の出願にあたっての事前相談 進学説明会（学外会場）の案内 受験生Ｑ＆Ａ 学部入試データ 入試情報の開示について 入試統計資料 過去問題・解答例（出題意図） 大学院（研究科）入試情報 大学院（研究科）入試",
         "び大学院入試を対象とします。 １．対象となる入学者選抜試験 ・学部の一般選抜（前期日程，後期日程） ・学部の学校推薦型選抜Ｉ，学校推薦型選抜II，総合型選抜，社会人選抜，帰国生選抜，私費外国人留学生選抜，編入学入試 ・大学院入試 ２．対象となる方 令和８年熊本地震 により災害救助法が適用されている地域で被災した志願者で， 以下のいずれかに該当する者 ［１］学資負担者が所有する自宅家屋が全壊，大規模半壊，半壊，流失した場合 ［２］学資負担者が死亡又は行方不明の場合 ３",
-        "令和9年度入学者選抜に関する要項の公表及び学生募集要項（推薦Ｉ入試（大学入学共通テストを課さない選抜），社会人入試，帰国生入試）の公表について | 入試最新情報 | 岐阜大学 岐阜大学 EN MENU 寄付する 大学案内 大学案内 大学案内TOP 理念・目標 大学の概要 中期目標・計画・評価等 学長室 財務・調達情報 大学",
-        "へ 企業の方へ EN 交通アクセス 学内案内図 問い合わせ先 寄付する サイト内検索を開く トップ 入試最新情報 令和9年度入学者選抜に関する要項の公表及び学生募集要項（推薦Ｉ入試（大学入学共通テストを課さない選抜），社会人入試，帰国生入試）の公表について 入試最新情報 令和9年度入学者選抜に関する要項の公表及び学生募集要項（推薦Ｉ入試（大学入学共通テストを課さない選抜），社会人入試，帰国生入試）の公表について 2026.07.23 LINEで送る シェア ポ",
-        "スト 「令和9年度入学者選抜に関する要項」の公表及び「学生募集要項（推薦Ｉ入試（大学入学共通テストを課さない選抜），社会人入試，帰国生入試）」の公表を始めました。 令和9年度岐阜大学入試（推薦Ｉ入試（大学入学共通テストを課さない選抜），社会人入試，帰国生入試）は，インターネットを利用した出願です。 学生募集要項は専用サイトに電子ファイル（PDF形式）で掲載し，冊子による配布は行い",
-        "ません。 令和9年度岐阜大学学生募集要項（推薦Ｉ入試（大学入学共通テストを課さない選抜），社会人入試，帰国生入試）のPDFファイルについては， こちら をご覧ください。 アイコンの詳細説明 独自サイト 外部リンク ファイルリンク LINEで送る シェア ポスト 一覧へ戻る ARCHIVES 2026 2025 2",
-        "学案内 お知らせ 2026.08.31 令和８年熊本地震により被災した岐阜大学入学志願者の検定料の免除について 2026.07.23 令和9年度入学者選抜に関する要項の公表及び学生募集要項（推薦Ｉ入試（大学入学共通テストを課さない選抜），社会人入試，帰国生入試）の公表について 2026.07.22 令和１０年度（令和９年度実施）地域科学研究科入学試験実施方法の変更について【予告】 2026.07.22 令和１０年度（令和９年度実施）工学部一般選抜（前期日程・後期日程）における選抜方法等の",
-        "告】（令和8年7月22日更新） 入試最新情報一覧へ インターネット出願 インターネット出願 大学（学部）入試情報 入学者選抜方法の変更等に係る予告 資料請求 大学案内・学生募集要項 学部入試日程・募集人数 アドミッション・ポリシー（学部） 障害等のある者の出願にあたっての事前相談 進学説明会（学外会場）の案内 受験生Ｑ＆Ａ 学部入試データ 入試情報の開示について 入試統計資料 過去問題・解答例（出題意図） 大学院（研究科）入試情報 大学院（研究科）入試",
-        "， 必要書類 を添付のうえ検定料免除を申請します。 入試の種類 □ 一般選抜（前期）□ 一般選抜（後期）□ 学校推薦型選抜Ⅰ □ 学校推薦型選抜Ⅱ □ 総合型選抜 □ 社会人選抜 □ 帰国生選抜 □ 私費外国人留学生選抜 □ 大学院入試 □ 編入学試験 志願学部等 学部 学科・講座 研究科 専攻 学資負担者 氏名（続柄） （申請者との続柄 ） 住所 連絡先 TEL 被災状況 □ 全壊 □ 大規模半壊 □ 半壊 □ 流出 □ 学資負担者の死亡又は行方不明 証明書等添付書類 □ り災証明書（写し可） □ 学資負担者の死亡又は行方"
+        "， 必要書類 を添付のうえ検定料免除を申請します。 入試の種類 □ 一般選抜（前期）□ 一般選抜（後期）□ 学校推薦型選抜Ⅰ □ 学校推薦型選抜Ⅱ □ 総合型選抜 □ 社会人選抜 □ 帰国生選抜 □ 私費外国人留学生選抜 □ 大学院入試 □ 編入学試験 志願学部等 学部 学科・講座 研究科 専攻 学資負担者 氏名（続柄） （申請者との続柄 ） 住所 連絡先 TEL 被災状況 □ 全壊 □ 大規模半壊 □ 半壊 □ 流出 □ 学資負担者の死亡又は行方不明 証明書等添付書類 □ り災証明書（写し可） □ 学資負担者の死亡又は行方",
+        "ます。免除された場合は下記口座に振り込み願います。 入試の種類 □ 一般選抜（前期）□ 一般選抜（後期）□ 学校推薦型選抜Ⅰ □ 学校推薦型選抜Ⅱ □ 総合型選抜 □ 社会人選抜 □ 帰国生選抜 □ 私費外国人留学生選抜 □ 大学院入試 □ 編入学試験 志願学部等 学部 学科・講座 研究科 専攻 学資負担者 氏名（続柄） （申請者との続柄 ） 住所 連絡先 TEL 被災状況 □ 全壊 □ 大規模半壊 □ 半壊 □ 流出 □ 学資負担者の死亡又は行方不明 証明書等添付書類 □ り災証明書（写し可） □ 学資負担者の死亡又は行方"
       ],
       "extractedScores": {
         "japanese": null,
@@ -6170,19 +6154,19 @@
       },
       "extractedPages": [
         {
-          "url": "https://www.gifu-u.ac.jp/news/admission/2026/08/entry31-15283.html",
-          "snippetCount": 1,
-          "pdfCount": 2
-        },
-        {
-          "url": "https://www.gifu-u.ac.jp/news/admission/2026/07/entry23-15223.html",
-          "snippetCount": 4,
+          "url": "https://www.gifu-u.ac.jp/news/admission/2026/11/entry10-15449.html",
+          "snippetCount": 3,
           "pdfCount": 0
         },
         {
           "url": "https://www.gifu-u.ac.jp/admission/",
           "snippetCount": 2,
           "pdfCount": 0
+        },
+        {
+          "url": "https://www.gifu-u.ac.jp/news/admission/2026/08/entry31-15283.html",
+          "snippetCount": 1,
+          "pdfCount": 2
         }
       ],
       "extractedPdfs": [
@@ -6209,7 +6193,7 @@
       "name": "三重大学",
       "nameJa": "三重大学",
       "domain": "https://www.mie-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:14:25.629464+00:00",
+      "checkedAt": "2026-11-10T21:55:51.222268+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -6350,7 +6334,7 @@
       "name": "山形大学",
       "nameJa": "山形大学",
       "domain": "https://www.yamagata-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:14:47.359928+00:00",
+      "checkedAt": "2026-11-10T21:56:10.332658+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -6394,13 +6378,13 @@
           "score": 8
         },
         {
-          "url": "https://www.yamagata-u.ac.jp/jp/information/entrance/%E5%A4%A7%E5%AD%A6%E9%99%A2%E7%90%86%E5%B7%A5%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91%E5%8D%9A%E5%A3%AB%E5%89%8D%E6%9C%9F%E8%AA%B2%E7%A8%8B%EF%BC%88%E7%90%86%E5%AD%A6%E5%B0%82%E6%94%BB%EF%BC%89%E3%83%BB%E5%8D%9A%E5%A3%AB%E5%BE%8C%E6%9C%9F%E8%AA%B2%E7%A8%8B%EF%BC%88%E5%9C%B0%E7%90%83%E5%85%B1%E7%94%9F%E5%9C%8F%E7%A7%91%E5%AD%A6%E5%B0%82%E6%94%BB%EF%BC%89%E3%81%B8%E5%87%BA%E9%A1%98%E4%BA%88%E5%AE%9A%E8%80%85%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%B8/",
-          "text": "2026.10.26入試情報大学院理工学研究科博士前期課程（理学専攻）・博士後期課程（地球共生圏科学専攻）へ出願予定者の皆様へ",
+          "url": "https://www.yamagata-u.ac.jp/jp/entrance/faculty/application/",
+          "text": "2026.11.10入試情報令和９年度学校推薦型選抜Ⅰ・学校推薦型選抜Ⅱ（医学部医学科）及び総合型選抜Ⅰ・Ⅱ・Ⅲの志願状況を公表しました",
           "score": 6
         },
         {
-          "url": "https://www.yamagata-u.ac.jp/jp/information/entrance/%E4%BA%BA%E6%96%87%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E9%83%A8%E7%AC%AC%EF%BC%93%E5%B9%B4%E6%AC%A1%E7%B7%A8%E5%85%A5%E5%AD%A6%E5%BF%97%E9%A1%98%E8%80%85%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%B8/",
-          "text": "2026.10.23入試情報人文社会科学部第３年次編入学志願者の皆様へ",
+          "url": "https://www.yamagata-u.ac.jp/jp/information/entrance/%E5%A4%A7%E5%AD%A6%E9%99%A2%E7%90%86%E5%B7%A5%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91%E5%8D%9A%E5%A3%AB%E5%89%8D%E6%9C%9F%E8%AA%B2%E7%A8%8B%EF%BC%88%E7%90%86%E5%AD%A6%E5%B0%82%E6%94%BB%EF%BC%89%E3%83%BB%E5%8D%9A%E5%A3%AB%E5%BE%8C%E6%9C%9F%E8%AA%B2%E7%A8%8B%EF%BC%88%E5%9C%B0%E7%90%83%E5%85%B1%E7%94%9F%E5%9C%8F%E7%A7%91%E5%AD%A6%E5%B0%82%E6%94%BB%EF%BC%89%E3%81%B8%E5%87%BA%E9%A1%98%E4%BA%88%E5%AE%9A%E8%80%85%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%B8/",
+          "text": "2026.10.26入試情報大学院理工学研究科博士前期課程（理学専攻）・博士後期課程（地球共生圏科学専攻）へ出願予定者の皆様へ",
           "score": 6
         },
         {
@@ -6543,7 +6527,7 @@
       "name": "前桥工科大学",
       "nameJa": "前橋工科大学",
       "domain": "https://www.maebashi-it.ac.jp/",
-      "checkedAt": "2026-11-10T00:15:24.401691+00:00",
+      "checkedAt": "2026-11-10T21:56:37.878962+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -6555,11 +6539,6 @@
           "url": "https://www.maebashi-it.ac.jp/examinee/admission/boshuyoko.html",
           "text": "学生募集要項",
           "score": 9
-        },
-        {
-          "url": "https://www.maebashi-it.ac.jp/examinee/info/admission/2027_116.html",
-          "text": "2027年度 特別選抜【学校推薦型選抜（公募型）】出願状況（11月6日時点）",
-          "score": 6
         },
         {
           "url": "https://www.maebashi-it.ac.jp/examinee/admission/",
@@ -6620,6 +6599,11 @@
           "url": "https://www.maebashi-it.ac.jp/examinee/admission/siryou-seikyu.html",
           "text": "資料請求",
           "score": 3
+        },
+        {
+          "url": "https://www.maebashi-it.ac.jp/examinee/upload/27cfc7126efc5663752081711ea461ee71941f69.pdf",
+          "text": "",
+          "score": 2
         }
       ],
       "candidatePages": [
@@ -6638,6 +6622,13 @@
           "isPdf": false
         },
         {
+          "url": "https://www.maebashi-it.ac.jp/examinee/admission/pastetranceexamination.html",
+          "text": "",
+          "linkScore": 3,
+          "textScore": 11,
+          "isPdf": false
+        },
+        {
           "url": "https://www.maebashi-it.ac.jp/examinee/admission/boshuyoko.html",
           "text": "学生募集要項",
           "linkScore": 9,
@@ -6650,33 +6641,26 @@
           "linkScore": 3,
           "textScore": 10,
           "isPdf": false
-        },
-        {
-          "url": "https://www.maebashi-it.ac.jp/examinee/admission/gakuhi.html",
-          "text": "入学料・授業料",
-          "linkScore": 6,
-          "textScore": 8,
-          "isPdf": false
         }
       ],
       "errors": [],
       "bestAdmissionUrl": "https://www.maebashi-it.ac.jp/examinee/admission/",
       "pdfLinks": [
         "https://www.maebashi-it.ac.jp/examinee/upload/4bec1d36db22246ca9a7812d3334ee129bde6ae3.pdf",
-        "https://www.maebashi-it.ac.jp/examinee/upload/4d61c1c4dce7b052c4037b2976b98c104cac7ef8.pdf",
-        "https://www.maebashi-it.ac.jp/examinee/upload/72f7087bf2a7295490615d7b339ecdded1e25c21.pdf",
-        "https://www.maebashi-it.ac.jp/examinee/upload/7fbee657bb3c2feda4292e0966d022774d92bdae.pdf",
-        "https://www.maebashi-it.ac.jp/img-upload/86aa0371fbb3fe49dec0d93daa46c1357a0dd1d9.pdf",
-        "https://www.maebashi-it.ac.jp/examinee/upload/%E3%80%90%E3%81%BE%E3%81%A8%E3%82%81%E3%80%91%E5%89%8D%E6%A9%8B%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6%E3%82%AC%E3%82%A4%E3%83%892027.pdf",
-        "https://www.maebashi-it.ac.jp/examinee/upload/a49c157ff70efc6c677754018fcfdb8179e063c1.pdf",
-        "https://www.maebashi-it.ac.jp/examinee/upload/4d63e01604dbf87da491c1211ae3625f1045901e.pdf",
-        "https://www.maebashi-it.ac.jp/examinee/upload/f6c001f34de149ed99a3efe5f2918abecee29ed4.pdf",
-        "https://www.maebashi-it.ac.jp/examinee/upload/48c5681f56b26593800f072609a3e54519568a1a.pdf",
-        "https://www.maebashi-it.ac.jp/examinee/upload/44b337dd9c9a4117ebb5f8395727a734a5fcc73d.pdf",
-        "https://www.maebashi-it.ac.jp/examinee/upload/7463d75e61907af63370a22e8913a766deca27ad.pdf",
-        "https://www.maebashi-it.ac.jp/examinee/upload/b11be0083edf1796b9a69cfc741e56b35ca1fdc9.pdf",
-        "https://www.maebashi-it.ac.jp/examinee/upload/6b4f3c85b9e5fe5e80f82a4e06d9353ec8d61ebc.pdf",
-        "https://www.maebashi-it.ac.jp/examinee/upload/bd2cdf089dac64917e2274b90d3092d81d415c90.pdf"
+        "https://www.maebashi-it.ac.jp/examinee/upload/71fdc45ddec37cd45798e65c3cbc3bd771f04997.pdf",
+        "https://www.maebashi-it.ac.jp/examinee/upload/3d0984df79893b6ed5daeaded50c21c0bddb1593.pdf",
+        "https://www.maebashi-it.ac.jp/examinee/upload/edd85135288381876344da8d785705ac61946a24.pdf",
+        "https://www.maebashi-it.ac.jp/examinee/upload/7448da6b4f77315c4611a11a1439b906c7ccb96d.pdf",
+        "https://www.maebashi-it.ac.jp/examinee/upload/1b73953cdf8b144d33b2a27d59508d2075328796.pdf",
+        "https://www.maebashi-it.ac.jp/examinee/upload/0b19f35960f20680366429f4bb6ff2f245b077cf.pdf",
+        "https://www.maebashi-it.ac.jp/examinee/upload/8439ec817b4107004e5c770f992a4346065ff22c.pdf",
+        "https://www.maebashi-it.ac.jp/examinee/upload/e786dd5d23a38cfc8adaaf383f7bec283e147bdb.pdf",
+        "https://www.maebashi-it.ac.jp/examinee/upload/f2b0f7b12ab8471ff67ecf4a96d82dd1990f6054.pdf",
+        "https://www.maebashi-it.ac.jp/examinee/upload/34dd5b4cfa14e09bcd1bf7b28134cf9f79f2cc3e.pdf",
+        "https://www.maebashi-it.ac.jp/examinee/upload/9be11a7f7b7c65135b885575362c22a7667d499f.pdf",
+        "https://www.maebashi-it.ac.jp/examinee/upload/b4c9caea624115580ee5aa6d151a9a5798c84bc6.pdf",
+        "https://www.maebashi-it.ac.jp/examinee/upload/773e80aa0f0d12cc875bcb464c59dc51d888bd59.pdf",
+        "https://www.maebashi-it.ac.jp/examinee/upload/7024ab8772f3000f0af7bd7bdea388f71266aa0c.pdf"
       ],
       "ejuSnippets": [
         "情報 ｜ 受験生特設サイト 大学・大学院入試情報 大学・大学院入試情報 大学・大学院入試情報トップ 入学者受入方針(アドミッションポリシー) 大学入試日程 大学院入試日程 学生募集要項 入試結果 過去問題 その他手続関係 入学料・授業料 【参考】昨年度の学生募集要項 イベント イベント オープンキャンパス WEBオープンキャンパス 進学相談会 大学訪問 出張講義 高等学校等教員対策大学説明会 学群・大学院 学群・大学院 学群・大学院トップ",
@@ -6684,9 +6668,9 @@
         "公立大学中期日程 ２０２７年３月２１日（日） 建築都市プログラム 工学デザインプログラム 情報・生命工学群 情報システムプログラム 医工学プログラム 生物応用プログラム 私費外国人留学生／帰国生徒 学群・教育プログラム 出願期間 試験日 合格発表 建築・都市・環境工学群 土木・環境プログラム ２０２７年１月２５日（月） ～ ２０２７年１月２９日（金） ２０２７年２月２５日（木） ２０２７年３月６日（土） 建築都市プログラム 工学デザインプログラム 情報・生命工",
         "026年度入学） 大学募集人員 特別・一般選抜 学部 特別選抜 一般選抜 学群・教育プログラム 入学定員 総合型選抜 学校推薦型選抜 （公募型） 学校推薦型選抜 (高大接続型) 私費外国人 留学生 帰国生徒 一般選抜 (前期日程) 一般選抜 (公立大学 中期日程) 建築・都市・環境工学群 土木・環境プログラム （44） 3 7 若干名 若干名 若干名 （26） （8） 建築都市プログラム （44） 3 7 若干名 若干名 若干名 （",
         "42 － － － 156 48 ※入学定員及び一般選抜の（ ）は受入人員の目安であり、募集人員は各学群で設定した 人数です。 ※詳細は、今後公表する 入学者選抜要項、各学生募集要項 及び 入試予告 をご確認ください。 編入学 学群・教育プログラム 募集人員 建築・都市・環境工学群 土木・環境プログラム 1 建築都市プログラム 1 工学デザインプログラム 1 情報・生命工学群 情報システムプログラム 1 医工学プログラム 1 生物応用プログ",
-        "学生募集要項 ｜ 受験生特設サイト 大学・大学院入試情報 大学・大学院入試情報 大学・大学院入試情報トップ 入学者受入方針(アドミッションポリシー) 大学入試日程 大学院入試日程 学生募集要項 入試結果 過去問題 その他手続関係 入学料・授業料 【参考】昨年度の学生募集要項 イベント",
-        "報・キャリアセンター 部活・同好会・サークル 学園祭 アパート案内 ニュース 前橋工科大学 アクセス お問い合わせ 前橋工科大学 資料請求 WEB出願 学生募集要項 前橋工科大学 > 受験生特設サイト > 大学・大学院入試情報 > 学生募集要項 （2026.9.17追記） TOEFL iBTの紙媒体のスコアレポート送付サービス終了に伴い、 既に公開している各学生募集要項の出願書類の取扱いについてお知らせします。 TOEFL iBTの成績証明書を提出する受験生はご確",
-        "工科大学工学部選抜試験に係る変更について（区分別募集人員の変更）【予告】.pdf 2026年度前橋工科大学工学部選抜試験に係る変更について（大学入学共通テスト配点の変更）【予告】.pdf 学生募集要項（学部） 入試ガイド 入試ガイド2027 入学者選抜要項 2027年度 入学者選抜に関する要項 特別選抜 総合型選抜（インターネット出願） 2027年度 学生募集要項 特別選抜【総合型選抜】 ●大学入学希望理由書・活動報告書は、ダウンロードして使用してください。 大学入学希望理由書・"
+        "問題 ｜ 受験生特設サイト 大学・大学院入試情報 大学・大学院入試情報 大学・大学院入試情報トップ 入学者受入方針(アドミッションポリシー) 大学入試日程 大学院入試日程 学生募集要項 入試結果 過去問題 その他手続関係 入学料・授業料 【参考】昨年度の学生募集要項 イベント イベント オープンキャンパス WEBオープンキャンパス 進学相談会 大学訪問 出張講義 高等学校等教員対策大学説明会 学群・大学院 学群・大学院 学群・大学院トップ",
+        "般選抜（前期日程）） 学群 問題 解答例又は出題意図 数学 全学群 〇 〇 入学者受入方針 （アドミッション・ポリシー） 大学入試日程 大学院入試日程 学生募集要項 入試結果 過去問題 その他手続き関係 入学料・授業料 【参考】 昨年度の学生募集要項 前橋工科大学 アクセス お問い合わせ プライバシーポリシー TEL： 027-265-7361（直通） 担当：学務課 入試広報係 Email： nyushi＠maebashi-it.ac.jp",
+        "い。 ※ 試験問題を無断で転載することを禁じます。 2026年度入試 特別選抜（総合型選抜） 学群、プログラム 問題 解答例又は出題意図 数学 全学群 〇 〇 物理基礎 全学群 〇 〇 化学基礎 全学群 〇 〇 生物基礎 情報・生命工学群 〇 〇 プレゼンテーション 建築都市プログラム 工学デザインプログラム"
       ],
       "extractedScores": {
         "japanese": null,
@@ -6708,7 +6692,7 @@
           "pdfCount": 1
         },
         {
-          "url": "https://www.maebashi-it.ac.jp/examinee/admission/boshuyoko.html",
+          "url": "https://www.maebashi-it.ac.jp/examinee/admission/pastetranceexamination.html",
           "snippetCount": 5,
           "pdfCount": 20
         }
@@ -6722,10 +6706,10 @@
           "error": null
         },
         {
-          "url": "https://www.maebashi-it.ac.jp/examinee/upload/4d61c1c4dce7b052c4037b2976b98c104cac7ef8.pdf",
+          "url": "https://www.maebashi-it.ac.jp/examinee/upload/71fdc45ddec37cd45798e65c3cbc3bd771f04997.pdf",
           "status": "ok",
           "pagesParsed": 1,
-          "snippetCount": 1,
+          "snippetCount": 0,
           "error": null
         }
       ],
@@ -6737,7 +6721,7 @@
       "name": "东京电机大学",
       "nameJa": "東京電機大学",
       "domain": "https://www.dendai.ac.jp/",
-      "checkedAt": "2026-11-10T00:15:52.131766+00:00",
+      "checkedAt": "2026-11-10T21:57:02.672119+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -6918,7 +6902,7 @@
       "name": "工学院大学",
       "nameJa": "工学院大学",
       "domain": "https://www.kogakuin.ac.jp/",
-      "checkedAt": "2026-11-10T00:16:46.368054+00:00",
+      "checkedAt": "2026-11-10T21:57:52.170042+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -7107,7 +7091,7 @@
       "name": "东京都市大学",
       "nameJa": "東京都市大学",
       "domain": "https://www.tcu.ac.jp/",
-      "checkedAt": "2026-11-10T00:17:18.229651+00:00",
+      "checkedAt": "2026-11-10T21:58:19.285466+00:00",
       "status": "fetch_failed",
       "topLinks": [],
       "candidatePages": [],
@@ -7135,7 +7119,7 @@
       "name": "成城大学",
       "nameJa": "成城大学",
       "domain": "https://www.seijo.ac.jp/",
-      "checkedAt": "2026-11-10T00:17:19.216680+00:00",
+      "checkedAt": "2026-11-10T21:58:20.160852+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -7169,6 +7153,11 @@
           "score": 3
         },
         {
+          "url": "https://www.seijo.ac.jp/exam/cvt4qu000001i7af.html",
+          "text": "入試関連 2026.11.10 大学院法学研究科 進学説明会のお知らせ",
+          "score": 3
+        },
+        {
           "url": "https://www.seijo.ac.jp/news/exam/index.html",
           "text": "入試関連",
           "score": 3
@@ -7184,8 +7173,8 @@
           "score": 3
         },
         {
-          "url": "https://www.seijo.ac.jp/news/cvt4qu000001hnox-att/cvt4qu000001hnqg.pdf",
-          "text": "プレスリリース 2026.10.30 成城大学文芸学部 芸術学科ワークショップ 〈音楽学〉レクチャー・コンサート「楽器とその音楽の歴史をたずねて —リコーダーとフルート—」",
+          "url": "https://www.seijo.ac.jp/news/cvt4qu000001i5xl-att/cvt4qu000001i5z4.pdf",
+          "text": "プレスリリース 2026.11.10 成城大学 文芸学部 主催シンポジウム「〈笑い／恐怖〉を翻訳する 初年次教育と研究をつないで」",
           "score": 2
         }
       ],
@@ -7219,10 +7208,10 @@
           "isPdf": false
         },
         {
-          "url": "https://admission.seijo.ac.jp/demand",
-          "text": "大学案内・資料請求",
-          "linkScore": 3,
-          "textScore": 9,
+          "url": "https://www.seijo.ac.jp/exam/cvt4qu000001hkpz.html",
+          "text": "学生募集要項",
+          "linkScore": 6,
+          "textScore": 7,
           "isPdf": false
         }
       ],
@@ -7230,7 +7219,7 @@
       "bestAdmissionUrl": "https://admission.seijo.ac.jp/admission/requirements",
       "pdfLinks": [
         "https://admission.seijo.ac.jp/application/files/9317/9324/0081/2027.pdf",
-        "https://www.seijo.ac.jp/news/cvt4qu000001hnox-att/cvt4qu000001hnqg.pdf"
+        "https://www.seijo.ac.jp/news/cvt4qu000001i5xl-att/cvt4qu000001i5z4.pdf"
       ],
       "ejuSnippets": [
         "--> --> 学生募集要項 | 成城ブリッジ アクセス 資料請求 受験する 学生募集要項 一般選抜 全学部統一選抜（S方式）・学部別選抜（A方式）・大学入学共通テスト利用選抜（B方式）前期日程・後期日程・国公立大学併願型大学入学共通テスト利用選抜（N方式） ※2027年度の情報に更新しました。 紙での配布はしておりません。WEBサイト上でご覧いただくか、必要な場合は、ダウンロードして各自ご印",
@@ -7243,7 +7232,7 @@
         "付をお考えの方 入試情報サイト －成城ブリッジ－ 公式SNS 学校法人成城学園 成城学園同窓会 教職員専用 注目ページから探す 新校舎10号館 一般選抜学生募集要項 シラバス 学びの森 学費の納付 授業カタログ 課外活動 奨学金制度 図書館 【在学生】ノートPC貸出 留学 生涯学習 研究者情報 HOME 国際交流 キャンパス内国際交流 国際交流 国際交流関連ニュース 成城の留学プログ"
       ],
       "extractedScores": {
-        "japanese": null,
+        "japanese": 202,
         "math": 150,
         "physics": null,
         "chemistry": 100,
@@ -7276,10 +7265,10 @@
           "error": null
         },
         {
-          "url": "https://www.seijo.ac.jp/news/cvt4qu000001hnox-att/cvt4qu000001hnqg.pdf",
+          "url": "https://www.seijo.ac.jp/news/cvt4qu000001i5xl-att/cvt4qu000001i5z4.pdf",
           "status": "ok",
           "pagesParsed": 2,
-          "snippetCount": 0,
+          "snippetCount": 1,
           "error": null
         }
       ],
@@ -7291,7 +7280,7 @@
       "name": "南山大学",
       "nameJa": "南山大学",
       "domain": "https://www.nanzan-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:17:46.884826+00:00",
+      "checkedAt": "2026-11-10T21:58:45.511406+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -7439,7 +7428,7 @@
       "name": "丰田工业大学",
       "nameJa": "豊田工業大学",
       "domain": "https://www.toyota-ti.ac.jp/",
-      "checkedAt": "2026-11-10T00:18:08.619629+00:00",
+      "checkedAt": "2026-11-10T21:59:06.074406+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -7552,7 +7541,7 @@
       "name": "琉球大学",
       "nameJa": "琉球大学",
       "domain": "https://www.u-ryukyu.ac.jp/",
-      "checkedAt": "2026-11-10T00:18:23.197274+00:00",
+      "checkedAt": "2026-11-10T21:59:19.696265+00:00",
       "status": "no_candidates",
       "topLinks": [],
       "candidatePages": [],
@@ -7578,7 +7567,7 @@
       "name": "北见工业大学",
       "nameJa": "北見工業大学",
       "domain": "https://www.kitami-it.ac.jp/",
-      "checkedAt": "2026-11-10T00:18:25.928843+00:00",
+      "checkedAt": "2026-11-10T21:59:22.232018+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -7763,7 +7752,7 @@
       "name": "室兰工业大学",
       "nameJa": "室蘭工業大学",
       "domain": "https://www.muroran-it.ac.jp/",
-      "checkedAt": "2026-11-10T00:18:53.843862+00:00",
+      "checkedAt": "2026-11-10T21:59:47.273951+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -7936,91 +7925,14 @@
       "name": "日本大学",
       "nameJa": "日本大学",
       "domain": "https://www.nihon-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:19:22.326045+00:00",
-      "status": "ok",
-      "topLinks": [
-        {
-          "url": "https://www.nihon-u.ac.jp/international/shortstay_newcastle/",
-          "text": "令和8年度(第6回)グローバル研修の募集を開始しました（10/6(火)正午締切）",
-          "score": 6
-        },
-        {
-          "url": "https://www.nihon-u.ac.jp/admission_info/",
-          "text": "入試情報の詳細はこちらから",
-          "score": 6
-        },
-        {
-          "url": "https://www.nihon-u.ac.jp/topics/20261006-5765.html",
-          "text": "【交換留学・派遣留学】令和9年度 交換留学（英語圏・韓国）・派遣留学の募集を開始しました（10/22（木）締切）",
-          "score": 3
-        },
-        {
-          "url": "https://www.nihon-u.ac.jp/topics/international/",
-          "text": "#留学・国際交流",
-          "score": 3
-        },
-        {
-          "url": "https://www.nihon-u.ac.jp/hojin_news/finance_property/20260403-194.html",
-          "text": "医学部校舎建替工事に係る一般競争入札の実施について（募集終了）",
-          "score": 3
-        },
-        {
-          "url": "https://www.nihon-u.ac.jp/international/shortstay_summer/",
-          "text": "全学生を対象としたイギリスでの短期海外研修（サマースクール）を実施。",
-          "score": 3
-        }
-      ],
-      "candidatePages": [
-        {
-          "url": "https://www.nihon-u.ac.jp/admission_info/",
-          "text": "入試情報の詳細はこちらから",
-          "linkScore": 6,
-          "textScore": 11,
-          "isPdf": false
-        },
-        {
-          "url": "https://www.nihon-u.ac.jp/topics/international/",
-          "text": "#留学・国際交流",
-          "linkScore": 3,
-          "textScore": 10,
-          "isPdf": false
-        },
-        {
-          "url": "https://www.nihon-u.ac.jp/topics/20261006-5765.html",
-          "text": "【交換留学・派遣留学】令和9年度 交換留学（英語圏・韓国）・派遣留学の募集を開始しました（10/22（木）締切）",
-          "linkScore": 3,
-          "textScore": 6,
-          "isPdf": false
-        },
-        {
-          "url": "https://www.nihon-u.ac.jp/international/shortstay_summer/",
-          "text": "全学生を対象としたイギリスでの短期海外研修（サマースクール）を実施。",
-          "linkScore": 3,
-          "textScore": 6,
-          "isPdf": false
-        },
-        {
-          "url": "https://www.nihon-u.ac.jp/international/shortstay_newcastle/",
-          "text": "令和8年度(第6回)グローバル研修の募集を開始しました（10/6(火)正午締切）",
-          "linkScore": 6,
-          "textScore": 5,
-          "isPdf": false
-        }
-      ],
+      "checkedAt": "2026-11-10T22:00:11.994505+00:00",
+      "status": "no_candidates",
+      "topLinks": [],
+      "candidatePages": [],
       "errors": [],
-      "bestAdmissionUrl": "https://www.nihon-u.ac.jp/admission_info/",
-      "pdfLinks": [
-        "https://www.nihon-u.ac.jp/assets/uploads/files/20230526164153.pdf"
-      ],
-      "ejuSnippets": [
-        "部 芸術学部 国際関係学部 危機管理学部 スポーツ科学部 理工学部 生産工学部 工学部 医学部 歯学部 松戸歯学部 生物資源科学部 薬学部 通信教育部 短期大学部 大学院 付属専門学校 ↑ --> TOP",
-        "属高校生が大学の協定校ケンブリッジ大学ペンブルック・カレッジで第15回サマースクールを実施 #トピックス #留学・国際交流 2026/08/26 【派遣留学】令和9年度日本大学派遣留学生募集要項を公開しました #トピックス #留学・国際交流 2026/08/25 2026（令和8）年度（第6 回）オーストラリア・ニューカッスルグローバル研修 生募集（10/6 正午締切） #トピックス #留学・国際交流 2026/08/06 豪・ニューカッスルキャンパス便り～日豪友好協力基本条約署名",
-        "9）年度出発 交換留学・派遣留学 オンライン募集説明会の追加開催（7/15（水））について #トピックス #留学・国際交流 2026/06/26 【交換留学】令和9年度日本大学交換留学生募集要項を公開しました #トピックス #留学・国際交流 2026/06/26 【交換留学】英検準1級の資格を活かして海外留学へ #トピックス #留学・国際交流 2026/06/22 2027(令和9)年度出発 交換留学・派遣留学 オンライン募集説明会の開催について #トピックス #留学・国際",
-        "2025/08/29 2026（令和8）年度出発派遣留学（英語圏）の派遣先大学概要を公開しました #トピックス #留学・国際交流 2025/08/04 令和8年度日本大学交換留学生募集要項・令和8年度日本大学派遣留学生募集要項を公開しました #トピックス #留学・国際交流 2025/07/29 令和7年度 第3回 英語検定試験TOEFL-ITP🄬（9/18（木））の申込みについて（申込期間：8/1～8/19） #トピックス #留学・国際交流 2025/07/24 「TOEFL",
-        "4/08/27 2025（令和7）年度出発派遣留学（英語圏）の派遣先大学概要を公開しました。 #トピックス #留学・国際交流 2024/08/21 2025（令和7）年度出発派遣留学生募集要項を公開しました。 #トピックス #留学・国際交流 2024/08/19 令和6年度第3回TOEFL-ITP®の受付期間を延長します（8/27締切） #トピックス #留学・国際交流 2024/08/08 令和6年度第3回TOEFL-ITP®の申込受付（8/9開始） #トピックス #留学",
-        "・国際交流 2024/08/06 2025（令和7）年度出発交換留学募集要項を公開しました。 #トピックス #留学・国際交流 2024/07/24 令和6年度第２学期日本語講座ボランティア募集について #トピックス #留学・国際交流 2024/07/05 交換留学・派遣留学募集説明会の動画掲載について #トピックス #留学・国際交流 2024/07/02",
-        "切） 2026/10/06 #留学・国際交流 令和9年度の日本大学交換留学（英語圏・韓国）および派遣留学の募集を、10月6日（火）より開始しました。 出願希望者は、以下の学内向けサイトで「募集要項」「派遣先大学概要（各大学の語学要件・費用目安等）」「指定書式」をご確認のうえ、 10月22日（木） までにお手続きください。余裕を持った申請を推奨します。 2027(令和9)年度出発日本大学交換留学・派遣留学サイト(学内向けサイト)) 閲覧に際しては以下のルールに同意しNU-MailGでログインしてください。"
-      ],
+      "bestAdmissionUrl": null,
+      "pdfLinks": [],
+      "ejuSnippets": [],
       "extractedScores": {
         "japanese": null,
         "math": null,
@@ -8029,33 +7941,9 @@
         "biology": null,
         "japanWorld": null
       },
-      "extractedPages": [
-        {
-          "url": "https://www.nihon-u.ac.jp/admission_info/",
-          "snippetCount": 1,
-          "pdfCount": 0
-        },
-        {
-          "url": "https://www.nihon-u.ac.jp/topics/international/",
-          "snippetCount": 5,
-          "pdfCount": 1
-        },
-        {
-          "url": "https://www.nihon-u.ac.jp/topics/20261006-5765.html",
-          "snippetCount": 1,
-          "pdfCount": 0
-        }
-      ],
-      "extractedPdfs": [
-        {
-          "url": "https://www.nihon-u.ac.jp/assets/uploads/files/20230526164153.pdf",
-          "status": "ok",
-          "pagesParsed": 1,
-          "snippetCount": 0,
-          "error": null
-        }
-      ],
-      "enrichStatus": "extracted"
+      "extractedPages": [],
+      "extractedPdfs": [],
+      "enrichStatus": "no_candidates"
     },
     {
       "id": "t8-57",
@@ -8063,7 +7951,7 @@
       "name": "东洋大学",
       "nameJa": "東洋大学",
       "domain": "https://www.toyo.ac.jp/",
-      "checkedAt": "2026-11-10T00:19:38.378978+00:00",
+      "checkedAt": "2026-11-10T22:00:12.966290+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -8141,7 +8029,7 @@
       "name": "驹泽大学",
       "nameJa": "駒澤大学",
       "domain": "https://www.komazawa-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:19:49.421820+00:00",
+      "checkedAt": "2026-11-10T22:00:22.455712+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -8335,7 +8223,7 @@
       "name": "专修大学",
       "nameJa": "専修大学",
       "domain": "https://www.senshu-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:20:18.214290+00:00",
+      "checkedAt": "2026-11-10T22:00:47.216870+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -8381,7 +8269,7 @@
       "name": "京都产业大学",
       "nameJa": "京都産業大学",
       "domain": "https://www.kyoto-su.ac.jp/",
-      "checkedAt": "2026-11-10T00:20:23.437467+00:00",
+      "checkedAt": "2026-11-10T22:00:51.907662+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -8575,7 +8463,7 @@
       "name": "近畿大学",
       "nameJa": "近畿大学",
       "domain": "https://www.kindai.ac.jp/",
-      "checkedAt": "2026-11-10T00:21:15.633751+00:00",
+      "checkedAt": "2026-11-10T22:01:36.906003+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -8642,7 +8530,7 @@
           "url": "https://www.instagram.com/reel/Dd8HY2iTXnf/",
           "text": "入試合格対策講座＆説明会・相談会開催📣 参加無料・申込不要！ 推薦入試（一般公募）・一般入試に対応✨ 直前対策はこれでバッチリ！ 🔥 ココがポイント ・予備校講師による英語・国語・数学の 対策講座 ・入試アドバイザーの「近大入試まるわかりセミナー」 ・保護者向け近大概要説明 ・個別相談・資料コーナー 📍 開催日程・会場 ・神戸 10/3(土) 三宮研修センター5階 ・名古屋 10/4(日) ミッドランドホール5階 ・京都 10/10(土) 京都JAビル地下2階 ・大阪梅田10/12(月・祝) ハービスホールハービスOSAKA地下2階 ・東京 10/24(土) TKP東京駅カンファレンスセンター12階 詳細は https://kindai.jp/events/taisaku/ でチェック✅2026/10/01",
           "linkScore": 3,
-          "textScore": 3,
+          "textScore": 2,
           "isPdf": false
         }
       ],
@@ -8712,7 +8600,7 @@
       "name": "甲南大学",
       "nameJa": "甲南大学",
       "domain": "https://www.konan-u.ac.jp/",
-      "checkedAt": "2026-11-10T00:21:37.673898+00:00",
+      "checkedAt": "2026-11-10T22:01:56.740251+00:00",
       "status": "ok",
       "topLinks": [
         {
@@ -8900,7 +8788,7 @@
       "name": "龙谷大学",
       "nameJa": "龍谷大学",
       "domain": "https://www.ryukoku.ac.jp/",
-      "checkedAt": "2026-11-10T00:22:09.054621+00:00",
+      "checkedAt": "2026-11-10T22:02:24.548141+00:00",
       "status": "ok",
       "topLinks": [
         {
